@@ -36,10 +36,10 @@
     - Travel vouchers/documents.
     - Per MCO 11000.22, all Military Personnel inbound to MCBH must report to the Family Housing Office before entering into an off-base lease agreement or purchasing a home.
 
-[**YouTube MCBH New Arrival Video**](https://youtu.be/zBliWTzeX6M?si=G3_kXlu1kp16NjO-)
+### [**YouTube MCBH New Arrival Video**](https://youtu.be/zBliWTzeX6M?si=G3_kXlu1kp16NjO-)
 
 <details>
-  <summary>CLICK TO EXPAND Video Transcript</summary>
+  <summary>CLICK TO EXPAND YouTube Transcript of **MCBH New Arrival Video**</summary>
 
 Hello, my name is Allie Pilkington, and I serve as the Program Manager for Information Referral at Marine Corps Base Hawaii. I would like to provide you with a concise overview of the Marine and Family Programs division.
 
