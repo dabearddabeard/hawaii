@@ -2,8 +2,28 @@
 
 ## Command and Base Information
 
-3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
+**Command**: 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
+**Base**: Kaneohe Bay Hawaii Marine Corps Base
 
+Information: 
+- [**Naval Clinic Hospital Kaneohe Bay Information**](http://www.med.navy.mil/sites/nhch/Pages/default.aspx)
+    - Quarterdeck: 1-808-257-3365 x123
+    - Appointments: 1-808-473-0247
+    - After Hours Help: 1-808-473-0247 x3
+- [**Commissary**](http://www.commissaries.com/stores/html/store.cfm?dodaac=HQCWHV): Open 7 days a week 10:00am-6:00pm Sat-Mon and 10:00am-7:00pm Tue-Fri.
+- [**Exchange**](http://mccshawaii.com/retail/): MCX aboard Kaneohe is small but the Navy Exchange (NEX) is only 5 years old. 
+- [**Cars**](): The government will pay to ship one of your vehicles to Hawaii. If you want to ship more than one vehicle it will be at your expense. From the west coast it will cost around $1,000 and from the east coast it will cost around $2,000. The price depends on the type of vehicle you are shipping. Some families opt to store their second vehicle on the mainland. It is possible to survive a tour with one vehicle especially if you live on base. For those that prefer two vehicles, many opt to purchase an inexpensive vehicle (an island car) from the lemon lot on base.
+- **Pets**: There is a quarantine for all pets brought into Hawaii, but the waiting period will be substantially less if you do your homework in advance and are prepared for the requirements
+    - The DoD will reimburse up to $550 to help against the costs of quarantine for your animal.
+    - To quarantine for 5 days or less, [click for the requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). If you don’t pass those guidelines, your pet may be quarantined for up to 120 days.
+    - [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf)
+    - 
+- [**Pool**](http://www.mccshawaii.com/aquatics): A brand new year round pool (main pool) has just been opened on base and there are 4 other pools to utilize on base as well.
+- **Hourly Child Care Care**: Available by reservation for children 6 weeks+.
+    - Walk-ins are accepted on a space available basis.
+    - Everyone must be preregistered for information and reservations.
+    - Phone: 1-808-257-8354
+- [**Manawale’s Riding Center**](http://www.manawalea.org/): Hippotherapy (horse therapy)
 
 ## Military Housing for Kaneohe Bay Hawaii Marine Corps Base
 
