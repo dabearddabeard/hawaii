@@ -89,7 +89,7 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 
 [Ohana Military Communities](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty): Search by rank  
 
-- Current wait time estimates for O4-O5 and W5 <small>(the wait time will not begin until you’ve arrived on the island and been briefed by the MCFHO)</small>: 
+- Current wait time estimates for O4-O5 and W5 (wait time starts once on island): 
     - Mololani: 6-12 months
     - Kapoho and Kaluapuni: 12+ months
     - Manana (4bdr only): 3-6 months
