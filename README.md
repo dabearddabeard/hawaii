@@ -20,13 +20,13 @@
 - [**Commissary**](http://www.commissaries.com/stores/html/store.cfm?dodaac=HQCWHV): Open 7 days a week 10:00am-6:00pm Sat-Mon and 10:00am-7:00pm Tue-Fri.
 - [**Exchange**](http://mccshawaii.com/retail/): MCX aboard Kaneohe is small but the Navy Exchange (NEX) is only 5 years old. 
 - [**Cars**](): The government will pay to ship one of your vehicles to Hawaii. If you want to ship more than one vehicle it will be at your expense. From the west coast it will cost around $1,000 and from the east coast it will cost around $2,000. The price depends on the type of vehicle you are shipping. Some families opt to store their second vehicle on the mainland. It is possible to survive a tour with one vehicle especially if you live on base. For those that prefer two vehicles, many opt to purchase an inexpensive vehicle (an island car) from the lemon lot on base.
-- **Pets**: There is a quarantine for all pets brought into Hawaii, but the waiting period will be substantially less if you do your homework in advance and are prepared for the requirements
+- <u>Pets</u>: There is a quarantine for all pets brought into Hawaii, but the waiting period will be substantially less if you do your homework in advance and are prepared for the requirements
     - The DoD will reimburse up to $550 to help against the costs of quarantine for your animal.
     - MCO 11000.22 does not allow the following breeds: Pit Bull (American Staffordshire Bull Terrier or English Staffordshire Bull Terrier), Rottweiler, Presa Canarios, Doberman Pinscher, Chow Chow, Akitas, Mastiffs, Great Danes, Alaskan Malamutes, and wolf hybrids. 
     - To quarantine for 5 days or less, [click for the requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). If you don’t pass those guidelines, your pet may be quarantined for up to 120 days.
     - [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf): Start on page 15 then review the “Dog And Cat Import Form”, AQS-278.
-- [**Pool**](http://www.mccshawaii.com/aquatics): A brand new year round pool (main pool) has just been opened on base and there are 4 other pools to utilize on base as well.
-- **Hourly Child Care Care**: Available by reservation for children 6 weeks+.
+- [<u>Pool</u>](http://www.mccshawaii.com/aquatics): A brand new year round pool (main pool) has just been opened on base and there are 4 other pools to utilize on base as well.
+- <u>Hourly Child Care Care</u>: Available by reservation for children 6 weeks+.
     - Walk-ins are accepted on a space available basis.
     - Everyone must be preregistered for information and reservations.
     - Phone: 1-808-257-8354
@@ -36,9 +36,9 @@
 
 ## Inbound 
 
-- __Arriving With Family__: Make reservations at [The Inns of the Corps](https://goo.gl/maps/mUwxC7tu7cCzGZfy8), the temporary lodging facility on MCBH. If the Inns of the Corps are unavailable, request a statement of non-availability from them.
+- <u>Arriving With Family</u>: Make reservations at [The Inns of the Corps](https://goo.gl/maps/mUwxC7tu7cCzGZfy8), the temporary lodging facility on MCBH. If the Inns of the Corps are unavailable, request a statement of non-availability from them.
     - Any non-military lodging must be vetted through the TLA office to ensure that it is TLA-approved lodging.
-- __Family Housing Office and IPAC__: Must report within three working days of arrival.
+- <u>Family Housing Office and IPAC</u>: Must report within three working days of arrival.
     - Copies of endorsed original orders.
     - Detaching and reporting endorsement.
     - Travel vouchers/documents.
