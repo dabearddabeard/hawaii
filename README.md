@@ -16,6 +16,7 @@
 - [**Cars**](): The government will pay to ship one of your vehicles to Hawaii. If you want to ship more than one vehicle it will be at your expense. From the west coast it will cost around $1,000 and from the east coast it will cost around $2,000. The price depends on the type of vehicle you are shipping. Some families opt to store their second vehicle on the mainland. It is possible to survive a tour with one vehicle especially if you live on base. For those that prefer two vehicles, many opt to purchase an inexpensive vehicle (an island car) from the lemon lot on base.
 - **Pets**: There is a quarantine for all pets brought into Hawaii, but the waiting period will be substantially less if you do your homework in advance and are prepared for the requirements
     - The DoD will reimburse up to $550 to help against the costs of quarantine for your animal.
+    - MCO 11000.22 does not allow the following breeds: Pit Bull (American Staffordshire Bull Terrier or English Staffordshire Bull Terrier), Rottweiler, Presa Canarios, Doberman Pinscher, Chow Chow, Akitas, Mastiffs, Great Danes, Alaskan Malamutes, and wolf hybrids. 
     - To quarantine for 5 days or less, [click for the requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). If you don’t pass those guidelines, your pet may be quarantined for up to 120 days.
     - [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf): Start on page 15 then review the “Dog And Cat Import Form”, AQS-278.
 - [**Pool**](http://www.mccshawaii.com/aquatics): A brand new year round pool (main pool) has just been opened on base and there are 4 other pools to utilize on base as well.
@@ -78,10 +79,11 @@
 - Excellent community of spouses
 - utilities included
 
-[Ohana Military Communities](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty): Search by rank  
+### [Ohana Military Communities](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty): Search by rank  
 
 **Camp Smith**:
 - Ranks: O4, O5, and E9 only
+- Drive to MCBH: 17.5 miles, 25 min
 - Ocean and City Views
 - Contemporary Design
 - Central AC
@@ -89,6 +91,7 @@
 
 **Hawaii Loa**:
 - Ranks: E1-E9, O1-O6 families
+- Located on MCBH
 - 1-car garage
 - Patio
 - Central AC
@@ -96,6 +99,7 @@
 
 **Kaluapuni**:
 - Ranks: O4-O5
+- Drive to MCBH: 17.5 miles, 25 min
 - Two-Car Garage
 - 3 to 4 bedrooms
 - Central AC
