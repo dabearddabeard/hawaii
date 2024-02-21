@@ -25,11 +25,13 @@
     - MCO 11000.22 does not allow the following breeds: Pit Bull (American Staffordshire Bull Terrier or English Staffordshire Bull Terrier), Rottweiler, Presa Canarios, Doberman Pinscher, Chow Chow, Akitas, Mastiffs, Great Danes, Alaskan Malamutes, and wolf hybrids. 
     - To quarantine for 5 days or less, [click for the requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). If you don’t pass those guidelines, your pet may be quarantined for up to 120 days.
     - [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf): Start on page 15 then review the “Dog And Cat Import Form”, AQS-278.
-- [**Pool**](http://www.mccshawaii.com/aquatics): A brand new year round pool (main pool) has just been opened on base and there are 4 other pools to utilize on base as well.
 - [**Hourly Child Care Care**](#): Available by reservation for children 6 weeks+.
     - Walk-ins are accepted on a space available basis.
     - Everyone must be preregistered for information and reservations.
     - Phone: 1-808-257-8354
+- [**Recreation**](#)
+    - [Rentals](https://hawaii.usmc-mccs.org/recreation-fitness/rentals): Powerboat, Sailboat, Water Activity, Ourtdoor Recreation, Party Day, Miscellaneous
+    - [Pool](http://www.mccshawaii.com/aquatics): A brand new year round pool (main pool) has just been opened on base and there are 4 other pools to utilize on base as well.
 - [**Gymnastics**](https://hawaii.usmc-mccs.org/modules/media/download?id=660a595f-89b5-4b35-836a-ce45c2a79c1b&v=1): Dance Movement Academy
 - [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
 - [**MCCS Welcome Guide**](MCCS.pdf): Marine & Family Program Welcome Guide
