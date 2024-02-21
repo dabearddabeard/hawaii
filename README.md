@@ -30,7 +30,7 @@
     - Walk-ins are accepted on a space available basis.
     - Everyone must be preregistered for information and reservations.
     - Phone: 1-808-257-8354
-- [**Manawale’s Riding Center**](http://www.manawalea.org/): Hippotherapy (horse therapy)
+- [**Gymnastics**](https://hawaii.usmc-mccs.org/modules/media/download?id=660a595f-89b5-4b35-836a-ce45c2a79c1b&v=1): Dance Movement Academy
 - [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
 - [**MCCS Welcome Guide**](MCCS.pdf): Marine & Family Program Welcome Guide
 
