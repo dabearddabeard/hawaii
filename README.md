@@ -17,7 +17,6 @@ Information:
     - The DoD will reimburse up to $550 to help against the costs of quarantine for your animal.
     - To quarantine for 5 days or less, [click for the requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). If you don’t pass those guidelines, your pet may be quarantined for up to 120 days.
     - [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf)
-    - 
 - [**Pool**](http://www.mccshawaii.com/aquatics): A brand new year round pool (main pool) has just been opened on base and there are 4 other pools to utilize on base as well.
 - **Hourly Child Care Care**: Available by reservation for children 6 weeks+.
     - Walk-ins are accepted on a space available basis.
