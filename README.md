@@ -95,9 +95,10 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 
 - **Camp Smith**:
     - Ranks: O4, O5, and E9 only
+    - 
+    - Drive to MCBH: 17.5 miles, 25 min
     - Floor Plans:
         - #315 (4 Bedroom 2.5 Bathrooms, 2301 ft2)
-    - Drive to MCBH: 17.5 miles, 25 min
     - Ocean and City Views
     - Contemporary Design
     - Central AC
@@ -105,12 +106,12 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 
 - **Hawaii Loa**:
     - Ranks: E1-E9, O1-O6 families
+    - Located on MCBH
     - Floor Plans:
         - #A + #B (3 Bedroom 2.5 Bathrooms, 1200 ft2)
         - #C (4 Bedroom 3 Bathrooms, 1348 ft2)
         - #D (4 Bedroom 2.5 Bathrooms, 1349 ft2)
         - #E (4 Bedroom 2 Bathrooms, 1349 ft2)
-    - Located on MCBH
     - 1-car garage
     - Patio
     - Central AC
@@ -118,6 +119,7 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 
 - **Kaluapuni**:
     - Ranks: O4-O5
+    - 
     - Floor Plans:
         - #4 (3 Bedroom 2 Bathrooms, 2041 ft2)
         - #5 (3 Bedroom 2.5 Bathrooms, 2121 ft2)
@@ -132,6 +134,7 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 
 - **Kapoho**:
     - Ranks: O4-O5
+    - 
     - Floor Plans:
         - #314 (3 Bedroom 2 Bathrooms, 2007 ft2)
         - #313 (5 Bedroom 2.5 Bathrooms, 2300 ft2)
@@ -142,6 +145,8 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 
 - **Manana**:
     - Ranks: Staff NCO, Company Grade, and Field Grade Officer
+    - Drive to MCBH: 21.5 miles, 29 min
+    - Address: `840 Acacia Rd, Pearl City, HI 96782`
     - Floor Plans:
         - #311 (4 Bedroom 2.5 Bathrooms, 2085 ft2)
         - #312 (4 Bedroom 2.5 Bathrooms, 2144 ft2)
@@ -152,6 +157,7 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 
 - **Mololani**:
     - Ranks: E1-9, W1-W5, O1-O5
+    - 
     - Floor Plans:
         - #220 (3 Bedroom 2.5 Bathrooms, 1790 ft2)
         - #221 (3 Bedroom 2.5 Bathrooms, 1763 ft2)
@@ -169,6 +175,7 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 
 - **Nani Ulupau**:
     - Ranks: E1-9, W1-W5, O1-O5
+    - Located on MCBH
     - Floor Plans:
         - #226 (4 Bedroom 2.5 Bathrooms, 2110 ft2)
         - #227 (4 Bedroom 2.5 Bathrooms, 2062 ft2)
