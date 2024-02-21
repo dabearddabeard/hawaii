@@ -84,11 +84,6 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 - Excellent community of spouses
 - Utilities Included: Water, sewer, trash removal, and average electricity.
 - The resident is responsible for: Cable, phone, Internet and any overage charges incurred with respect to the Resident Energy Conservation Program (RECP).
-
-### Ohana Military Communities
-
-[Ohana Military Communities](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty): Search by rank  
-
 - Current wait time estimates for O4-O5 and W5 (wait time starts once on island): 
     - Mololani: 6-12 months
     - Kapoho and Kaluapuni: 12+ months
@@ -96,7 +91,7 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
     - Nani Ulupau (4bdr only): 9-12 months
     - Camp Smith: 6-12 months
 
-**Neighborhoods**:
+### Ohana Military Communities: [Search by Rank/Grade](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty)
 
 - **Camp Smith**:
     - Ranks: O4, O5, and E9 only
