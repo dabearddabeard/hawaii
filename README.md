@@ -2,14 +2,14 @@
 
 ## Checklist
 
-- :white_check_mark: Apples
 - :white_square_button: Bananas
 - :white_square_button: Peanut butter
+- :white_check_mark: Apples
 
 ## Command and Base Information
 
-- **_Command_**: 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
-- **_Base_**: Kaneohe Bay Hawaii Marine Corps Base
+- _Command_: 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
+- _Base_: Kaneohe Bay Hawaii Marine Corps Base
 
 ### Information: 
 
