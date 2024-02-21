@@ -78,7 +78,50 @@
 - Excellent community of spouses
 - utilities included
 
-[Ohana Military Communities](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty): Search by rank 
+[Ohana Military Communities](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty): Search by rank  
+
+**Camp Smith**:
+- Ranks: O4, O5, and E9 only
+- Ocean and City Views
+- Contemporary Design
+- Central AC
+- [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/camp-smith)
+
+**Hawaii Loa**:
+- Ranks: E1-E9, O1-O6 families
+- 1-car garage
+- Patio
+- Central AC
+- [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/hawaii-loa)
+
+**Kaluapuni**:
+- Ranks: O4-O5
+- Two-Car Garage
+- 3 to 4 bedrooms
+- Central AC
+- [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/kaluapuni)
+
+**Kapoho**:
+- Ranks: O4-O5
+- Two-Car Garage
+- 3-bedrooms
+- Central AC
+- [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/kapoho)
+
+**Manana**:
+- Ranks: Staff NCO, Company Grade, and Field Grade Officer
+- Two-Car Garage
+- outdoor swimming pool, community center, tennis courts, several tot-lot parks, and a fitness center.
+- Central AC
+- [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/manana)
+
+**Mololani**:
+- Ranks: Staff NCO, Company Grade, and Field Grade Officer
+- Two-Car Garage
+- "Newer" homes
+- dog park, outdoor pavilions, numerous tot lots, and a community center
+- Central AC
+- [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/mololani)
 
 ## Basic Allowance for Housing (BAH) 
 
