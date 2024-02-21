@@ -107,6 +107,7 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 - **Hawaii Loa**:
     - Ranks: E1-E9, O1-O6 families
     - Located on MCBH
+    - Address: `1571 Lawrence Rd, Kailua, HI 96734`
     - Floor Plans:
         - #A + #B (3 Bedroom, 2.5 Bathrooms, 1200 ft2)
         - #C (4 Bedroom, 3 Bathrooms, 1348 ft2)
@@ -119,7 +120,8 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 
 - **Kaluapuni**:
     - Ranks: O4-O5
-    - 
+    - Located on MCBH 
+    - Address: `1571 Lawrence Rd, Kailua, HI 96734`
     - Floor Plans:
         - #4 (3 Bedroom, 2 Bathrooms, 2041 ft2)
         - #5 (3 Bedroom, 2.5 Bathrooms, 2121 ft2)
@@ -134,7 +136,8 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 
 - **Kapoho**:
     - Ranks: O4-O5
-    - 
+    - Big Island?
+    - Address: `Laimana Ave, Pāhoa, HI 96778`
     - Floor Plans:
         - #314 (3 Bedroom, 2 Bathrooms, 2007 ft2)
         - #313 (5 Bedroom, 2.5 Bathrooms, 2300 ft2)
@@ -157,7 +160,8 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 
 - **Mololani**:
     - Ranks: E1-9, W1-W5, O1-O5
-    - 
+    - Located on MCBH
+    - Address: `1571 Lawrence Rd, Kailua, HI 96734`
     - Floor Plans:
         - #220 (3 Bedroom, 2.5 Bathrooms, 1790 ft2)
         - #221 (3 Bedroom, 2.5 Bathrooms, 1763 ft2)
@@ -176,6 +180,7 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 - **Nani Ulupau**:
     - Ranks: E1-9, W1-W5, O1-O5
     - Located on MCBH
+    - Address: `1571 Lawrence Rd, Kailua, HI 96734`
     - Floor Plans:
         - #226 (4 Bedroom, 2.5 Bathrooms, 2110 ft2)
         - #227 (4 Bedroom, 2.5 Bathrooms, 2062 ft2)
