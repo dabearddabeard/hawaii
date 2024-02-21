@@ -8,8 +8,8 @@
 
 ## Command and Base Information
 
-- _Command_: 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
-- _Base_: Kaneohe Bay Hawaii Marine Corps Base
+- __Command__: 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
+- __Base__: Kaneohe Bay Hawaii Marine Corps Base
 
 ### Information: 
 
