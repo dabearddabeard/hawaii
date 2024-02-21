@@ -48,7 +48,7 @@ Information:
 
 ## Basic Allowance for Housing (BAH) 
 
-Should we receive a BAH, expand the information provided below.
+### Should we receive a BAH, expand the information provided below.
 
 <details>
   <summary>CLICK TO EXPAND</summary>
