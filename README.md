@@ -95,8 +95,8 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 
 - **Camp Smith**:
     - Ranks: O4, O5, and E9 only
-    - 
     - Drive to MCBH: 17.5 miles, 25 min
+    - Address: `4 Elrod Rd, Aiea, HI 96701`
     - Floor Plans:
         - #315 (4 Bedroom, 2.5 Bathrooms, 2301 ft2)
     - Ocean and City Views
