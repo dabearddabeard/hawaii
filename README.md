@@ -170,17 +170,18 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
     - Two-Car Garage
     - outdoor swimming pool, community center, tennis courts, several tot-lot parks, and a fitness center.
     - Central AC
-    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/manana)
+    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/mololani)
 
-- #220 (3 Bedroom 2.5 Bathrooms, 1790 ft2)
-- #221 (3 Bedroom 2.5 Bathrooms, 1763 ft2)
-- #222 (4 Bedroom 2.5 Bathrooms, 1961 ft2)
-- #224 (3 Bedroom 2 Bathrooms, 1961 ft2)
-- #310 (3 Bedroom 2.5 Bathrooms, 1984 ft2)
-- #311 (4 Bedroom 2.5 Bathrooms, 2085 ft2)
-- #312 (4 Bedroom 2.5 Bathrooms, 2144 ft2)
-- #314 (3 Bedroom 2 Bathrooms, 2007 ft2)
-- #315 (4 Bedroom 2.5 Bathrooms, 2301 ft2)
+- **Nani Ulupau**:
+    - Ranks: E1-9, W1-W5, O1-O5
+    - Floor Plans:
+        - #226 (4 Bedroom 2.5 Bathrooms, 2110 ft2)
+        - #227 (4 Bedroom 2.5 Bathrooms, 2062 ft2)
+    - Two-Car Garage
+    - Newest community at MCBH
+    - Numerous playgrounds, half basketball courts, pavilions, splash park, two dog parks, and two community centers.
+    - Central AC
+    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/nani-ulupau)
 
 ## Basic Allowance for Housing (BAH) 
 
