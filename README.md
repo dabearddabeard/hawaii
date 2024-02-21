@@ -115,14 +115,6 @@
 - Central AC
 - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/manana)
 
-**Mololani**:
-- Ranks: Staff NCO, Company Grade, and Field Grade Officer
-- Two-Car Garage
-- "Newer" homes
-- dog park, outdoor pavilions, numerous tot lots, and a community center
-- Central AC
-- [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/mololani)
-
 ## Basic Allowance for Housing (BAH) 
 
 ### Should we receive a BAH, expand the information provided below.
