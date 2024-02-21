@@ -25,6 +25,7 @@
     - Phone: 1-808-257-8354
 - [**Manawale’s Riding Center**](http://www.manawalea.org/): Hippotherapy (horse therapy)
 - [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
+- [**MCCS Welcome Guide**](MCCS.pdf): Marine & Family Program Welcome Guide
 
 ## Inbound 
 
