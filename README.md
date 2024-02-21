@@ -23,11 +23,28 @@ Information:
     - Everyone must be preregistered for information and reservations.
     - Phone: 1-808-257-8354
 - [**Manawale’s Riding Center**](http://www.manawalea.org/): Hippotherapy (horse therapy)
+- [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain)
 
 ## Military Housing for Kaneohe Bay Hawaii Marine Corps Base
 
-[Ohana Military Communities](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty): Search by rank or pay grade and check out the neighborhoods
+[**Apply**](http://www.ohanamarinecorpscommunities.com/application) to housing as soon as we get orders because the wait list can be months.
+- Many of these homes have ocean views or are just blocks from the beach.
+- Excellent community of spouses
+- utilities included
 
+[Ohana Military Communities](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty): Search by rank 
+
+
+## Inbound 
+
+- Arriving With Family: Make reservations at [The Inns of the Corps](https://goo.gl/maps/mUwxC7tu7cCzGZfy8), the temporary lodging facility on MCBH. If the Inns of the Corps are unavailable, request a statement of non-availability from them.
+    - Any non-military lodging must be vetted through the TLA office to ensure that it is TLA-approved lodging.
+- Family Housing Office and Installation Personnel Administration Center (IPAC): Must report within three working days of arrival.
+    - Copies of endorsed original orders.
+    - Detaching and reporting endorsement.
+    - Travel vouchers/documents.
+    - Per MCO 11000.22, all Military Personnel inbound to MCBH must report to the Family Housing Office before entering into an off-base lease agreement or purchasing a home.
+- [YouTube MCBH New Arrival Video](https://youtu.be/zBliWTzeX6M?si=G3_kXlu1kp16NjO-)
 
 ## Basic Allowance for Housing (BAH) 
 
@@ -36,9 +53,11 @@ Should we receive a BAH, expand the information provided below.
 <details>
   <summary>CLICK TO EXPAND</summary>
 
-- **Military Housing Allowance Area:** Honolulu County, HI (HI408)
-- **ZIP Code:** 96863
-- **CY24 O-4 with Dependents Allowance:** $4,380
+**Military Housing Allowance Area:** Honolulu County, HI (HI408)
+**ZIP Code:** 96863
+**CY24 O-4 with Dependents Allowance:** $4,380
+
+If you are planning to live off base, visit [www.Homes.mil](www.Homes.mil).
 
 ### VA Loan Benefits
 
