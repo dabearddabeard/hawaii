@@ -2,10 +2,11 @@
 
 ## Command and Base Information
 
-**Command**: 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
-**Base**: Kaneohe Bay Hawaii Marine Corps Base
+- **Command**: 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
+- **Base**: Kaneohe Bay Hawaii Marine Corps Base
 
-Information: 
+### Information: 
+
 - [**Naval Clinic Hospital Kaneohe Bay Information**](http://www.med.navy.mil/sites/nhch/Pages/default.aspx)
     - Quarterdeck: 1-808-257-3365 x123
     - Appointments: 1-808-473-0247
@@ -16,7 +17,7 @@ Information:
 - **Pets**: There is a quarantine for all pets brought into Hawaii, but the waiting period will be substantially less if you do your homework in advance and are prepared for the requirements
     - The DoD will reimburse up to $550 to help against the costs of quarantine for your animal.
     - To quarantine for 5 days or less, [click for the requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). If you don’t pass those guidelines, your pet may be quarantined for up to 120 days.
-    - [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf)
+    - [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf): Start on page 15 then review the “Dog And Cat Import Form”, AQS-278.
 - [**Pool**](http://www.mccshawaii.com/aquatics): A brand new year round pool (main pool) has just been opened on base and there are 4 other pools to utilize on base as well.
 - **Hourly Child Care Care**: Available by reservation for children 6 weeks+.
     - Walk-ins are accepted on a space available basis.
@@ -24,16 +25,6 @@ Information:
     - Phone: 1-808-257-8354
 - [**Manawale’s Riding Center**](http://www.manawalea.org/): Hippotherapy (horse therapy)
 - [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
-
-## Military Housing for Kaneohe Bay Hawaii Marine Corps Base
-
-[**Apply**](http://www.ohanamarinecorpscommunities.com/application) to housing as soon as we get orders because the wait list can be months.
-- Many of these homes have ocean views or are just blocks from the beach.
-- Excellent community of spouses
-- utilities included
-
-[Ohana Military Communities](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty): Search by rank 
-
 
 ## Inbound 
 
@@ -44,7 +35,50 @@ Information:
     - Detaching and reporting endorsement.
     - Travel vouchers/documents.
     - Per MCO 11000.22, all Military Personnel inbound to MCBH must report to the Family Housing Office before entering into an off-base lease agreement or purchasing a home.
-- [YouTube MCBH New Arrival Video](https://youtu.be/zBliWTzeX6M?si=G3_kXlu1kp16NjO-)
+
+[**YouTube MCBH New Arrival Video**](https://youtu.be/zBliWTzeX6M?si=G3_kXlu1kp16NjO-)
+
+<details>
+  <summary>CLICK TO EXPAND Video Transcript</summary>
+
+Hello, my name is Allie Pilkington, and I serve as the Program Manager for Information Referral at Marine Corps Base Hawaii. I would like to provide you with a concise overview of the Marine and Family Programs division.
+
+Marine and Family Programs is a division of the Marine Corps Community Services (MCCS), dedicated to supporting Marines, Sailors, and their families through a wide range of services.
+
+The division comprises several departments: Family Readiness, Family Care, Personal and Professional Readiness, and Behavioral Health.
+
+Firstly, Marine Corps Family Team Building and Family Readiness offer L.I.N.K.S. classes, life skills and readiness training, deployment support, and family readiness programs.
+
+The Family Care Resource and Referral serves as a point of contact for Child and Youth Programs, the Child Development Center, Child Care, the Exceptional Family Member Program, and the School Liaison Program. Contact information for these services is readily available.
+
+Behavioral Health provides a variety of programs, including Family Advocacy, Community Counseling, New Parent Support, Sexual Assault Prevention, and Substance Abuse. Contact details and additional information can be found on their website.
+
+Our department, Information Referral and Relocation Services, offers services such as the lending locker, new arrivals orientation (soon to be available on the MCCS website), PCS and Moving Workshops, Sponsorship Training Classes, and Sponsorship Coordinator Training. Lending locker appointments, which are available free of charge for kitchen essentials during PCS, can be made by contacting us directly.
+
+Miss Mary Healy oversees the library, which offers a wealth of resources including books, DVDs, CDs, GoPros, telescopes, and access to computers, printers, fax machines, and copiers.
+
+Mr. Craig Lockwood is responsible for the Education Center, and Deborah Blunt manages the Personal Financial Management program. Marines arriving at their first duty station are required to complete the Personal Readiness Seminar within 90 days through Joint Knowledge Online.
+
+Mr. Jeff Esposito is the contact for the Transition Readiness Program, providing essential information for those transitioning out of service.
+
+An aerial view highlights the proximity of the Education Center, Transition Assistance, and the Library, facilitating easy access to these services.
+
+Miss Marie Calvo runs the Family Member Employment Assistance program, offering employment support for family members of Marines, Sailors, Reservists, and Retirees.
+
+Our Information Referral and Relocation Services are located in Building 579 on Reed Road, near the Officers Club, alongside other important services such as Marine Corps Family Team Building, FEMAP, FOCUS, and Head Start.
+
+For further inquiries, please contact us at 808-257-7786, visit our Facebook page, or explore our website.
+
+</details>
+
+## Military Housing for Kaneohe Bay Hawaii Marine Corps Base
+
+[**Apply**](http://www.ohanamarinecorpscommunities.com/application) to housing as soon as we get orders because the wait list can be months.
+- Many of these homes have ocean views or are just blocks from the beach.
+- Excellent community of spouses
+- utilities included
+
+[Ohana Military Communities](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty): Search by rank 
 
 ## Basic Allowance for Housing (BAH) 
 
