@@ -1,16 +1,16 @@
 # Hawaii
 
-## Command Information
+## Command and Base Information
+
 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
 
-## Base Information for Kaneohe Bay Marine Corps Base
 
 ## Military Housing for Kaneohe Bay Hawaii Marine Corps Base
 
-[Ohana Military Communities](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty): search by rank or pay grade and check out the neighborhoods
+[Ohana Military Communities](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty): Search by rank or pay grade and check out the neighborhoods
 
 
-## If given Basic Allowance for Housing (BAH) 
+## Basic Allowance for Housing (BAH) 
 
 - **Military Housing Allowance Area:** Honolulu County, HI (HI408)
 - **ZIP Code:** 96863
@@ -22,36 +22,48 @@
 - Absence of Private Mortgage Insurance (PMI)
 - Competitive interest rates
 
-### Monthly Budget: $4,380
+### Monthly Budget Breakdown
+- **Total Monthly Budget:** $4,380
+- **Utilities:** $711.87
+- **Remaining for Mortgage, Taxes, and Insurance:** $4,380 - $711.87 = $3,668.13
 
-1. **Interest Rate**: 3.5%
-2. **Loan Term**: 30 years
-3. **Down Payment**: $0
-4. **VA Funding Fee**: Approximately 2.3% for first-time use without a down payment, but this can be rolled into the loan amount, so exclude it from the monthly payment calculation.
-5. **Property Taxes and Insurance**: Assume combined property taxes and insurance are roughly 1.55% of the home's value per year (1.2% for taxes + 0.35% for insurance, as mentioned). For simplicity, estimate this on a monthly basis as part of the overall budget.
+### Calculating Property Taxes and Insurance
+- **Annual Property Taxes and Insurance Rate:** 1.55%
+- Estimating on a monthly basis, divide the annual rate by 12.
 
-### Calculation:
+### Mortgage Details
+- **Interest Rate:** 3.5% annually
+- **Loan Term:** 30 years (360 months)
+- **Down Payment:** $0
 
-- **Estimated Monthly Payment for Principal and Interest**: Using the total monthly budget, subtract an estimated amount for taxes and insurance. For a home valued at $600,000, property taxes (1.2%) would be approximately $7,200/year or $600/month, and insurance (0.35%) would be about $2,100/year or $175/month. So, $600 (taxes) + $175 (insurance) = $775/month for taxes and insurance.
-- **Available for P&I**: $4,380 - $775 = $3,605
+```python
 
-3.5% interest rate, a 30-year term, and setting the monthly payment to $3,605 for principal and interest, allows to back into an approximate loan amount. This is a simplification and the exact numbers will vary based on specific tax rates, insurance costs, and the final VA funding fee rolled into the loan.
+# Given data
+total_monthly_budget_for_mortgage_taxes_insurance = 3668.13
+annual_property_taxes_and_insurance_rate = 1.55 / 100  # converting percentage to decimal
+annual_interest_rate = 3.5 / 100  # converting percentage to decimal
+loan_term_years = 30
+loan_term_months = loan_term_years * 12
 
-For a rough estimate, with a monthly allocation of $3,605 for principal and interest, we will be looking at a loan amount around **$800,000 to $900,000**, assuming the rest of your budget covers taxes, insurance, and any applicable VA funding fee. This would correspond to a purchase price in a similar range, given the $0 down payment feature of VA loans.
+# Calculating the monthly property tax and insurance cost
+# Assuming the loan amount is the home value for this calculation
+home_value = 100  # placeholder value to calculate the rate effect
+annual_property_taxes_and_insurance = home_value * annual_property_taxes_and_insurance_rate
+monthly_property_taxes_and_insurance = annual_property_taxes_and_insurance / 12
 
+# The monthly mortgage payment amount (excluding taxes and insurance)
+monthly_mortgage_payment_excluding_taxes_insurance = total_monthly_budget_for_mortgage_taxes_insurance - monthly_property_taxes_and_insurance
 
+# Monthly interest rate
+monthly_interest_rate = annual_interest_rate / 12
 
+# Calculating the loan amount using the formula for the monthly payment of a mortgage
+# P = (r*PV) / (1 - (1 + r)^-n), where P is the monthly payment, r is the monthly interest rate, PV is the present value (loan amount), and n is the loan term in months.
+# Rearranging the formula to solve for PV (loan amount)
+loan_amount = monthly_mortgage_payment_excluding_taxes_insurance * (1 - (1 + monthly_interest_rate)**-loan_term_months) / monthly_interest_rate
 
+print(loan_amount)
+# 816845.3904291481
+```
 
-
-
-
-
-
-### Next Steps
-
-1. **Secure Pre-Approval for the VA Loan:** Obtaining pre-approval will ascertain our purchasing power and make us more attractive to sellers.
-2. **Market Research:** We will explore current listings in Honolulu County that fall within our price range, focusing on neighborhoods with promising investment potential.
-3. **Engage with a Local Real Estate Expert:** Consulting a real estate agent who specializes in the Honolulu County market will provide valuable insights into specific neighborhoods and properties that meet our needs.
-4. **Property Visits:** By viewing properties in person, we can gain a better understanding of what our budget allows and determine our most important criteria.
-5. **Long-Term Considerations:** We will consider potential life changes over the next three years and how they might influence our needs and the suitability of the home over time.
+Based on the provided information and calculations, the home loan amount, considering the total budget of $3,668.13 for mortgage, taxes, and insurance, is approximately **$816,845.39**
