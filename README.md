@@ -82,7 +82,8 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 [**Apply**](http://www.ohanamarinecorpscommunities.com/application) to housing as soon as we get orders because the wait list can be months.
 - Many of these homes have ocean views or are just blocks from the beach.
 - Excellent community of spouses
-- utilities included
+- Utilities Included: Water, sewer, trash removal, and average electricity.
+- The resident is responsible for: Cable, phone, Internet and any overage charges incurred with respect to the Resident Energy Conservation Program (RECP).
 
 ### [Ohana Military Communities](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty): Search by rank  
 
