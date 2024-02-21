@@ -2,7 +2,7 @@
 
 ## Checklist
 
-- [x] Apples
+- [:white_check_mark:] Apples
 - [ ] Bananas
 - [ ] Peanut butter
 
