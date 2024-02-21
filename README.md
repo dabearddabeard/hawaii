@@ -53,9 +53,9 @@ Should we receive a BAH, expand the information provided below.
 <details>
   <summary>CLICK TO EXPAND</summary>
 
-**Military Housing Allowance Area:** Honolulu County, HI (HI408)
-**ZIP Code:** 96863
-**CY24 O-4 with Dependents Allowance:** $4,380
+- **Military Housing Allowance Area:** Honolulu County, HI (HI408)
+- **ZIP Code:** 96863
+- **CY24 O-4 with Dependents Allowance:** $4,380
 
 If you are planning to live off base, visit [www.Homes.mil](www.Homes.mil).
 
