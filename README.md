@@ -1,5 +1,11 @@
 # Kaneohe Bay, HI
 
+## Checklist
+
+- [x] Apples
+- [ ] Bananas
+- [ ] Peanut butter
+
 ## Command and Base Information
 
 - **_Command_**: 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
