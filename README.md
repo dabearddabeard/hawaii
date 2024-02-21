@@ -35,7 +35,7 @@
     - [Rentals](https://hawaii.usmc-mccs.org/recreation-fitness/rentals): Powerboat, Sailboat, Water Activity, Ourtdoor Recreation, Party Day, Miscellaneous
     - [Pool](http://www.mccshawaii.com/aquatics): A brand new year round pool (main pool) has just been opened on base and there are 4 other pools to utilize on base as well.
     - [**Gymnastics**](https://hawaii.usmc-mccs.org/modules/media/download?id=660a595f-89b5-4b35-836a-ce45c2a79c1b&v=1): Dance Movement Academy
-    - [**ABC**](abc): ABC
+    - [**Beaches**](https://hawaii.usmc-mccs.org/recreation-fitness/beaches): North Beach, 
     - [**ABC**](abc): ABC
     - [**ABC**](abc): ABC
     - [**ABC**](abc): ABC
