@@ -23,7 +23,7 @@ Information:
     - Everyone must be preregistered for information and reservations.
     - Phone: 1-808-257-8354
 - [**Manawale’s Riding Center**](http://www.manawalea.org/): Hippotherapy (horse therapy)
-- [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain)
+- [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
 
 ## Military Housing for Kaneohe Bay Hawaii Marine Corps Base
 
