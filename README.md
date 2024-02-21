@@ -87,43 +87,50 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 
 ### [Ohana Military Communities](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty): Search by rank  
 
-    - **Camp Smith**:
-        - Ranks: O4, O5, and E9 only
-        - Drive to MCBH: 17.5 miles, 25 min
-        - Ocean and City Views
-        - Contemporary Design
-        - Central AC
-        - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/camp-smith)
-    
-    - **Hawaii Loa**:
-        - Ranks: E1-E9, O1-O6 families
-        - Located on MCBH
-        - 1-car garage
-        - Patio
-        - Central AC
-        - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/hawaii-loa)
-    
-    - **Kaluapuni**:
-        - Ranks: O4-O5
-        - Drive to MCBH: 17.5 miles, 25 min
-        - Two-Car Garage
-        - 3 to 4 bedrooms
-        - Central AC
-        - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/kaluapuni)
-    
-    - **Kapoho**:
-        - Ranks: O4-O5
-        - Two-Car Garage
-        - 3-bedrooms
-        - Central AC
-        - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/kapoho)
-    
-    - **Manana**:
-        - Ranks: Staff NCO, Company Grade, and Field Grade Officer
-        - Two-Car Garage
-        - outdoor swimming pool, community center, tennis courts, several tot-lot parks, and a fitness center.
-        - Central AC
-        - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/manana)
+Current wait time estimates for O4-O5 and W5 (the wait time will not begin until you’ve arrived on the island and been briefed by the MCFHO): 
+- Mololani: 6-12 months
+- Kapoho and Kaluapuni: 12+ months
+- Manana (4bdr only): 3-6 months
+- Nani Ulupau (4bdr only): 9-12 months
+- Camp Smith: 6-12 months
+
+- **Camp Smith**:
+    - Ranks: O4, O5, and E9 only
+    - Drive to MCBH: 17.5 miles, 25 min
+    - Ocean and City Views
+    - Contemporary Design
+    - Central AC
+    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/camp-smith)
+
+- **Hawaii Loa**:
+    - Ranks: E1-E9, O1-O6 families
+    - Located on MCBH
+    - 1-car garage
+    - Patio
+    - Central AC
+    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/hawaii-loa)
+
+- **Kaluapuni**:
+    - Ranks: O4-O5
+    - Drive to MCBH: 17.5 miles, 25 min
+    - Two-Car Garage
+    - 3 to 4 bedrooms
+    - Central AC
+    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/kaluapuni)
+
+- **Kapoho**:
+    - Ranks: O4-O5
+    - Two-Car Garage
+    - 3-bedrooms
+    - Central AC
+    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/kapoho)
+
+- **Manana**:
+    - Ranks: Staff NCO, Company Grade, and Field Grade Officer
+    - Two-Car Garage
+    - outdoor swimming pool, community center, tennis courts, several tot-lot parks, and a fitness center.
+    - Central AC
+    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/manana)
 
 ## Basic Allowance for Housing (BAH) 
 
