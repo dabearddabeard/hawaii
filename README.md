@@ -2,9 +2,9 @@
 
 ## Checklist
 
-:white_check_mark: Apples
-:white_square_button: Bananas
-:white_square_button: Peanut butter
+- :white_check_mark: Apples
+- :white_square_button: Bananas
+- :white_square_button: Peanut butter
 
 ## Command and Base Information
 
