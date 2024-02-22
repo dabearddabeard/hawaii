@@ -1,5 +1,3 @@
-# Kaneohe Bay, HI
-
 **Checklist** <br>
 > :white_square_button: CDC Preregistration <br>
 > :white_square_button: Pet Guidelines <br>
@@ -8,12 +6,12 @@
 > :white_square_button: Item 5 <br>
 > :ballot_box_with_check: Submit required documents to Family Housing Department <br>
 
-## Command and Base Information
+# Command and Base Information
 
 - [**Command**](#): 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
 - [**Base**](#): Kaneohe Bay Hawaii Marine Corps Base
 
-### Information: 
+## Information: 
 
 - [**Naval Clinic Hospital Kaneohe Bay Information**](http://www.med.navy.mil/sites/nhch/Pages/default.aspx)
     - Quarterdeck: 1-808-257-3365 x123
@@ -26,7 +24,7 @@
 - [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
 - [**MCCS Welcome Guide**](MCCS.pdf): Marine & Family Program Welcome Guide
 
-### Cars
+## Cars
 
 The government covers the cost of shipping one vehicle to Hawaii. Shipping additional vehicles costs about $1,000 from the west coast and $2,000 from the east coast, varying by vehicle type. Some families choose to store a second vehicle on the mainland. Living on base may make managing with one vehicle feasible. Alternatively, purchasing an inexpensive 'island car' from the base's lemon lot is a common choice for those needing a second vehicle.  
 
@@ -45,7 +43,7 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
 
 </details>
 
-### Pets
+## Pets
 
 **Pets**: All pets entering Hawaii are subject to quarantine. However, preparing in advance and understanding the requirements can significantly reduce the waiting period. The DoD offers up to $550 in reimbursement for quarantine expenses.
 - To quarantine for 5 days or less, [click for the requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). If you don’t pass those guidelines, your pet may be quarantined for up to 120 days.
@@ -66,7 +64,7 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
 
 </details>
 
-### Hourly Child Care and Child Development Centers (CDCs)
+## Hourly Child Care and Child Development Centers (CDCs)
 
 **Child & Youth Resource & Referral**
 Immediately upon receiving your official orders, register at MilitaryChildcare.com to join the waitlist. For any enrollment queries, the Resource & Referral should be your **FIRST** point of contact. 
@@ -117,7 +115,7 @@ To register, parents must complete the Child Development Center (CDC) packet and
 
 </details>
 
-### On-Base Recreation
+## On-Base Recreation
 - [Rentals](https://hawaii.usmc-mccs.org/recreation-fitness/rentals): Powerboat, Sailboat, Water Activity, Ourtdoor Recreation, Party Day, Miscellaneous
 - [Main Pool](https://hawaii.usmc-mccs.org/recreation-fitness/pools): The Main Base Pool is a 50m pool with a depth ranging from 3ft to 12ft, offering 11 lanes for lap swimming, recreational swimming, swim lessons, and Sharks Club Team Practice.
     - Address: `1196 5th St, Kailua, HI 96734`
@@ -136,7 +134,7 @@ To register, parents must complete the Child Development Center (CDC) packet and
     - Address: `G Street, Building 3037, Marine Corps Base Hawaii (MCBH), Kaneohe Bay, Hawaii 96863`
     - [Google Maps](https://maps.app.goo.gl/GBU1Cf2Dy7JezQBGA)
  
-### Off-Base 
+## Off-Base 
 
 <details>
   <summary>CLICK TO EXPAND Off-Base Gyms</summary>
@@ -215,7 +213,7 @@ To register, parents must complete the Child Development Center (CDC) packet and
 
 </details>
 
-## Inbound 
+# Inbound Process
 
 - [**Arriving With Family**](#): Make reservations at [The Inns of the Corps](https://goo.gl/maps/mUwxC7tu7cCzGZfy8), the temporary lodging facility on MCBH. If the Inns of the Corps are unavailable, request a statement of non-availability from them.
     - Any non-military lodging must be vetted through the TLA office to ensure that it is TLA-approved lodging.
@@ -259,7 +257,7 @@ To register, parents must complete the Child Development Center (CDC) packet and
         <br>
         </details>
 
-## Military Housing for Kaneohe Bay Hawaii Marine Corps Base
+# Military Housing for Kaneohe Bay Hawaii Marine Corps Base
 
 Please be advised that any email or attachment containing sensitive Personally Identifiable Information (PII), such as Social Security numbers, dates of birth, home addresses, telephone numbers, marital status, names of family members, or sex offender status, must be sent via an official Department of Defense (DoD) email. Furthermore, it must be encrypted and digitally signed in accordance with DoD policy. This requirement pertains to sensitive PII included in documents such as the DD Form 1746, "Application for Assignment to Housing," Registered Sex Offender forms, and any other forms or information provided to the Family Housing Office. The transmission of this type of information through unencrypted or personal email is unauthorized and poses a risk of exposing sensitive information to entities that may use it for malicious purposes.
 
@@ -296,7 +294,7 @@ Apply to [Ohana Hunt Military Communities](http://www.ohanamarinecorpscommunitie
 - Nani Ulupau (4-bedroom only): 9-12 months
 - Camp Smith: 6-12 months.
 
-### MCBH Family Housing Department Application Process Flow Chart
+## MCBH Family Housing Department Application Process Flow Chart
 
 The application process for family housing involves the Military Housing Office (MHO) and the Public-Private Venture (PPV).
 
@@ -327,7 +325,7 @@ Interested in PPV Housing? ✔️ YES
 
 </details>
 
-### Ohana Military Communities
+## Ohana Military Communities
 
 12 locations throughout O'ahu  
 
@@ -454,22 +452,22 @@ Should we receive a BAH, expand the information provided below.
 
 If you are planning to live off base, visit [www.Homes.mil](www.Homes.mil).
 
-### VA Loan Benefits
+## VA Loan Benefits
 
 - No down payment requirement
 - Absence of Private Mortgage Insurance (PMI)
 - Competitive interest rates
 
-### Monthly Budget Breakdown
+## Monthly Budget Breakdown
 - **Total Monthly Budget:** $4,380
 - **Utilities:** $711.87
 - **Remaining for Mortgage, Taxes, and Insurance:** $4,380 - $711.87 = $3,668.13
 
-### Calculating Property Taxes and Insurance
+## Calculating Property Taxes and Insurance
 - **Annual Property Taxes and Insurance Rate:** 1.55%
 - Estimating on a monthly basis, divide the annual rate by 12.
 
-### Mortgage Details
+## Mortgage Details
 - **Interest Rate:** 3.5% annually
 - **Loan Term:** 30 years (360 months)
 - **Down Payment:** $0
