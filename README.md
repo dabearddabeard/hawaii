@@ -3,7 +3,7 @@
 > :white_square_button: Pet Guidelines <br>
 > :white_square_button: Item 3 <br>
 > :white_square_button: Item 4 <br>
-> :white_square_button: Item 5 <br>
+> :ballot_box_with_check: MilitaryChildcare.com <br>
 > :ballot_box_with_check: Submit required documents to Family Housing Department <br>
 
 # Command and Base Information
@@ -83,7 +83,6 @@ To register, parents must complete the Child Development Center (CDC) packet and
 1. [MilitaryChildcare.com](MilitaryChildcare.com)
     - Create Account
     - Create Household Profile
-    - 
 - [Welcome Guide to Marine & Family Program](https://hawaii.usmc-mccs.org/modules/media/download?id=1f3216d4-f17c-4ecc-a5be-adca0db47ea3&v=1)
 - [NAVMC 11798 EF 8744](https://hawaii.usmc-mccs.org/modules/media/download?id=a972d743-80c8-4b6c-9282-2adcba1df694&v=1)
 
