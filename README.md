@@ -207,14 +207,14 @@ Interested in PPV Housing?
             -> SM reports to FHO for Check-In Brief
               -> Application referred to PPV Partner for waitlist
                 -> PPV Partner contacts SM with an offer?
-                  - YES
+                  ✔️ YES
                     -> SM accepts offer?
                       - YES -> Proceed to FHO for CNA issuance
                       - NO -> 2nd and final offer made
                           - Accept? 
                             - YES -> Proceed to FHO for CNA issuance
                             - NO -> Removed from waitlist
-                  - NO
+                  ❌ NO
                     -> SM seeks Off-Base Housing or remains on waitlist with lease copy
 
 ```
