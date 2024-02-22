@@ -144,15 +144,25 @@ To register, parents must complete the Child Development Center (CDC) packet and
 
 <br>
 
+**Breakfast Buffet**
+- When: Every morning from 0630 to 1100
+- Where: Koko at Kalia
+- [Purchase Tickets](https://secure.ticketsage.net/websales.aspx?u=halekoa):
+    - Adult: $26.95
+    - E1-E6: $23.95
+    - Seniors (65+): $23.95
+    - Children (5-11): $10.95
+    - Children 4 and under eat free with paying adult
+
 **Prime Rib & Seafood Buffet**
 - When: Friday Evenings from 1700-2030
 - Where: Banyan Tree Showroom
 - $8.00 validated parking
 - [Purchase Tickets](https://secure.ticketsage.net/websales.aspx?u=halekoa):
-    - Adult: $75
-    - E1-E6: $65
-    - Youth (12-17): $30
-    - Child (5-11): $20
+    - Adult: $75.00
+    - E1-E6: $65.00
+    - Youth (12-17): $30.00
+    - Children (5-11): $20.00
     - Children 4 and under eat free with paying adult
 
 <br>
