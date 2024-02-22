@@ -17,7 +17,9 @@
     - Quarterdeck: 1-808-257-3365 x123
     - Appointments: 1-808-473-0247
     - After Hours Help: 1-808-473-0247 x3
-- [**Commissary**](http://www.commissaries.com/stores/html/store.cfm?dodaac=HQCWHV): Open 7 days a week 10:00am-6:00pm Sat-Mon and 10:00am-7:00pm Tue-Fri.
+- [**Commissary**](http://www.commissaries.com/stores/html/store.cfm?dodaac=HQCWHV): 
+    - Open 7 days a week: 0900-1800
+    - Address: `Bldg 6088, Mokapu Rd, MCBH, HI 96863`
 - [**Exchange**](http://mccshawaii.com/retail/): MCX aboard Kaneohe is small but the Navy Exchange (NEX) is only 5 years old. 
 - [**Cars**](#): The government will pay to ship one of your vehicles to Hawaii. If you want to ship more than one vehicle it will be at your expense. From the west coast it will cost around $1,000 and from the east coast it will cost around $2,000. The price depends on the type of vehicle you are shipping. Some families opt to store their second vehicle on the mainland. It is possible to survive a tour with one vehicle especially if you live on base. For those that prefer two vehicles, many opt to purchase an inexpensive vehicle (an island car) from the lemon lot on base.
 - [**Pets**](#): There is a quarantine for all pets brought into Hawaii, but the waiting period will be substantially less if you do your homework in advance and are prepared for the requirements
@@ -39,12 +41,12 @@
         - [Kupulau CDC](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers)
             - Mon-Fri: 0615-1715
             - Sat-Sun: Closed
-            - Address: Cushman Avenue, Building 6111, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734
+            - Address: `Cushman Avenue, Building 6111, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734`
             - Phone: 1-808-496-1388
         - [Laulima Child Development Center](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers):
             - Mon-Fri: 0615-1715
             - Sat-Sun: Closed
-            - Address: McClennan Drive, Building 6782, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734
+            - Address: `McClennan Drive, Building 6782, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734`
             - Phone: 1-808-496-2038
 - [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
 - [**MCCS Welcome Guide**](MCCS.pdf): Marine & Family Program Welcome Guide
