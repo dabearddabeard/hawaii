@@ -186,6 +186,41 @@ Apply to [Ohana Hunt Military Communities](http://www.ohanamarinecorpscommunitie
 - Nani Ulupau (4-bedroom only): 9-12 months
 - Camp Smith: 6-12 months.
 
+### MCBH Family Housing Department Application Process Flow Chart
+
+The application process for family housing involves the Military Housing Office (MHO) and the Public-Private Venture (PPV).
+
+<br>
+
+<details>
+  <summary>CLICK TO EXPAND Flow Chart</summary>
+    
+<br>
+
+Interested in PPV Housing? 
+-> YES
+  -> Receive web/PCS orders to Hawaii
+    -> Submit required documents to FHO
+      -> FHO reviews documents
+        -> Confirmation of receipt/welcome email sent to SM
+          -> SM reports to unit IPAC/Admin (Navy) & TLA Office for briefing
+            -> SM reports to FHO for Check-In Brief
+              -> Application referred to PPV Partner for waitlist
+                -> PPV Partner contacts SM with an offer?
+                  - YES
+                    -> SM accepts offer?
+                      - YES -> Proceed to FHO for CNA issuance
+                      - NO -> 2nd and final offer made
+                          - Accept? 
+                            - YES -> Proceed to FHO for CNA issuance
+                            - NO -> Removed from waitlist
+                  - NO
+                    -> SM seeks Off-Base Housing or remains on waitlist with lease copy
+
+<br>
+
+</details>
+
 ### Ohana Military Communities
 
 12 locations throughout O'ahu  
