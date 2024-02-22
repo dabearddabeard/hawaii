@@ -1,8 +1,8 @@
 # Kaneohe Bay, HI
 
 **Checklist**
-    > :white_square_button: Item 1 <br>
-    > :white_square_button: Item 2 <br>
+    > :white_square_button: CDC Preregistration <br>
+    > :white_square_button: Pet Guidelines <br>
     > :white_square_button: Item 3 <br>
     > :white_square_button: Item 4 <br>
     > :white_square_button: Item 5 <br>
@@ -23,8 +23,8 @@
     - Open 7 days a week: 0900-1800
     - Address: `Bldg 6088, Mokapu Rd, MCBH, HI 96863`
 - [**Exchange**](http://mccshawaii.com/retail/): MCX aboard Kaneohe is small but the Navy Exchange (NEX) is only 5 years old. 
-- [**Cars**](#): The government will pay to ship one of your vehicles to Hawaii. If you want to ship more than one vehicle it will be at your expense. From the west coast it will cost around $1,000 and from the east coast it will cost around $2,000. The price depends on the type of vehicle you are shipping. Some families opt to store their second vehicle on the mainland. It is possible to survive a tour with one vehicle especially if you live on base. For those that prefer two vehicles, many opt to purchase an inexpensive vehicle (an island car) from the lemon lot on base.
-- [**Pets**](#): All pets entering Hawaii are subject to quarantine. However, preparing in advance and understanding the requirements can significantly reduce the waiting period. The DoD offers up to $550 in reimbursement for quarantine expenses. According to MCO 11000.22, the following breeds are not permitted: Pit Bull (American Staffordshire Bull Terrier or English Staffordshire Bull Terrier), Rottweiler, Presa Canarios, Doberman Pinscher, Chow Chow, Akitas, Mastiffs, Great Danes, Alaskan Malamutes, and wolf hybrids.
+- **Cars**: The government covers the cost of shipping one vehicle to Hawaii. Shipping additional vehicles costs about $1,000 from the west coast and $2,000 from the east coast, varying by vehicle type. Some families choose to store a second vehicle on the mainland. Living on base may make managing with one vehicle feasible. Alternatively, purchasing an inexpensive 'island car' from the base's lemon lot is a common choice for those needing a second vehicle.
+- **Pets**: All pets entering Hawaii are subject to quarantine. However, preparing in advance and understanding the requirements can significantly reduce the waiting period. The DoD offers up to $550 in reimbursement for quarantine expenses.
     - To quarantine for 5 days or less, [click for the requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). If you don’t pass those guidelines, your pet may be quarantined for up to 120 days.
     - [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf): Start on page 15 then review the “Dog And Cat Import Form”, AQS-278.
 - [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
