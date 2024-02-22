@@ -75,31 +75,31 @@
     - 27 min (16 mi) drive from MCBH
     - Services: Yoga, Pilates (reformer equipment), Cycling, 
     - [Spa](https://thrivemedspa.com): Anti-Aging Medicine, Injectable Certified Aesthetic Nurse, Nurse Practitioner, Aestheticians, Massage Therapist, Lipo, 
-    - Childcare: ![No!](data:image/svg+xml;base64,CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTAiIGhlaWdodD0iMzAiPgogICAgPHRleHQgeD0iMTAiIHk9IjIwIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMjAiIGZpbGw9InJlZCI+Tm8hPC90ZXh0Pgo8L3N2Zz4K)
+    - Childcare: :x:
 - [UFC GYM | KAILUA, Kailua](https://www.ufcgym.com/locations/kailua)
     - Address: `573 Kailua Rd, Kailua, HI 96734`
     - 12 min (4.7 mi) from MCBH
     - 24 hrs / 7 days a week
     - Services: weight and cardio rooms,
-    - Kids Club childcare: ?
+    - Kids Club childcare: :hourglass_flowing_sand:?
 - [UFC GYM | HONOLULU, Honolulu](https://www.ufcgym.com/locations/honolulu)
     - Address: `95805 Pohukaina St, Honolulu, HI 96813`
     - 25 min (15 mi) from MCBH
     - 24 hrs / 7 days a week
     - Services: Yoga Flow, weight and cardio rooms, Sauna
-    - Kids Club childcare: ?
+    - Kids Club childcare: :hourglass_flowing_sand:?
 - [UFC GYM | MILILANI, Mililani](https://www.ufcgym.com/locations/mililani)
     - Address: `95-1249 Meheula Pkwy, Mililani, HI 96789`
     - 33 min (28 mi) from MCBH
     - 24 hrs / 7 days a week
     - Services: Yoga Flow, weight and cardio rooms, Sauna
-    - Kids Club childcare: ?
+    - Kids Club childcare: :hourglass_flowing_sand:?
 - [UFC GYM | WAIKELE, Waipahu](https://www.ufcgym.com/locations/waikele)
     - Address: `94 Lumiaina St, Waipahu, HI 96797`
     - 28 min (24 mi) from MCBH
     - 24 hrs / 7 days a week
     - Classes: Yoga Flow, weight and cardio rooms,
-    - Kids Club childcare: ?
+    - Kids Club childcare: :hourglass_flowing_sand:?
 
 <br>
 
