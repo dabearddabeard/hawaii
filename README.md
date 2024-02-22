@@ -37,8 +37,6 @@ As soon as you receive your official orders, sign up on Military childcare.com t
 - Phone: (808) 257-7430 
 - Location: Lawrence Road, Bldg 5082
 
-<br>
-
 **Child Development Centers (CDCs)** offers full-day and hourly child care for children (six weeks to five years old) and is available at Laulima and Kupulau Child Development Centers on MCBH. Walk-ins are welcomed based on availability. Hourly child care is available without the need for a request on militarychildcare.com, but preregistration is mandatory for all. 
 
 <details>
