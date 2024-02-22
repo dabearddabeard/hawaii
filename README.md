@@ -83,7 +83,9 @@ To register, parents must complete the Child Development Center (CDC) packet and
 
 ### On-Base Recreation
 - [Rentals](https://hawaii.usmc-mccs.org/recreation-fitness/rentals): Powerboat, Sailboat, Water Activity, Ourtdoor Recreation, Party Day, Miscellaneous
-- [Pools](https://hawaii.usmc-mccs.org/recreation-fitness/pools): The Main Base Pool is a 50m pool with a depth ranging from 3ft to 12ft, offering 11 lanes for lap swimming, recreational swimming, swim lessons, and Sharks Club Team Practice.
+- [Main Pool](https://hawaii.usmc-mccs.org/recreation-fitness/pools): The Main Base Pool is a 50m pool with a depth ranging from 3ft to 12ft, offering 11 lanes for lap swimming, recreational swimming, swim lessons, and Sharks Club Team Practice.
+    - Address: `1196 5th St, Kailua, HI 96734`
+    - [Google Maps](https://maps.app.goo.gl/n377UTu2cPDpQfy39)
     - Monday: Closed
     - Tue-Fri:
         - Lap Swim: 1100-1700
