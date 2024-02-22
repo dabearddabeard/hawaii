@@ -1,8 +1,8 @@
 **Checklist** <br>
-> :white_square_button: CDC Preregistration <br>
+> :white_square_button: CDC Preregistration Forms <br>
 > :white_square_button: Pet Guidelines <br>
-> :white_square_button: Item 3 <br>
-> :white_square_button: Item 4 <br>
+> :white_square_button: Movers <br>
+> :white_square_button: Checkout <br>
 > :ballot_box_with_check: MilitaryChildcare.com <br>
 > :ballot_box_with_check: Submit required documents to Family Housing Department <br>
 
