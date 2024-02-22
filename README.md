@@ -33,9 +33,13 @@
 - [**MCCS Welcome Guide**](MCCS.pdf): Marine & Family Program Welcome Guide
 - [**Recreation**](#)
     - [Rentals](https://hawaii.usmc-mccs.org/recreation-fitness/rentals): Powerboat, Sailboat, Water Activity, Ourtdoor Recreation, Party Day, Miscellaneous
-    - [Pool](http://www.mccshawaii.com/aquatics): A brand new year round pool (main pool) has just been opened on base and there are 4 other pools to utilize on base as well.
-    - [**Gymnastics**](https://hawaii.usmc-mccs.org/modules/media/download?id=660a595f-89b5-4b35-836a-ce45c2a79c1b&v=1): Dance Movement Academy
-    - [**Beaches**](https://hawaii.usmc-mccs.org/recreation-fitness/beaches): North Beach, 
+    - [Pool](http://www.mccshawaii.com/aquatics): Main Pool, Hilltop Pool, Camp Smith Pool, Manana Pool
+        - [Main Pool](https://hawaii.usmc-mccs.org/recreation-fitness/pools): 
+            - Mon: Closed
+            - Tue-Fri: Lap Swim 1100-1700, Rec Swim 1400-1700
+            - Sat-Sun: Lap and Rec Swim 1200-1700
+    - [Gymnastics](https://hawaii.usmc-mccs.org/modules/media/download?id=660a595f-89b5-4b35-836a-ce45c2a79c1b&v=1): Dance Movement Academy
+    - [Beaches](https://hawaii.usmc-mccs.org/recreation-fitness/beaches): North Beach, Pyramid Rock Beach, Hale Koa Beach, Pali Kilo Beach, Ft Hase Beach 
     - [**ABC**](abc): ABC
     - [**ABC**](abc): ABC
     - [**ABC**](abc): ABC
