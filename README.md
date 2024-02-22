@@ -208,9 +208,9 @@ Interested in PPV Housing? ✔️ YES
                                     -> SM accepts offer?
                                         ✔️ YES -> Proceed to FHO for CNA issuance
                                         ❌ NO -> 2nd and final offer made
-                                    - Accept? 
-                                        ✔️ YES -> Proceed to FHO for CNA issuance
-                                        ❌ NO -> Removed from waitlist
+                                            - Accept? 
+                                                ✔️ YES -> Proceed to FHO for CNA issuance
+                                                ❌ NO -> Removed from waitlist
                                 ❌ NO
                                     -> SM seeks Off-Base Housing or remains on waitlist with lease copy
 
