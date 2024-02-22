@@ -2,12 +2,12 @@
 
 ## Checklist
 
-> :white_square_button: Item 1 <br>
-> :white_square_button: Item 2 <br>
-> :white_square_button: Item 3 <br>
-> :white_square_button: Item 4 <br>
-> :white_square_button: Item 5 <br>
-> :ballot_box_with_check: Submit required documents to Family Housing Department <br>
+    > :white_square_button: Item 1 <br>
+    > :white_square_button: Item 2 <br>
+    > :white_square_button: Item 3 <br>
+    > :white_square_button: Item 4 <br>
+    > :white_square_button: Item 5 <br>
+    > :ballot_box_with_check: Submit required documents to Family Housing Department <br>
 
 ## Command and Base Information
 
