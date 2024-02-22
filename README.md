@@ -70,6 +70,7 @@
 - [Island Club & Spa](https://islandclubandspa.com/): Luxury Gym
     - Address: `1177 Queen St, Honolulu, HI 96814`
     - 7 days a week: 0500-2100
+    - 27 min (16 mi) drive from MCBH
 
 ## Inbound 
 
