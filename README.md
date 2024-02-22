@@ -27,8 +27,15 @@
     - [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf): Start on page 15 then review the “Dog And Cat Import Form”, AQS-278.
 - [**Hourly Child Care Care**](#): Available by reservation for children 6 weeks+.
     - Walk-ins are accepted on a space available basis.
+    - Hourly child care does not require parents to make a request on militarychildcare.com.
     - Everyone must be preregistered for information and reservations.
-    - Phone: 1-808-257-8354
+    - Parents need to complete and submit the Child Development Center (CDC) packet and provide the necessary supporting documents to register their child.
+    - Child Development Centers (CDCs)
+        - [Kupulau CDC](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers)
+            - Mon-Fri: 0615-1715
+            - Sat-Sun: Closed
+            - Address: Cushman Avenue, Building 6111, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734
+        - [Laulima Child Development Center](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers):
 - [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
 - [**MCCS Welcome Guide**](MCCS.pdf): Marine & Family Program Welcome Guide
 - [**On-Base Recreation**](#)
@@ -44,9 +51,6 @@
         - [Main Gym](https://hawaii.usmc-mccs.org/recreation-fitness/fitness/semper-fit#semperFitLocations)
             - Mon-Sun: 0400-2200 
             - Address: G Street, Building 3037, Marine Corps Base Hawaii (MCBH), Kaneohe Bay, Hawaii 96863
-            - 
-8082572030
-Kulia SAC
     - [**ABC**](abc): ABC
     - [**ABC**](abc): ABC
 
