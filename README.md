@@ -32,12 +32,34 @@
 
 ### Hourly Child Care Care and Child Development Centers (CDCs)
 
-[**Hourly Child Care Care**](#): Available by reservation for children 6 weeks+. Walk-ins are welcomed based on availability. Hourly child care is available without the need for a request on militarychildcare.com, but preregistration is mandatory for all. To register, parents must complete the Child Development Center (CDC) packet and submit the required supporting documents.
+**CHILD & YOUTH RESOURCE & REFERRAL**
+As soon as you receive your official orders, sign up on Military childcare.com to be placed on the waitlist. For enrollment questions, Resource & Referral is your **FIRST** and best resource. 
+- Phone: (808) 257-7430 
+- Location: Lawrence Road, Bldg 5082
+
+<br>
+
+**Child Development Centers (CDCs)** offers full-day and hourly child care for children (six weeks to five years old) and is available at Laulima and Kupulau Child Development Centers on MCBH.
+- Laulima, Bldg 6782
+- Kupulau, Bldg 6111
+
+<br>
+
+<details>
+  <summary>CLICK TO EXPAND Hourly</summary>
+
+<br>
+
+**Hourly Child Care Care**: Available by reservation for children 6 weeks+. Walk-ins are welcomed based on availability. Hourly child care is available without the need for a request on militarychildcare.com, but preregistration is mandatory for all. To register, parents must complete the Child Development Center (CDC) packet and submit the required supporting documents.
 - [Welcome Guide to Marine & Family Program](https://hawaii.usmc-mccs.org/modules/media/download?id=1f3216d4-f17c-4ecc-a5be-adca0db47ea3&v=1)
 - [NAVMC 11798 EF 8744](https://hawaii.usmc-mccs.org/modules/media/download?id=a972d743-80c8-4b6c-9282-2adcba1df694&v=1)
 - [Child Supervision Age Matrix](https://hawaii.usmc-mccs.org/modules/media/download?id=f5f65763-d14e-44d1-8b42-09641ed5f6ed&v=1)
 - [February 2024 Parent Newsletter](https://hawaii.usmc-mccs.org/modules/media/download?id=a41b16c3-3055-44e4-ac80-dfab4e1c2cbc&v=1)
 - [February 2024 EFMP Newsletter](https://hawaii.usmc-mccs.org/modules/media/download?id=df280474-cb3a-48f9-9d68-68d4f38e0f4b&v=1)
+
+<br>
+
+</details>
 
 **Child Development Centers (CDC)**
 - [Kupulau CDC](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers)
