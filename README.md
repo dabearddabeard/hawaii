@@ -66,6 +66,11 @@
         - Mon-Sun: 0400-2200 
         - Address: `G Street, Building 3037, Marine Corps Base Hawaii (MCBH), Kaneohe Bay, Hawaii 96863`
 
+### Off-Base 
+- [Island Club & Spa](https://islandclubandspa.com/): Luxury Gym
+    - Address: `1177 Queen St, Honolulu, HI 96814`
+    - 7 days a week: 0500-2100
+
 ## Inbound 
 
 - [**Arriving With Family**](#): Make reservations at [The Inns of the Corps](https://goo.gl/maps/mUwxC7tu7cCzGZfy8), the temporary lodging facility on MCBH. If the Inns of the Corps are unavailable, request a statement of non-availability from them.
