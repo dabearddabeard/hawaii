@@ -41,8 +41,6 @@ As soon as you receive your official orders, sign up on Military childcare.com t
 
 **Child Development Centers (CDCs)** offers full-day and hourly child care for children (six weeks to five years old) and is available at Laulima and Kupulau Child Development Centers on MCBH. Walk-ins are welcomed based on availability. Hourly child care is available without the need for a request on militarychildcare.com, but preregistration is mandatory for all. 
 
-<br>
-
 <details>
   <summary>CLICK TO EXPAND Preregistration</summary>
 
@@ -58,8 +56,6 @@ To register, parents must complete the Child Development Center (CDC) packet and
 <br>
 
 </details>
-
-<br>
 
 <details>
   <summary>CLICK TO EXPAND Laulima and Kupulau</summary>
