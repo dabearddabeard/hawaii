@@ -293,6 +293,8 @@ Should we receive a BAH, expand the information provided below.
 <details>
   <summary>CLICK TO EXPAND</summary>
 
+<br>
+
 - **Military Housing Allowance Area:** Honolulu County, HI (HI408)
 - **ZIP Code:** 96863
 - **CY24 O-4 with Dependents Allowance:** $4,380
@@ -352,6 +354,10 @@ print(f"Calculated Loan Amount: {loan_amount}")
 
 ```
 
+<br>
+
 Based on the provided information and calculations, the home loan amount, considering the total budget of $3,668.13 for mortgage, taxes, and insurance, is approximately **$816,845.39**
+
+<br>
 
 </details>
