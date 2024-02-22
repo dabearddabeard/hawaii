@@ -62,9 +62,7 @@
     - [Gyms](https://hawaii.usmc-mccs.org/recreation-fitness/fitness/semper-fit): Main, Kulia, Camp Smith, 
         - [Main Gym](https://hawaii.usmc-mccs.org/recreation-fitness/fitness/semper-fit#semperFitLocations)
             - Mon-Sun: 0400-2200 
-            - Address: G Street, Building 3037, Marine Corps Base Hawaii (MCBH), Kaneohe Bay, Hawaii 96863
-    - [**ABC**](abc): ABC
-    - [**ABC**](abc): ABC
+            - Address: `G Street, Building 3037, Marine Corps Base Hawaii (MCBH), Kaneohe Bay, Hawaii 96863`
 
 ## Inbound 
 
@@ -75,7 +73,7 @@
     - Detaching and reporting endorsement.
     - Travel vouchers/documents.
     - Per MCO 11000.22, all Military Personnel inbound to MCBH must report to the Family Housing Office before entering into an off-base lease agreement or purchasing a home.
-    - [**YouTube MCBH New Arrival Video**](https://youtu.be/zBliWTzeX6M?si=G3_kXlu1kp16NjO-)
+    - [YouTube MCBH New Arrival Video](https://youtu.be/zBliWTzeX6M?si=G3_kXlu1kp16NjO-)
 
         <details>
           <summary>CLICK TO EXPAND YouTube Transcript of **MCBH New Arrival Video**</summary>
