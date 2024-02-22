@@ -7,7 +7,7 @@
 > :white_square_button: Item 3 <br>
 > :white_square_button: Item 4 <br>
 > :white_square_button: Item 5 <br>
-> :white_check_mark: Submit required documents to Family Housing Department <br>
+> :ballot_box_with_check: Submit required documents to Family Housing Department <br>
 
 ## Command and Base Information
 
