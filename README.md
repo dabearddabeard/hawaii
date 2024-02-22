@@ -4,7 +4,7 @@
 
 - :white_square_button: Bananas
 - :white_square_button: Peanut butter
-- :white_check_mark: Apples
+- :white_check_mark: Submit required documents to Family Housing Department
 
 ## Command and Base Information
 
