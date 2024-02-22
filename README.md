@@ -27,16 +27,19 @@
 - [**Pets**](#): All pets entering Hawaii are subject to quarantine. However, preparing in advance and understanding the requirements can significantly reduce the waiting period. The DoD offers up to $550 in reimbursement for quarantine expenses. According to MCO 11000.22, the following breeds are not permitted: Pit Bull (American Staffordshire Bull Terrier or English Staffordshire Bull Terrier), Rottweiler, Presa Canarios, Doberman Pinscher, Chow Chow, Akitas, Mastiffs, Great Danes, Alaskan Malamutes, and wolf hybrids.
     - To quarantine for 5 days or less, [click for the requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). If you don’t pass those guidelines, your pet may be quarantined for up to 120 days.
     - [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf): Start on page 15 then review the “Dog And Cat Import Form”, AQS-278.
-- [**Hourly Child Care Care**](#): Available by reservation for children 6 weeks+. Walk-ins are welcomed based on availability. Hourly child care is available without the need for a request on militarychildcare.com, but preregistration is mandatory for all. To register, parents must complete the Child Development Center (CDC) packet and submit the required supporting documents.
-    - [Welcome Guide to Marine & Family Program](https://hawaii.usmc-mccs.org/modules/media/download?id=1f3216d4-f17c-4ecc-a5be-adca0db47ea3&v=1)
-    - [NAVMC 11798 EF 8744](https://hawaii.usmc-mccs.org/modules/media/download?id=a972d743-80c8-4b6c-9282-2adcba1df694&v=1)
-    - [Child Supervision Age Matrix](https://hawaii.usmc-mccs.org/modules/media/download?id=f5f65763-d14e-44d1-8b42-09641ed5f6ed&v=1)
-    - [February 2024 Parent Newsletter](https://hawaii.usmc-mccs.org/modules/media/download?id=a41b16c3-3055-44e4-ac80-dfab4e1c2cbc&v=1)
-    - [February 2024 EFMP Newsletter](https://hawaii.usmc-mccs.org/modules/media/download?id=df280474-cb3a-48f9-9d68-68d4f38e0f4b&v=1)
 - [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
 - [**MCCS Welcome Guide**](MCCS.pdf): Marine & Family Program Welcome Guide
 
-### Child Development Centers (CDCs)
+### Hourly Child Care Care and Child Development Centers (CDCs)
+
+[**Hourly Child Care Care**](#): Available by reservation for children 6 weeks+. Walk-ins are welcomed based on availability. Hourly child care is available without the need for a request on militarychildcare.com, but preregistration is mandatory for all. To register, parents must complete the Child Development Center (CDC) packet and submit the required supporting documents.
+- [Welcome Guide to Marine & Family Program](https://hawaii.usmc-mccs.org/modules/media/download?id=1f3216d4-f17c-4ecc-a5be-adca0db47ea3&v=1)
+- [NAVMC 11798 EF 8744](https://hawaii.usmc-mccs.org/modules/media/download?id=a972d743-80c8-4b6c-9282-2adcba1df694&v=1)
+- [Child Supervision Age Matrix](https://hawaii.usmc-mccs.org/modules/media/download?id=f5f65763-d14e-44d1-8b42-09641ed5f6ed&v=1)
+- [February 2024 Parent Newsletter](https://hawaii.usmc-mccs.org/modules/media/download?id=a41b16c3-3055-44e4-ac80-dfab4e1c2cbc&v=1)
+- [February 2024 EFMP Newsletter](https://hawaii.usmc-mccs.org/modules/media/download?id=df280474-cb3a-48f9-9d68-68d4f38e0f4b&v=1)
+
+**Child Development Centers (CDC)**
 - [Kupulau CDC](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers)
     - Mon-Fri: 0615-1715
     - Sat-Sun: Closed
