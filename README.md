@@ -57,7 +57,7 @@
             - Mon: Closed
             - Tue-Fri: Lap Swim 1100-1700, Rec Swim 1400-1700
             - Sat-Sun: Lap and Rec Swim 1200-1700
-    - [Gymnastics](https://hawaii.usmc-mccs.org/modules/media/download?id=660a595f-89b5-4b35-836a-ce45c2a79c1b&v=1): Dance Movement Academy
+    - [Gymnastics and Dance](https://hawaii.usmc-mccs.org/modules/media/download?id=660a595f-89b5-4b35-836a-ce45c2a79c1b&v=1): Dance Movement Academy
     - [Beaches](https://hawaii.usmc-mccs.org/recreation-fitness/beaches): North Beach, Pyramid Rock Beach, Hale Koa Beach, Pali Kilo Beach, Ft Hase Beach 
     - [Gyms](https://hawaii.usmc-mccs.org/recreation-fitness/fitness/semper-fit): Main, Kulia, Camp Smith, 
         - [Main Gym](https://hawaii.usmc-mccs.org/recreation-fitness/fitness/semper-fit#semperFitLocations)
