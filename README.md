@@ -61,13 +61,21 @@
         - Address: `G Street, Building 3037, Marine Corps Base Hawaii (MCBH), Kaneohe Bay, Hawaii 96863`
  
 ### Off-Base 
+
+<br>
+
+<details>
+  <summary>CLICK TO EXPAND Off-Base Gyms</summary>
+
+<br>
+
 - [Island Club & Spa](https://islandclubandspa.com/): Luxury Gym
     - Address: `1177 Queen St, Honolulu, HI 96814`
     - 7 days a week: 0500-2100
     - 27 min (16 mi) drive from MCBH
     - Services: Yoga, Pilates (reformer equipment), Cycling, 
     - [Spa](https://thrivemedspa.com): Anti-Aging Medicine, Injectable Certified Aesthetic Nurse, Nurse Practitioner, Aestheticians, Massage Therapist, Lipo, 
-    - Childcare: ?
+    - Childcare: **No! WTF**
 - [UFC GYM | KAILUA, Kailua](https://www.ufcgym.com/locations/kailua)
     - Address: `573 Kailua Rd, Kailua, HI 96734`
     - 12 min (4.7 mi) from MCBH
@@ -92,6 +100,10 @@
     - 24 hrs / 7 days a week
     - Classes: Yoga Flow, weight and cardio rooms,
     - Kids Club childcare: ?
+
+<br>
+
+</details>
 
 ## Inbound 
 
