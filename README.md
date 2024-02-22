@@ -71,8 +71,7 @@ Immediately upon receiving your official orders, register at MilitaryChildcare.c
 - **Phone:** (808) 257-7430 
 - **Location:** Lawrence Road, Bldg 5082
 
-**Child Development Centers (CDCs)**
-CDCs offer both full-day and hourly child care for children aged six weeks to five years at Laulima and Kupulau Child Development Centers on MCBH. Hourly care is available on a walk-in basis, subject to availability. Although no request on MilitaryChildcare.com is needed for hourly care, preregistration is required for all children. 
+[**Child Development Centers (CDCs)**](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers?utm_source=B&utm_medium=B&utm_campaign=30) offer both full-day and hourly child care for children aged six weeks to five years at Laulima and Kupulau Child Development Centers on MCBH. Hourly care is available on a walk-in basis, subject to availability. Although no request on MilitaryChildcare.com is needed for hourly care, preregistration is required for all children. 
 
 <details>
   <summary>CLICK TO EXPAND Preregistration</summary>
@@ -83,6 +82,7 @@ To register, parents must complete the Child Development Center (CDC) packet and
 1. [MilitaryChildcare.com](MilitaryChildcare.com)
     - Create Account
     - Create Household Profile
+2. ABC
 - [Welcome Guide to Marine & Family Program](https://hawaii.usmc-mccs.org/modules/media/download?id=1f3216d4-f17c-4ecc-a5be-adca0db47ea3&v=1)
 - [NAVMC 11798 EF 8744](https://hawaii.usmc-mccs.org/modules/media/download?id=a972d743-80c8-4b6c-9282-2adcba1df694&v=1)
 
