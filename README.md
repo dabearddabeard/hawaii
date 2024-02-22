@@ -139,6 +139,21 @@
 
 ## Military Housing for Kaneohe Bay Hawaii Marine Corps Base
 
+Please be advised that any email or attachment containing sensitive Personally Identifiable Information (PII), such as Social Security numbers, dates of birth, home addresses, telephone numbers, marital status, names of family members, or sex offender status, must be sent via an official Department of Defense (DoD) email. Furthermore, it must be encrypted and digitally signed in accordance with DoD policy. This requirement pertains to sensitive PII included in documents such as the DD Form 1746, "Application for Assignment to Housing," Registered Sex Offender forms, and any other forms or information provided to the Family Housing Office. The transmission of this type of information through unencrypted or personal email is unauthorized and poses a risk of exposing sensitive information to entities that may use it for malicious purposes.
+
+**Contact Information:**
+- **Email:** MCBH.G4.FMLY.HSG.FMB@usmc.mil
+- **Location:** 1571 Lawrence Road, MCBH Kaneohe Bay
+- **Hours:** Monday, Tuesday, Thursday, Friday: 0730-1530; Wednesday: 0730-1400
+- **Phone:**
+  - Defense Switch Network (DSN Prefix 315) 457-2676
+  - Commercial (COMM) (808) 257-2676
+- **Toll-Free:** 1-866-224-7942
+- **Fax:**
+  - DSN 457-1259
+  - COMM (808) 257-1259
+- **Mail:** Family Housing Department, Box 63003, MCBH Kaneohe Bay, HI 96863-3003
+
 Active Duty personnel with command-sponsored dependents attached to Marine Corps Base Hawaii (MCBH) can apply online in advance, provided they submit the proper documentation. The required documents include:
 
 - [DD Form 1746 (Application for Assignment to Housing)](DDForm1746.pdf)
@@ -150,21 +165,23 @@ Active Duty personnel with command-sponsored dependents attached to Marine Corps
 Applicants must complete all required paperwork and submit the application and documents to the email address or fax number provided. Upon receipt, a Housing Counselor will be assigned to you and will respond via email within 24-48 business hours to confirm the acceptance and processing of your application.
 
 Ensure that your full Social Security Number (SSN) appears on the application, not your Electronic Data Interchange Personal Identifier (EDIPI). Sign in blocks 22 and 25. The active duty service member must sign all documents; if a spouse is signing on the service member's behalf, a Power of Attorney is required. It is not necessary to complete blocks 16-19. It is crucial to include personal email addresses and contact numbers for both the service member and spouse in the remarks area. Unfortunately, Ohana/Hunt does not support iCloud accounts; therefore, you will need to provide an alternative email address to receive email communication from them. You may also select a Neighborhood of Choice (NOC) or inform Ohana/Hunt of your preferred NOC when they contact you.
+ 
+Apply to [Ohana Hunt Military Communities](http://www.ohanamarinecorpscommunities.com/application) housing as soon as we receive orders because the waiting list can span several months. Many homes offer ocean views or are situated mere blocks from the beach, fostering an excellent community of spouses. The utilities included are water, sewer, trash removal, and average electricity usage. However, residents are responsible for cable, phone, internet, and any charges exceeding the average, as per the Resident Energy Conservation Program (RECP). The current wait times for ranks O4-O5 and W5, which commence upon arrival on the island, are as follows:
 
+- Mololani: 6-12 months
+- Kapoho and Kaluapuni: 12+ months
+- Manana (4-bedroom only): 3-6 months
+- Nani Ulupau (4-bedroom only): 9-12 months
+- Camp Smith: 6-12 months.
 
-[**Apply**](http://www.ohanamarinecorpscommunities.com/application) to housing as soon as we get orders because the wait list can be months.
-- Many of these homes have ocean views or are just blocks from the beach.
-- Excellent community of spouses
-- Utilities Included: Water, sewer, trash removal, and average electricity.
-- The resident is responsible for: Cable, phone, Internet and any overage charges incurred with respect to the Resident Energy Conservation Program (RECP).
-- Current wait time estimates for O4-O5 and W5 (wait time starts once on island): 
-    - Mololani: 6-12 months
-    - Kapoho and Kaluapuni: 12+ months
-    - Manana (4bdr only): 3-6 months
-    - Nani Ulupau (4bdr only): 9-12 months
-    - Camp Smith: 6-12 months
+<br>
 
-### Ohana Military Communities: [Search by Rank/Grade](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty)
+<details>
+  <summary>CLICK TO EXPAND Neighborhoods</summary>
+
+<br>
+
+Ohana Military Communities: [Search by Rank/Grade](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty)
 
 - **Nani Ulupau**:
     - Ranks: E1-9, W1-W5, O1-O5
@@ -262,6 +279,10 @@ Ensure that your full Social Security Number (SSN) appears on the application, n
     - outdoor swimming pool, community center, tennis courts, several tot-lot parks, and a fitness center.
     - Central AC
     - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/mololani)
+
+<br>
+
+</details>
 
 ## Basic Allowance for Housing (BAH) 
 
