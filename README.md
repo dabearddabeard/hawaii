@@ -37,32 +37,34 @@
         - [Child Supervision Age Matrix](https://hawaii.usmc-mccs.org/modules/media/download?id=f5f65763-d14e-44d1-8b42-09641ed5f6ed&v=1)
         - [February 2024 Parent Newsletter](https://hawaii.usmc-mccs.org/modules/media/download?id=a41b16c3-3055-44e4-ac80-dfab4e1c2cbc&v=1)
         - [February 2024 EFMP Newsletter](https://hawaii.usmc-mccs.org/modules/media/download?id=df280474-cb3a-48f9-9d68-68d4f38e0f4b&v=1)
-    - Child Development Centers (CDCs)
-        - [Kupulau CDC](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers)
-            - Mon-Fri: 0615-1715
-            - Sat-Sun: Closed
-            - Address: `Cushman Avenue, Building 6111, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734`
-            - Phone: 1-808-496-1388
-        - [Laulima Child Development Center](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers):
-            - Mon-Fri: 0615-1715
-            - Sat-Sun: Closed
-            - Address: `McClennan Drive, Building 6782, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734`
-            - Phone: 1-808-496-2038
 - [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
 - [**MCCS Welcome Guide**](MCCS.pdf): Marine & Family Program Welcome Guide
-- [**On-Base Recreation**](#)
-    - [Rentals](https://hawaii.usmc-mccs.org/recreation-fitness/rentals): Powerboat, Sailboat, Water Activity, Ourtdoor Recreation, Party Day, Miscellaneous
-    - [Pool](http://www.mccshawaii.com/aquatics): Main Pool, Hilltop Pool, Camp Smith Pool, Manana Pool
-        - [Main Pool](https://hawaii.usmc-mccs.org/recreation-fitness/pools): 
-            - Mon: Closed
-            - Tue-Fri: Lap Swim 1100-1700, Rec Swim 1400-1700
-            - Sat-Sun: Lap and Rec Swim 1200-1700
-    - [Gymnastics and Dance](https://hawaii.usmc-mccs.org/modules/media/download?id=660a595f-89b5-4b35-836a-ce45c2a79c1b&v=1): Dance Movement Academy
-    - [Beaches](https://hawaii.usmc-mccs.org/recreation-fitness/beaches): North Beach, Pyramid Rock Beach, Hale Koa Beach, Pali Kilo Beach, Ft Hase Beach 
-    - [Gyms](https://hawaii.usmc-mccs.org/recreation-fitness/fitness/semper-fit): Main, Kulia, Camp Smith, 
-        - [Main Gym](https://hawaii.usmc-mccs.org/recreation-fitness/fitness/semper-fit#semperFitLocations)
-            - Mon-Sun: 0400-2200 
-            - Address: `G Street, Building 3037, Marine Corps Base Hawaii (MCBH), Kaneohe Bay, Hawaii 96863`
+
+### Child Development Centers (CDCs)
+- [Kupulau CDC](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers)
+    - Mon-Fri: 0615-1715
+    - Sat-Sun: Closed
+    - Address: `Cushman Avenue, Building 6111, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734`
+    - Phone: 1-808-496-1388
+- [Laulima Child Development Center](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers):
+    - Mon-Fri: 0615-1715
+    - Sat-Sun: Closed
+    - Address: `McClennan Drive, Building 6782, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734`
+    - Phone: 1-808-496-2038
+
+### On-Base Recreation
+- [Rentals](https://hawaii.usmc-mccs.org/recreation-fitness/rentals): Powerboat, Sailboat, Water Activity, Ourtdoor Recreation, Party Day, Miscellaneous
+- [Pool](http://www.mccshawaii.com/aquatics): Main Pool, Hilltop Pool, Camp Smith Pool, Manana Pool
+    - [Main Pool](https://hawaii.usmc-mccs.org/recreation-fitness/pools): 
+        - Mon: Closed
+        - Tue-Fri: Lap Swim 1100-1700, Rec Swim 1400-1700
+        - Sat-Sun: Lap and Rec Swim 1200-1700
+- [Gymnastics and Dance](https://hawaii.usmc-mccs.org/modules/media/download?id=660a595f-89b5-4b35-836a-ce45c2a79c1b&v=1): Dance Movement Academy
+- [Beaches](https://hawaii.usmc-mccs.org/recreation-fitness/beaches): North Beach, Pyramid Rock Beach, Hale Koa Beach, Pali Kilo Beach, Ft Hase Beach 
+- [Gyms](https://hawaii.usmc-mccs.org/recreation-fitness/fitness/semper-fit): Main, Kulia, Camp Smith, 
+    - [Main Gym](https://hawaii.usmc-mccs.org/recreation-fitness/fitness/semper-fit#semperFitLocations)
+        - Mon-Sun: 0400-2200 
+        - Address: `G Street, Building 3037, Marine Corps Base Hawaii (MCBH), Kaneohe Bay, Hawaii 96863`
 
 ## Inbound 
 
