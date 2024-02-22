@@ -94,6 +94,7 @@ To register, parents must complete the Child Development Center (CDC) packet and
     - [Main Gym](https://hawaii.usmc-mccs.org/recreation-fitness/fitness/semper-fit#semperFitLocations)
         - Mon-Sun: 0400-2200 
         - Address: `G Street, Building 3037, Marine Corps Base Hawaii (MCBH), Kaneohe Bay, Hawaii 96863`
+        - [Google Maps](https://maps.app.goo.gl/GBU1Cf2Dy7JezQBGA)
  
 ### Off-Base 
 
