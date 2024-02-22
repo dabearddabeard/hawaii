@@ -190,9 +190,7 @@ To register, parents must complete the Child Development Center (CDC) packet and
 - Phone #1: 1-800-367-6027
 - Phone #2: 1-808-955-0555
 
-<br>
-
-**Breakfast Buffet**
+**Breakfast Buffet at Hale Koa**
 - When: Every morning from 0630 to 1100
 - Where: Koko at Kalia
 - Prices:
@@ -202,9 +200,7 @@ To register, parents must complete the Child Development Center (CDC) packet and
     - Children (5-11): $10.95
     - Children 4 and under eat free with paying adult
 
-<br>
-
-**Prime Rib & Seafood Buffet**
+**Prime Rib & Seafood Buffet at Hale Koa**
 - When: Friday Evenings from 1700-2030
 - Where: Banyan Tree Showroom
 - $8.00 validated parking
