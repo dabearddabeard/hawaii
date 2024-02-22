@@ -131,6 +131,19 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
 
 ### Ohana Military Communities: [Search by Rank/Grade](https://www.ohanamarinecorpscommunities.com/find-a-home?rank=13&dependents=3&form_action=active-duty)
 
+- **Nani Ulupau**:
+    - Ranks: E1-9, W1-W5, O1-O5
+    - Located on MCBH
+    - Address: `1571 Lawrence Rd, Kailua, HI 96734`
+    - Floor Plans:
+        - #226 (4 Bedroom, 2.5 Bathrooms, 2110 ft2)
+        - #227 (4 Bedroom, 2.5 Bathrooms, 2062 ft2)
+    - Two-Car Garage
+    - Newest community at MCBH
+    - Numerous playgrounds, half basketball courts, pavilions, splash park, two dog parks, and two community centers.
+    - Central AC
+    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/nani-ulupau)
+
 - **Camp Smith**:
     - Ranks: O4, O5, and E9 only
     - Drive to MCBH: 17.5 miles, 25 min
@@ -214,19 +227,6 @@ All housing applicants must contact the Marine Corps Family Housing Office (MCFH
     - outdoor swimming pool, community center, tennis courts, several tot-lot parks, and a fitness center.
     - Central AC
     - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/mololani)
-
-- **Nani Ulupau**:
-    - Ranks: E1-9, W1-W5, O1-O5
-    - Located on MCBH
-    - Address: `1571 Lawrence Rd, Kailua, HI 96734`
-    - Floor Plans:
-        - #226 (4 Bedroom, 2.5 Bathrooms, 2110 ft2)
-        - #227 (4 Bedroom, 2.5 Bathrooms, 2062 ft2)
-    - Two-Car Garage
-    - Newest community at MCBH
-    - Numerous playgrounds, half basketball courts, pavilions, splash park, two dog parks, and two community centers.
-    - Central AC
-    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/nani-ulupau)
 
 ## Basic Allowance for Housing (BAH) 
 
