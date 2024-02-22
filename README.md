@@ -205,6 +205,8 @@ To register, parents must complete the Child Development Center (CDC) packet and
     - Children (5-11): $10.95
     - Children 4 and under eat free with paying adult
 
+<br>
+
 :meat_on_bone: **Prime Rib & Seafood Buffet at Hale Koa**
 - When: Friday Evenings from 1700-2030
 - Where: Banyan Tree Showroom
