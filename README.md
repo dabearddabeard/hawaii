@@ -34,7 +34,9 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
   <summary>CLICK TO EXPAND Car Info</summary>
 
 <br>
-`🚗`
+```
+🚗
+```
 <br>
 
 </details>
@@ -49,7 +51,9 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
   <summary>CLICK TO EXPAND Dog Process</summary>
 
 <br>
-`🐕`
+```
+🐕
+```
 <br>
 
 </details>
