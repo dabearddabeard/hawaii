@@ -68,12 +68,14 @@ To register, parents must complete the Child Development Center (CDC) packet and
     - Mon-Fri: 0615-1715
     - Sat-Sun: Closed
     - Address: `McClennan Drive, Building 6782, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734`
+    - [Google Maps](https://maps.app.goo.gl/o4oWsUFjafFwQp1T8)
     - Phone: 1-808-496-2038
 
 - [Kupulau CDC](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers)
     - Mon-Fri: 0615-1715
     - Sat-Sun: Closed
     - Address: `Cushman Avenue, Building 6111, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734`
+    - [Google Maps](https://maps.app.goo.gl/V5XrxG1FGUKmMTag8)
     - Phone: 1-808-496-1388
 
 <br>
