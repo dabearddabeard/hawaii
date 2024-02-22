@@ -40,8 +40,6 @@ As soon as you receive your official orders, sign up on Military childcare.com t
 <br>
 
 **Child Development Centers (CDCs)** offers full-day and hourly child care for children (six weeks to five years old) and is available at Laulima and Kupulau Child Development Centers on MCBH. Walk-ins are welcomed based on availability. Hourly child care is available without the need for a request on militarychildcare.com, but preregistration is mandatory for all. 
-- Laulima, Bldg 6782
-- Kupulau, Bldg 6111
 
 <br>
 
@@ -68,9 +66,9 @@ To register, parents must complete the Child Development Center (CDC) packet and
 
 <br>
 
-**Child Development Centers (CDC)**
+**Child Development Centers (CDCs)**
 
-- [Laulima Child Development Center](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers):
+- [Laulima CDC](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers):
     - Mon-Fri: 0615-1715
     - Sat-Sun: Closed
     - Address: `McClennan Drive, Building 6782, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734`
