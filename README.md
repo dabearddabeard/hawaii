@@ -98,8 +98,6 @@ To register, parents must complete the Child Development Center (CDC) packet and
  
 ### Off-Base 
 
-<br>
-
 <details>
   <summary>CLICK TO EXPAND Off-Base Gyms</summary>
 
@@ -136,6 +134,26 @@ To register, parents must complete the Child Development Center (CDC) packet and
     - 24 hrs / 7 days a week
     - Classes: Yoga Flow, weight and cardio rooms,
     - Kids Club childcare: :hourglass_flowing_sand:?
+
+<br>
+
+</details>
+
+<details>
+  <summary>CLICK TO EXPAND Hale Koa Hotel</summary>
+
+<br>
+
+**Prime Rib & Seafood Buffet**
+- When: Friday Evenings from 1700-2030
+- Where: Banyan Tree Showroom
+- $8.00 validated parking
+- [Purchase Tickets](https://secure.ticketsage.net/websales.aspx?u=halekoa):
+    - Adult: $75
+    - E1-E6: $65
+    - Youth (12-17): $30
+    - Child (5-11): $20
+    - Children 4 and under eat free with paying adult
 
 <br>
 
