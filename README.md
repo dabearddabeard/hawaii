@@ -186,11 +186,14 @@ To register, parents must complete the Child Development Center (CDC) packet and
 
 <br>
 
-**Hale Koa Hotel**  
+### Hale Koa Hotel
+
 - Address: `2055 Kalia Road, Honolulu, Hawaii 96815`
 - [Google Maps](https://maps.app.goo.gl/oDuCpPCkx3TSkRrx8)
 - Phone #1: 1-800-367-6027
 - Phone #2: 1-808-955-0555
+
+<br> 
 
 - **Breakfast Buffet at Hale Koa**
     - When: Every morning from 0630 to 1100
