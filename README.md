@@ -196,9 +196,9 @@ The application process for family housing involves the Military Housing Office 
 ```markdown
 
 Interested in PPV Housing? ✔️ YES
--> Receive web/PCS orders to Hawaii
-    -> Submit required documents to FHO
-        -> FHO reviews documents
+☑️ Receive web/PCS orders to Hawaii
+    ☑️ Submit required documents to FHO
+        ⏳ FHO reviews documents
             -> Confirmation of receipt/welcome email sent to SM
                 -> SM reports to unit IPAC/Admin (Navy) & TLA Office for briefing
                     -> SM reports to FHO for Check-In Brief
