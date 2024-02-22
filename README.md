@@ -147,7 +147,7 @@ To register, parents must complete the Child Development Center (CDC) packet and
 **Breakfast Buffet**
 - When: Every morning from 0630 to 1100
 - Where: Koko at Kalia
-- [Purchase Tickets](https://secure.ticketsage.net/websales.aspx?u=halekoa):
+- Prices:
     - Adult: $26.95
     - E1-E6: $23.95
     - Seniors (65+): $23.95
