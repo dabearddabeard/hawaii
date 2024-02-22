@@ -39,18 +39,18 @@ As soon as you receive your official orders, sign up on Military childcare.com t
 
 <br>
 
-**Child Development Centers (CDCs)** offers full-day and hourly child care for children (six weeks to five years old) and is available at Laulima and Kupulau Child Development Centers on MCBH.
+**Child Development Centers (CDCs)** offers full-day and hourly child care for children (six weeks to five years old) and is available at Laulima and Kupulau Child Development Centers on MCBH. Walk-ins are welcomed based on availability. Hourly child care is available without the need for a request on militarychildcare.com, but preregistration is mandatory for all. 
 - Laulima, Bldg 6782
 - Kupulau, Bldg 6111
 
 <br>
 
 <details>
-  <summary>CLICK TO EXPAND Hourly</summary>
+  <summary>CLICK TO EXPAND Preregistration</summary>
 
 <br>
 
-**Hourly Child Care Care**: Available by reservation for children 6 weeks+. Walk-ins are welcomed based on availability. Hourly child care is available without the need for a request on militarychildcare.com, but preregistration is mandatory for all. To register, parents must complete the Child Development Center (CDC) packet and submit the required supporting documents.
+To register, parents must complete the Child Development Center (CDC) packet and submit the required supporting documents.
 - [Welcome Guide to Marine & Family Program](https://hawaii.usmc-mccs.org/modules/media/download?id=1f3216d4-f17c-4ecc-a5be-adca0db47ea3&v=1)
 - [NAVMC 11798 EF 8744](https://hawaii.usmc-mccs.org/modules/media/download?id=a972d743-80c8-4b6c-9282-2adcba1df694&v=1)
 - [Child Supervision Age Matrix](https://hawaii.usmc-mccs.org/modules/media/download?id=f5f65763-d14e-44d1-8b42-09641ed5f6ed&v=1)
@@ -61,17 +61,30 @@ As soon as you receive your official orders, sign up on Military childcare.com t
 
 </details>
 
+<br>
+
+<details>
+  <summary>CLICK TO EXPAND Laulima and Kupulau</summary>
+
+<br>
+
 **Child Development Centers (CDC)**
-- [Kupulau CDC](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers)
-    - Mon-Fri: 0615-1715
-    - Sat-Sun: Closed
-    - Address: `Cushman Avenue, Building 6111, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734`
-    - Phone: 1-808-496-1388
+
 - [Laulima Child Development Center](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers):
     - Mon-Fri: 0615-1715
     - Sat-Sun: Closed
     - Address: `McClennan Drive, Building 6782, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734`
     - Phone: 1-808-496-2038
+
+- [Kupulau CDC](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers)
+    - Mon-Fri: 0615-1715
+    - Sat-Sun: Closed
+    - Address: `Cushman Avenue, Building 6111, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734`
+    - Phone: 1-808-496-1388
+
+<br>
+
+</details>
 
 ### On-Base Recreation
 - [Rentals](https://hawaii.usmc-mccs.org/recreation-fitness/rentals): Powerboat, Sailboat, Water Activity, Ourtdoor Recreation, Party Day, Miscellaneous
