@@ -31,7 +31,7 @@
     - Phone: 1-808-257-8354
 - [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
 - [**MCCS Welcome Guide**](MCCS.pdf): Marine & Family Program Welcome Guide
-- [**Recreation**](#)
+- [**On-Base Recreation**](#)
     - [Rentals](https://hawaii.usmc-mccs.org/recreation-fitness/rentals): Powerboat, Sailboat, Water Activity, Ourtdoor Recreation, Party Day, Miscellaneous
     - [Pool](http://www.mccshawaii.com/aquatics): Main Pool, Hilltop Pool, Camp Smith Pool, Manana Pool
         - [Main Pool](https://hawaii.usmc-mccs.org/recreation-fitness/pools): 
@@ -40,7 +40,13 @@
             - Sat-Sun: Lap and Rec Swim 1200-1700
     - [Gymnastics](https://hawaii.usmc-mccs.org/modules/media/download?id=660a595f-89b5-4b35-836a-ce45c2a79c1b&v=1): Dance Movement Academy
     - [Beaches](https://hawaii.usmc-mccs.org/recreation-fitness/beaches): North Beach, Pyramid Rock Beach, Hale Koa Beach, Pali Kilo Beach, Ft Hase Beach 
-    - [**ABC**](abc): ABC
+    - [Gyms](https://hawaii.usmc-mccs.org/recreation-fitness/fitness/semper-fit): Main, Kulia, Camp Smith, 
+        - [Main Gym](https://hawaii.usmc-mccs.org/recreation-fitness/fitness/semper-fit#semperFitLocations)
+            - Mon-Sun: 0400-2200 
+            - Address: G Street, Building 3037, Marine Corps Base Hawaii (MCBH), Kaneohe Bay, Hawaii 96863
+            - 
+8082572030
+Kulia SAC
     - [**ABC**](abc): ABC
     - [**ABC**](abc): ABC
 
