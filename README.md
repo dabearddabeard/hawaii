@@ -195,7 +195,7 @@ The application process for family housing involves the Military Housing Office 
 <details>
   <summary>CLICK TO EXPAND Flow Chart</summary>
     
-<br>
+```markdown
 
 Interested in PPV Housing? 
 -> YES
@@ -217,7 +217,7 @@ Interested in PPV Housing?
                   - NO
                     -> SM seeks Off-Base Housing or remains on waitlist with lease copy
 
-<br>
+```
 
 </details>
 
