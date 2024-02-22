@@ -67,28 +67,35 @@
         - Address: `G Street, Building 3037, Marine Corps Base Hawaii (MCBH), Kaneohe Bay, Hawaii 96863`
  
 ### Off-Base 
+- [Island Club & Spa](https://islandclubandspa.com/): Luxury Gym
+    - Address: `1177 Queen St, Honolulu, HI 96814`
+    - 7 days a week: 0500-2100
+    - 27 min (16 mi) drive from MCBH
+    - Childcare: ?
+- [UFC GYM | KAILUA, Kailua](https://www.ufcgym.com/locations/kailua)
+    - Address: `573 Kailua Rd, Kailua, HI 96734`
+    - 12 min (4.7 mi) from MCBH
+    - 24 hrs / 7 days a week
+    - Classes: weight and cardio rooms,
+    - Kids Club childcare: ?
 - [UFC GYM | HONOLULU, Honolulu](https://www.ufcgym.com/locations/honolulu)
     - Address: `95805 Pohukaina St, Honolulu, HI 96813`
     - 25 min (15 mi) from MCBH
     - 24 hrs / 7 days a week
-    - Classes: Yoga Flow, weight and cardio rooms,
-    - Kids Club childcare: 
+    - Classes: Yoga Flow, weight and cardio rooms, Sauna
+    - Kids Club childcare: ?
 - [UFC GYM | MILILANI, Mililani](https://www.ufcgym.com/locations/mililani)
     - Address: `95-1249 Meheula Pkwy, Mililani, HI 96789`
     - 33 min (28 mi) from MCBH
     - 24 hrs / 7 days a week
-    - Classes: Yoga Flow, weight and cardio rooms,
-    - Kids Club childcare: 
+    - Classes: Yoga Flow, weight and cardio rooms, Sauna
+    - Kids Club childcare: ?
 - [UFC GYM | WAIKELE, Waipahu](https://www.ufcgym.com/locations/waikele)
     - Address: `94 Lumiaina St, Waipahu, HI 96797`
     - 28 min (24 mi) from MCBH
     - 24 hrs / 7 days a week
     - Classes: Yoga Flow, weight and cardio rooms,
-    - Kids Club childcare: 
-- [Island Club & Spa](https://islandclubandspa.com/): Luxury Gym
-    - Address: `1177 Queen St, Honolulu, HI 96814`
-    - 7 days a week: 0500-2100
-    - 27 min (16 mi) drive from MCBH
+    - Kids Club childcare: ?
 
 ## Inbound 
 
