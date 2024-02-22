@@ -192,26 +192,26 @@ To register, parents must complete the Child Development Center (CDC) packet and
 - Phone #1: 1-800-367-6027
 - Phone #2: 1-808-955-0555
 
-**Breakfast Buffet at Hale Koa**
-- When: Every morning from 0630 to 1100
-- Where: Koko at Kalia
-- Prices:
-    - Adult: $26.95
-    - E1-E6: $23.95
-    - Seniors (65+): $23.95
-    - Children (5-11): $10.95
-    - Children 4 and under eat free with paying adult
+- **Breakfast Buffet at Hale Koa**
+    - When: Every morning from 0630 to 1100
+    - Where: Koko at Kalia
+    - Prices:
+        - Adult: $26.95
+        - E1-E6: $23.95
+        - Seniors (65+): $23.95
+        - Children (5-11): $10.95
+        - Children 4 and under eat free with paying adult
 
-**Prime Rib & Seafood Buffet at Hale Koa**
-- When: Friday Evenings from 1700-2030
-- Where: Banyan Tree Showroom
-- $8.00 validated parking
-- [Purchase Tickets](https://secure.ticketsage.net/websales.aspx?u=halekoa):
-    - Adult: $75.00
-    - E1-E6: $65.00
-    - Youth (12-17): $30.00
-    - Children (5-11): $20.00
-    - Children 4 and under eat free with paying adult
+- **Prime Rib & Seafood Buffet at Hale Koa**
+    - When: Friday Evenings from 1700-2030
+    - Where: Banyan Tree Showroom
+    - $8.00 validated parking
+    - [Purchase Tickets](https://secure.ticketsage.net/websales.aspx?u=halekoa):
+        - Adult: $75.00
+        - E1-E6: $65.00
+        - Youth (12-17): $30.00
+        - Children (5-11): $20.00
+        - Children 4 and under eat free with paying adult
 
 <br>
 
