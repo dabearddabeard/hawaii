@@ -35,7 +35,12 @@
             - Mon-Fri: 0615-1715
             - Sat-Sun: Closed
             - Address: Cushman Avenue, Building 6111, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734
+            - Phone: 1-808-496-1388
         - [Laulima Child Development Center](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers):
+            - Mon-Fri: 0615-1715
+            - Sat-Sun: Closed
+            - Address: McClennan Drive, Building 6782, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734
+            - Phone: 1-808-496-2038
 - [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
 - [**MCCS Welcome Guide**](MCCS.pdf): Marine & Family Program Welcome Guide
 - [**On-Base Recreation**](#)
