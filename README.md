@@ -1,6 +1,6 @@
 # Kaneohe Bay, HI
 
-**Checklist**
+**Checklist** <br>
     > :white_square_button: CDC Preregistration <br>
     > :white_square_button: Pet Guidelines <br>
     > :white_square_button: Item 3 <br>
