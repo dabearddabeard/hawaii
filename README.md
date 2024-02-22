@@ -174,8 +174,6 @@ Apply to [Ohana Hunt Military Communities](http://www.ohanamarinecorpscommunitie
 - Nani Ulupau (4-bedroom only): 9-12 months
 - Camp Smith: 6-12 months.
 
-<br>
-
 <details>
   <summary>CLICK TO EXPAND Neighborhoods</summary>
 
