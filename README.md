@@ -226,7 +226,9 @@ To register, parents must complete the Child Development Center (CDC) packet and
 
         <details>
           <summary>CLICK TO EXPAND YouTube Transcript of MCBH New Arrival Video</summary>
+            
         <br>
+        
         Hello, my name is Allie Pilkington, and I serve as the Program Manager for Information Referral at Marine Corps Base Hawaii. I would like to provide you with a concise overview of the Marine and Family Programs division.
         
         Marine and Family Programs is a division of the Marine Corps Community Services (MCCS), dedicated to supporting Marines, Sailors, and their families through a wide range of services.
@@ -254,7 +256,9 @@ To register, parents must complete the Child Development Center (CDC) packet and
         Our Information Referral and Relocation Services are located in Building 579 on Reed Road, near the Officers Club, alongside other important services such as Marine Corps Family Team Building, FEMAP, FOCUS, and Head Start.
         
         For further inquiries, please contact us at 808-257-7786, visit our Facebook page, or explore our website.
+      
         <br>
+        
         </details>
 
 # Military Housing for Kaneohe Bay Hawaii Marine Corps Base
