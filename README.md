@@ -13,6 +13,7 @@
 
 ## Information: 
 
+- [**MCCS Hawaii**](https://hawaii.usmc-mccs.org/): Golf Courses, Lodging, Recreation, Fitness, Dining, Prevention & Counseling, Military Family Life, Education, Exchange, Information, Tickets & Tours, Local Area Information
 - [**Naval Clinic Hospital Kaneohe Bay Information**](http://www.med.navy.mil/sites/nhch/Pages/default.aspx)
     - Quarterdeck: 1-808-257-3365 x123
     - Appointments: 1-808-473-0247
@@ -66,10 +67,11 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
 
 ## Hourly Child Care and Child Development Centers (CDCs)
 
-**Child & Youth Resource & Referral**
-Immediately upon receiving your official orders, register at MilitaryChildcare.com to join the waitlist. For any enrollment queries, the Resource & Referral should be your **FIRST** point of contact. 
-- **Phone:** (808) 257-7430 
-- **Location:** Lawrence Road, Bldg 5082
+**MCCS Child & Youth Programs | Resource and Referral Office**
+- Phone: 808-257-7430 
+- Address: `Lawrence Road, Building 5082, Marine Corps Base Hawaii (MCBH), Kailua, Hawaii 96734`
+- [Google Maps](https://maps.app.goo.gl/V2i93RzgbRrH6FhR7)
+- Mon-Fri: 0730-1630
 
 [**Child Development Centers (CDCs)**](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers?utm_source=B&utm_medium=B&utm_campaign=30) offer both full-day and hourly child care for children aged six weeks to five years at Laulima and Kupulau Child Development Centers on MCBH. Hourly care is available on a walk-in basis, subject to availability. Although no request on MilitaryChildcare.com is needed for hourly care, preregistration is required for all children. 
 
@@ -82,9 +84,11 @@ To register, parents must complete the Child Development Center (CDC) packet and
 1. [MilitaryChildcare.com](MilitaryChildcare.com)
     - Create Account
     - Create Household Profile
-2. ABC
-- [Welcome Guide to Marine & Family Program](https://hawaii.usmc-mccs.org/modules/media/download?id=1f3216d4-f17c-4ecc-a5be-adca0db47ea3&v=1)
-- [NAVMC 11798 EF 8744](https://hawaii.usmc-mccs.org/modules/media/download?id=a972d743-80c8-4b6c-9282-2adcba1df694&v=1)
+2. CDC Forms
+    - [CYP Registration Form](https://hawaii.usmc-mccs.org/modules/media/?do=download&id=2e8e166e-ac13-4cdc-8af2-3e2ac0a4c257&v=1)
+    - [CYP Health Assessment Form](https://hawaii.usmc-mccs.org/modules/media/?do=download&id=6b339ac3-91ae-43c1-ba3b-95cd2880fe5f&v=1)
+    - [CYP Non-Medicated Topical Products Form](https://hawaii.usmc-mccs.org/modules/media/?do=download&id=3a6d9279-f207-4d0e-9400-1245c683da9e&v=1)
+    - [Application for Department of Defense Childcare Fees](https://hawaii.usmc-mccs.org/modules/media/?do=download&id=20990cf2-e066-429b-b1f1-8de9b1782731&v=1)
 
 <br>
 
