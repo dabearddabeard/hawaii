@@ -196,14 +196,14 @@ To register, parents must complete the Child Development Center (CDC) packet and
 <br> 
 
 :bread: **Breakfast Buffet at Hale Koa**
-    - When: Every morning from 0630 to 1100
-    - Where: Koko at Kalia
-    - Prices:
-        - Adult: $26.95
-        - E1-E6: $23.95
-        - Seniors (65+): $23.95
-        - Children (5-11): $10.95
-        - Children 4 and under eat free with paying adult
+- When: Every morning from 0630 to 1100
+- Where: Koko at Kalia
+- Prices:
+    - Adult: $26.95
+    - E1-E6: $23.95
+    - Seniors (65+): $23.95
+    - Children (5-11): $10.95
+    - Children 4 and under eat free with paying adult
 
 :meat_on_bone: **Prime Rib & Seafood Buffet at Hale Koa**
 - When: Friday Evenings from 1700-2030
