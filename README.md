@@ -30,14 +30,15 @@
 - [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
 - [**MCCS Welcome Guide**](MCCS.pdf): Marine & Family Program Welcome Guide
 
-### Hourly Child Care Care and Child Development Centers (CDCs)
+### Hourly Child Care and Child Development Centers (CDCs)
 
-**CHILD & YOUTH RESOURCE & REFERRAL**
-As soon as you receive your official orders, sign up on Military childcare.com to be placed on the waitlist. For enrollment questions, Resource & Referral is your **FIRST** and best resource. 
-- Phone: (808) 257-7430 
-- Location: Lawrence Road, Bldg 5082
+**Child & Youth Resource & Referral**
+Immediately upon receiving your official orders, register at MilitaryChildcare.com to join the waitlist. For any enrollment queries, the Resource & Referral should be your **FIRST** point of contact. 
+- **Phone:** (808) 257-7430 
+- **Location:** Lawrence Road, Bldg 5082
 
-**Child Development Centers (CDCs)** offers full-day and hourly child care for children (six weeks to five years old) and is available at Laulima and Kupulau Child Development Centers on MCBH. Walk-ins are welcomed based on availability. Hourly child care is available without the need for a request on militarychildcare.com, but preregistration is mandatory for all. 
+**Child Development Centers (CDCs)**
+CDCs offer both full-day and hourly child care for children aged six weeks to five years at Laulima and Kupulau Child Development Centers on MCBH. Hourly care is available on a walk-in basis, subject to availability. Although no request on MilitaryChildcare.com is needed for hourly care, preregistration is required for all children. 
 
 <details>
   <summary>CLICK TO EXPAND Preregistration</summary>
