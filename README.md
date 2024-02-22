@@ -83,11 +83,14 @@ To register, parents must complete the Child Development Center (CDC) packet and
 
 ### On-Base Recreation
 - [Rentals](https://hawaii.usmc-mccs.org/recreation-fitness/rentals): Powerboat, Sailboat, Water Activity, Ourtdoor Recreation, Party Day, Miscellaneous
-- [Pool](http://www.mccshawaii.com/aquatics): Main Pool, Hilltop Pool, Camp Smith Pool, Manana Pool
-    - [Main Pool](https://hawaii.usmc-mccs.org/recreation-fitness/pools): 
-        - Mon: Closed
-        - Tue-Fri: Lap Swim 1100-1700, Rec Swim 1400-1700
-        - Sat-Sun: Lap and Rec Swim 1200-1700
+- [Pools](https://hawaii.usmc-mccs.org/recreation-fitness/pools): The Main Base Pool is a 50m pool with a depth ranging from 3ft to 12ft, offering 11 lanes for lap swimming, recreational swimming, swim lessons, and Sharks Club Team Practice.
+    - Monday: Closed
+    - Tue-Fri:
+        - Lap Swim: 1100-1700
+        - Rec Swim: 1400-1700
+    - Sat-Sun:
+        - Lap Swim: 1200-1700
+        - Rec Swim: 1200-1700
 - [Gymnastics and Dance](https://hawaii.usmc-mccs.org/modules/media/download?id=660a595f-89b5-4b35-836a-ce45c2a79c1b&v=1): Dance Movement Academy
 - [Beaches](https://hawaii.usmc-mccs.org/recreation-fitness/beaches): North Beach, Pyramid Rock Beach, Hale Koa Beach, Pali Kilo Beach, Ft Hase Beach 
 - [Main Gym](https://hawaii.usmc-mccs.org/recreation-fitness/fitness/semper-fit#semperFitLocations)
