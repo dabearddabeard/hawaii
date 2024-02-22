@@ -139,10 +139,18 @@
 
 ## Military Housing for Kaneohe Bay Hawaii Marine Corps Base
 
-All housing applicants must contact the Marine Corps Family Housing Office (MCFHO) at (808) 257-2676 to be placed on the wait list or you can stop by their office in the Family Housing Building at 1571 Lawrence Road, on K-Bay. Below is more information about what is required.
-- A copy of your web orders
-- National Sex Offender form (NSO)
-- DD form 1746 (housing application): Download from the Marine Corps Family Housing Office website. The application will be advanced to the Hunt Military Communities Leasing Office automatically. 
+Active Duty personnel with command-sponsored dependents attached to Marine Corps Base Hawaii (MCBH) can apply online in advance, provided they submit the proper documentation. The required documents include:
+
+- [DD Form 1746 (Application for Assignment to Housing)](DDForm1746.pdf)
+- [A copy of Permanent Change of Station (PCS) orders (web orders)](#)
+- [Registered Sex Offender Disclosure Statement](FamilyHousingRegisteredSexOffender_digisg.pdf)
+- [MCBH Family Housing Applicant's Statement of Understanding (SOU)](FamilyHousingSOU_digsig.pdf)
+- [Privacy Act Release Letter](PrivacyActReleaseLetter_digsig.pdf)
+
+Applicants must complete all required paperwork and submit the application and documents to the email address or fax number provided. Upon receipt, a Housing Counselor will be assigned to you and will respond via email within 24-48 business hours to confirm the acceptance and processing of your application.
+
+Ensure that your full Social Security Number (SSN) appears on the application, not your Electronic Data Interchange Personal Identifier (EDIPI). Sign in blocks 22 and 25. The active duty service member must sign all documents; if a spouse is signing on the service member's behalf, a Power of Attorney is required. It is not necessary to complete blocks 16-19. It is crucial to include personal email addresses and contact numbers for both the service member and spouse in the remarks area. Unfortunately, Ohana/Hunt does not support iCloud accounts; therefore, you will need to provide an alternative email address to receive email communication from them. You may also select a Neighborhood of Choice (NOC) or inform Ohana/Hunt of your preferred NOC when they contact you.
+
 
 [**Apply**](http://www.ohanamarinecorpscommunities.com/application) to housing as soon as we get orders because the wait list can be months.
 - Many of these homes have ocean views or are just blocks from the beach.
