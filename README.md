@@ -1,7 +1,6 @@
 # Kaneohe Bay, HI
 
-## Checklist
-
+**Checklist**
     > :white_square_button: Item 1 <br>
     > :white_square_button: Item 2 <br>
     > :white_square_button: Item 3 <br>
