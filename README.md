@@ -75,7 +75,7 @@
     - 27 min (16 mi) drive from MCBH
     - Services: Yoga, Pilates (reformer equipment), Cycling, 
     - [Spa](https://thrivemedspa.com): Anti-Aging Medicine, Injectable Certified Aesthetic Nurse, Nurse Practitioner, Aestheticians, Massage Therapist, Lipo, 
-    - Childcare: **No! WTF**
+    - Childcare: ![No!](data:image/svg+xml;base64,CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTAiIGhlaWdodD0iMzAiPgogICAgPHRleHQgeD0iMTAiIHk9IjIwIiBmb250LWZhbWlseT0iQXJpYWwiIGZvbnQtc2l6ZT0iMjAiIGZpbGw9InJlZCI+Tm8hPC90ZXh0Pgo8L3N2Zz4K)
 - [UFC GYM | KAILUA, Kailua](https://www.ufcgym.com/locations/kailua)
     - Address: `573 Kailua Rd, Kailua, HI 96734`
     - 12 min (4.7 mi) from MCBH
