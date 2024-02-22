@@ -33,7 +33,7 @@
         - [Welcome Guide to Marine & Family Program](https://hawaii.usmc-mccs.org/modules/media/download?id=1f3216d4-f17c-4ecc-a5be-adca0db47ea3&v=1)
         - [NAVMC 11798 EF 8744](https://hawaii.usmc-mccs.org/modules/media/download?id=a972d743-80c8-4b6c-9282-2adcba1df694&v=1)
         - [Child Supervision Age Matrix](https://hawaii.usmc-mccs.org/modules/media/download?id=f5f65763-d14e-44d1-8b42-09641ed5f6ed&v=1)
-        - [February 2024 Parent Newsletter(https://hawaii.usmc-mccs.org/modules/media/download?id=a41b16c3-3055-44e4-ac80-dfab4e1c2cbc&v=1)
+        - [February 2024 Parent Newsletter](https://hawaii.usmc-mccs.org/modules/media/download?id=a41b16c3-3055-44e4-ac80-dfab4e1c2cbc&v=1)
         - [February 2024 EFMP Newsletter](https://hawaii.usmc-mccs.org/modules/media/download?id=df280474-cb3a-48f9-9d68-68d4f38e0f4b&v=1)
     - Child Development Centers (CDCs)
         - [Kupulau CDC](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers)
