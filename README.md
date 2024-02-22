@@ -65,8 +65,20 @@
     - [Main Gym](https://hawaii.usmc-mccs.org/recreation-fitness/fitness/semper-fit#semperFitLocations)
         - Mon-Sun: 0400-2200 
         - Address: `G Street, Building 3037, Marine Corps Base Hawaii (MCBH), Kaneohe Bay, Hawaii 96863`
-
+ 
 ### Off-Base 
+- [UFC GYM | MILILANI, Mililani](https://www.ufcgym.com/locations/mililani)
+    - Address: `95-1249 Meheula Pkwy, Mililani, HI 96789`
+    - 
+    - 24 hrs / 7 days a week
+    - Classes: Yoga Flow, weight and cardio rooms,
+    - Kids Club childcare: 
+- [UFC GYM | WAIKELE, Waipahu](https://www.ufcgym.com/locations/waikele)
+    - Address: `94 Lumiaina St, Waipahu, HI 96797`
+    - 
+    - 24 hrs / 7 days a week
+    - Classes: Yoga Flow, weight and cardio rooms,
+    - Kids Club childcare: 
 - [Island Club & Spa](https://islandclubandspa.com/): Luxury Gym
     - Address: `1177 Queen St, Honolulu, HI 96814`
     - 7 days a week: 0500-2100
