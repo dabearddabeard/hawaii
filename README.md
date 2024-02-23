@@ -3,6 +3,9 @@
 > :white_square_button: Pet Guidelines <br>
 > :white_square_button: Movers <br>
 > :white_square_button: Checkout <br>
+> :white_square_button: Travel section on MOL and download the Hawaii PCS PDF - It's a check list <br>
+> :white_square_button: PCS OCONUS class <br>
+> :white_square_button: OBI <br>
 > :ballot_box_with_check: MilitaryChildcare.com <br>
 > :ballot_box_with_check: Submit required documents to Family Housing Department <br>
 
