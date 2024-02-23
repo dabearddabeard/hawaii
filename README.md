@@ -6,6 +6,7 @@
 > :white_square_button: Travel section on MOL and download the Hawaii PCS PDF - It's a check list <br>
 > :white_square_button: PCS OCONUS class <br>
 > :white_square_button: OBI <br>
+> :white_square_button: [Smooth Move](https://quantico.usmc-mccs.org/marine-family-support/military-family-life/relocation-assistance) <br>
 > :ballot_box_with_check: MilitaryChildcare.com <br>
 > :ballot_box_with_check: Submit required documents to Family Housing Department <br>
 
