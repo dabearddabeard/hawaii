@@ -167,23 +167,42 @@ For more details on the full-day and hourly child care services available, pleas
 </details>
 
 ## On-Base Recreation
-- [Rentals](https://hawaii.usmc-mccs.org/recreation-fitness/rentals): Powerboat, Sailboat, Water Activity, Ourtdoor Recreation, Party Day, Miscellaneous
-- [Main Pool](https://hawaii.usmc-mccs.org/recreation-fitness/pools): The Main Base Pool is a 50m pool with a depth ranging from 3ft to 12ft, offering 11 lanes for lap swimming, recreational swimming, swim lessons, and Sharks Club Team Practice.
-    - Address: `1196 5th St, Kailua, HI 96734`
-    - [Google Maps](https://maps.app.goo.gl/n377UTu2cPDpQfy39)
-    - Monday: Closed
-    - Tue-Fri:
-        - Lap Swim: 1100-1700
-        - Rec Swim: 1400-1700
-    - Sat-Sun:
-        - Lap Swim: 1200-1700
-        - Rec Swim: 1200-1700
-- [Gymnastics and Dance](https://hawaii.usmc-mccs.org/modules/media/download?id=660a595f-89b5-4b35-836a-ce45c2a79c1b&v=1): Dance Movement Academy
-- [Beaches](https://hawaii.usmc-mccs.org/recreation-fitness/beaches): North Beach, Pyramid Rock Beach, Hale Koa Beach, Pali Kilo Beach, Ft Hase Beach 
-- [Main Gym](https://hawaii.usmc-mccs.org/recreation-fitness/fitness/semper-fit#semperFitLocations)
-    - Mon-Sun: 0400-2200 
-    - Address: `G Street, Building 3037, Marine Corps Base Hawaii (MCBH), Kaneohe Bay, Hawaii 96863`
-    - [Google Maps](https://maps.app.goo.gl/GBU1Cf2Dy7JezQBGA)
+
+Explore the variety of on-base recreational opportunities available for enjoyment:
+
+<details>
+  <summary>CLICK TO EXPAND Details</summary>
+
+<br>
+
+### Rentals
+Offering a wide range of equipment for your leisure activities, our [Rentals page](https://hawaii.usmc-mccs.org/recreation-fitness/rentals) includes options for powerboats, sailboats, various water activities, outdoor recreation, party essentials, and miscellaneous items to enhance your day out.
+
+### Main Pool
+The Main Base Pool is a spacious 50m facility, varying in depth from 3ft to 12ft. It accommodates 11 lanes suitable for lap swimming, recreational swimming, swim lessons, and Sharks Club Team Practice. For more details:
+- **Location**: 1196 5th St, Kailua, HI 96734. View on [Google Maps](https://maps.app.goo.gl/n377UTu2cPDpQfy39).
+- **Hours**:
+  - **Monday**: Closed
+  - **Tuesday to Friday**:
+    - Lap Swim: 11:00 - 17:00
+    - Rec Swim: 14:00 - 17:00
+  - **Saturday and Sunday**:
+    - Lap Swim: 12:00 - 17:00
+    - Rec Swim: 12:00 - 17:00
+
+### Gymnastics and Dance
+Join the Dance Movement Academy for classes that cater to a range of gymnastics and dance styles. For more information and to register, visit the [Gymnastics and Dance page](https://hawaii.usmc-mccs.org/modules/media/download?id=660a595f-89b5-4b35-836a-ce45c2a79c1b&v=1).
+
+### Beaches
+Enjoy the scenic beauty and tranquility of various beaches including North Beach, Pyramid Rock Beach, Hale Koa Beach, Pali Kilo Beach, and Ft Hase Beach. Each offers unique experiences for relaxation and activities. Discover more on our [Beaches page](https://hawaii.usmc-mccs.org/recreation-fitness/beaches).
+
+### Main Gym
+For fitness enthusiasts, the Main Gym is open daily from 04:00 to 22:00, equipped with state-of-the-art fitness equipment to support your health and wellness goals.
+- **Location**: G Street, Building 3037, Marine Corps Base Hawaii (MCBH), Kaneohe Bay, Hawaii 96863. View on [Google Maps](https://maps.app.goo.gl/GBU1Cf2Dy7JezQBGA).
+
+<br>
+
+</details>
  
 ## Off-Base 
 
