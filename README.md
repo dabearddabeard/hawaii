@@ -66,6 +66,8 @@ Upon receiving PCS orders, you can initiate the flight process:
 2. Research commercial flight options including options for pets if needed and ensure that the port call paragraph is in your PCS orders.
 3. Contact your local IPAC/S-1 to submit your port call to SATO travel office to reserve your flights. If traveling with pets, ask about availability of alternative commercial flights to accommodate pet shipping.
 4. There is a difference between having reservations for your commercial flight and being ticketed for your commercial flight. Your reservation (commercial itinerary) will be forwarded to you for your flight. If everything is correct such as location, spelling of names, and birthdates, the traveler will call the Travel Management Company (SATO) to purchase tickets. Once your flight is paid for, a commercial ticket will be issued. This travel is normally paid for (with your GTCC) and ticketed within 72 hours (3 business days) prior to departure OR on a case-by-case basis at the Marine's request upon detaching from your unit if earlier ticketing is needed.
+
+
 Things to consider:
 - Are you taking leave? Schedule your LICWO (Leave in Conjunction with Orders) travel.
 - Are you storing a vehicle? You have the option to leave from the VPC (Vehicle Processing Center).
