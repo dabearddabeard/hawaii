@@ -124,6 +124,10 @@ Please be aware that owning pets is considered a privilege, not a right. You are
 - [Google Maps](https://maps.app.goo.gl/V2i93RzgbRrH6FhR7)
 - Mon-Fri: 0730-1630
 
+<details>
+  <summary>CLICK TO EXPAND CDCs</summary>
+
+<br>
 
 **Child Development Centers (CDCs)**
 
@@ -140,6 +144,11 @@ Please be aware that owning pets is considered a privilege, not a right. You are
     - Address: `Cushman Avenue, Building 6111, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734`
     - [Google Maps](https://maps.app.goo.gl/V5XrxG1FGUKmMTag8)
     - Phone: 1-808-496-1388
+
+<br>
+
+</details>
+
 
 <details>
   <summary>CLICK TO EXPAND Preregistration</summary>
@@ -168,7 +177,7 @@ For more details on the full-day and hourly child care services available, pleas
 
 ## On-Base Recreation
 
-Explore the variety of on-base recreational opportunities available for enjoyment:
+On-base recreational opportunities available:
 
 <details>
   <summary>CLICK TO EXPAND Details</summary>
