@@ -5,7 +5,8 @@
 > :white_square_button: Checkout <br>
 > :white_square_button: Travel section on MOL and download the Hawaii PCS PDF - It's a check list <br>
 > :white_square_button: PCS OCONUS class <br>
-> :white_square_button: OBI <br>
+> :white_square_button: MOL OBI. <br>
+> :white_square_button: Schedule Flights with PTO <br>
 > :white_square_button: [Smooth Move](https://quantico.usmc-mccs.org/marine-family-support/military-family-life/relocation-assistance) <br>
 > :ballot_box_with_check: MilitaryChildcare.com <br>
 > :ballot_box_with_check: Submit required documents to Family Housing Department <br>
@@ -29,16 +30,16 @@
 - [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
 - [**MCCS Welcome Guide**](MCCS.pdf): Marine & Family Program Welcome Guide
 
-## Cars
+## Marine On-Line (MOL) Outbound Interview (OBI)
 
-The government covers the cost of shipping one vehicle to Hawaii. Shipping additional vehicles costs about $1,000 from the west coast and $2,000 from the east coast, varying by vehicle type. Some families choose to store a second vehicle on the mainland. Living on base may make managing with one vehicle feasible. Alternatively, purchasing an inexpensive 'island car' from the base's lemon lot is a common choice for those needing a second vehicle.  
+All Marines in receipt of PCS orders will utilize the OBI module within MOL. This will cover all information needed by IPAC/admin to finalize PCS orders. This will also determine your travel entitlements. The OBI is needed to start the flight booking process. Be sure to include your pet(s) in your OBI. See "Schedule Flights" section.
 
 <details>
-  <summary>CLICK TO EXPAND Car Info</summary>
+  <summary>CLICK TO EXPAND Process</summary>
 
 <br>
 
-```
+```markdown
 
 🚗
 
@@ -48,22 +49,65 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
 
 </details>
 
-## Pets
+## Schedule Flights with PTO
 
-**Pets**: All pets entering Hawaii are subject to quarantine. However, preparing in advance and understanding the requirements can significantly reduce the waiting period. The DoD offers up to $550 in reimbursement for quarantine expenses.
-- To quarantine for 5 days or less, [click for the requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). If you don’t pass those guidelines, your pet may be quarantined for up to 120 days.
-- [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf): Start on page 15 then review the “Dog And Cat Import Form”, AQS-278.
+> PTO is usually located within DMO
+
+<details>
+  <summary>CLICK TO EXPAND Process</summary>
+
+<br>
+
+The following steps explain the flight booking process.
+
+Upon receiving PCS orders, you can initiate the flight process:
+1. Complete your Outbound Interview (OBI) through your MOL Account
+2. Research commercial flight options including options for pets if needed and ensure that the port call paragraph is in your PCS orders.
+3. Contact your local IPAC/S-1 to submit your port call to SATO travel office to reserve your flights. If traveling with pets, ask about availability of alternative commercial flights to accommodate pet shipping.
+4. There is a difference between having reservations for your commercial flight and being ticketed for your commercial flight. Your reservation (commercial itinerary) will be forwarded to you for your flight. If everything is correct such as location, spelling of names, and birthdates, the traveler will call the Travel Management Company (SATO) to purchase tickets. Once your flight is paid for, a commercial ticket will be issued. This travel is normally paid for (with your GTCC) and ticketed within 72 hours (3 business days) prior to departure OR on a case-by-case basis at the Marine's request upon detaching from your unit if earlier ticketing is needed.
+Things to consider:
+- Are you taking leave? Schedule your LICWO (Leave in Conjunction with Orders) travel.
+- Are you storing a vehicle? You have the option to leave from the VPC (Vehicle Processing Center).
+
+<br>
+
+</details>
+
+## Cars
+
+The government covers the cost of shipping one vehicle to Hawaii. Shipping additional vehicles costs about $1,000 from the west coast and $2,000 from the east coast, varying by vehicle type. Some families choose to store a second vehicle on the mainland. Living on base may make managing with one vehicle feasible. Alternatively, purchasing an inexpensive 'island car' from the base's lemon lot is a common choice for those needing a second vehicle.  
+
+<details>
+  <summary>CLICK TO EXPAND Car Info</summary>
+
+<br>
+
+```markdown
+
+🚗
+
+```
+
+<br>
+
+</details>
+
+## Pet Importation
+
+All pets entering Hawaii are subject to quarantine. However, preparing in advance and understanding the requirements can significantly reduce the waiting period. The DoD offers up to $550 in reimbursement for quarantine expenses.
 
 <details>
   <summary>CLICK TO EXPAND Dog Process</summary>
 
 <br>
 
-```
+- To quarantine for 5 days or less, [click for the requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). If you don’t pass those guidelines, your pet may be quarantined for up to 120 days.
+- [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf): Start on page 15 then review the “Dog And Cat Import Form”, AQS-278.
 
-🐕
+Make an appointment with your local Veterinarian, preferably a military Veterinarian Treatment facility (VTF) familiar with the process when possible.
+- Review the official guide for importing cats and dogs into Hawaii: http://hdoa.hawaii.gov/ai/aqs/aqs-info/ This website contains a checklist with all the requirements necessary to import your pet. Take it with you to your veterinary appointment.
 
-```
+> Pets are not an entitlement. You assume all risk/cost associated with the transportation of your pet(s). Mandatory pet quarantine fees incurred in conjunction with the mandatory quarantine of a household pet are reimbursable not to exceed $550 per PCS move for pets in, or entering into, quarantine on and after 28 December 2001. There is no reimbursement (nor any allowance) for transportation of a pet. See JTR, par. 050106. Only quarantine costs associated with dogs and cats are allowed.
 
 <br>
 
