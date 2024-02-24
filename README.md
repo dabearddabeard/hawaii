@@ -1,13 +1,9 @@
 **Checklist** <br>
+> :white_square_button: MOL OBI. <br>
 > :white_square_button: CDC Preregistration Forms <br>
 > :white_square_button: Pet Importation <br>
-> :white_square_button: Movers <br>
-> :white_square_button: Checkout <br>
-> :white_square_button: Travel section on MOL and download the Hawaii PCS PDF - It's a check list <br>
-> :white_square_button: PCS OCONUS class <br>
-> :white_square_button: MOL OBI. <br>
 > :white_square_button: Schedule Flights with PTO <br>
-> :white_square_button: [Smooth Move](https://quantico.usmc-mccs.org/marine-family-support/military-family-life/relocation-assistance) <br>
+> :white_square_button: PCS OCONUS class - [Smooth Move](https://quantico.usmc-mccs.org/marine-family-support/military-family-life/relocation-assistance) <br>
 > :ballot_box_with_check: MilitaryChildcare.com <br>
 > :ballot_box_with_check: Submit required documents to Family Housing Department <br>
 
@@ -104,13 +100,17 @@ All pets entering Hawaii are subject to quarantine. However, preparing in advanc
 
 <br>
 
-- To quarantine for 5 days or less, [click for the requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). If you don’t pass those guidelines, your pet may be quarantined for up to 120 days.
-- [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf): Start on page 15 then review the “Dog And Cat Import Form”, AQS-278.
+To ensure a smooth process for bringing your pets into Hawaii, follow these guidelines:
 
-Make an appointment with your local Veterinarian, preferably a military Veterinarian Treatment facility (VTF) familiar with the process when possible.
-- Review the official guide for importing cats and dogs into Hawaii: http://hdoa.hawaii.gov/ai/aqs/aqs-info/ This website contains a checklist with all the requirements necessary to import your pet. Take it with you to your veterinary appointment.
+1. **Shortened Quarantine Requirements**: For a quarantine period of five days or less, visit [here for the necessary requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). Failure to meet these criteria may result in your pet being quarantined for up to 120 days.
 
-> Pets are not an entitlement. You assume all risk/cost associated with the transportation of your pet(s). Mandatory pet quarantine fees incurred in conjunction with the mandatory quarantine of a household pet are reimbursable not to exceed $550 per PCS move for pets in, or entering into, quarantine on and after 28 December 2001. There is no reimbursement (nor any allowance) for transportation of a pet. See JTR, par. 050106. Only quarantine costs associated with dogs and cats are allowed.
+2. **Important Documentation and Restrictions**: Consult the [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf) document, starting on page 15, to review the "Dog And Cat Import Form", AQS-278.
+
+3. **Veterinary Appointment**: Schedule a consultation with your local Veterinarian, ideally at a military Veterinarian Treatment facility (VTF) if available, as they are typically more familiar with the specific requirements for pet importation into Hawaii.
+
+4. **Official Import Guide**: Familiarize yourself with the official guide for importing cats and dogs into Hawaii by visiting [this link](http://hdoa.hawaii.gov/ai/aqs/aqs-info/). The website provides a detailed checklist of all necessary requirements for importing your pet. It is advisable to have this checklist on hand during your veterinary appointment.
+
+Please be aware that owning pets is considered a privilege, not a right. You are responsible for all risks and costs associated with your pet's transportation. However, mandatory pet quarantine fees incurred as part of the mandatory quarantine process for a household pet are reimbursable, with a limit of $550 per Permanent Change of Station (PCS) move for pets quarantined on or after December 28, 2001. It's important to note that there is no reimbursement or allowance for the transportation costs of a pet. According to the Joint Travel Regulations (JTR), paragraph 050106, only quarantine expenses for dogs and cats are eligible for reimbursement.
 
 <br>
 
@@ -124,31 +124,6 @@ Make an appointment with your local Veterinarian, preferably a military Veterina
 - [Google Maps](https://maps.app.goo.gl/V2i93RzgbRrH6FhR7)
 - Mon-Fri: 0730-1630
 
-[**Child Development Centers (CDCs)**](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers?utm_source=B&utm_medium=B&utm_campaign=30) offer both full-day and hourly child care for children aged six weeks to five years at Laulima and Kupulau Child Development Centers on MCBH. Hourly care is available on a walk-in basis, subject to availability. Although no request on MilitaryChildcare.com is needed for hourly care, preregistration is required for all children. 
-
-<details>
-  <summary>CLICK TO EXPAND Preregistration</summary>
-
-<br>
-
-To register, parents must complete the Child Development Center (CDC) packet and submit the required supporting documents.
-1. [MilitaryChildcare.com](MilitaryChildcare.com)
-    - Create Account
-    - Create Household Profile
-2. CDC Forms
-    - [CYP Registration Form](https://hawaii.usmc-mccs.org/modules/media/?do=download&id=2e8e166e-ac13-4cdc-8af2-3e2ac0a4c257&v=1)
-    - [CYP Health Assessment Form](https://hawaii.usmc-mccs.org/modules/media/?do=download&id=6b339ac3-91ae-43c1-ba3b-95cd2880fe5f&v=1)
-    - [CYP Non-Medicated Topical Products Form](https://hawaii.usmc-mccs.org/modules/media/?do=download&id=3a6d9279-f207-4d0e-9400-1245c683da9e&v=1)
-    - [Application for Department of Defense Childcare Fees](https://hawaii.usmc-mccs.org/modules/media/?do=download&id=20990cf2-e066-429b-b1f1-8de9b1782731&v=1)
-
-<br>
-
-</details>
-
-<details>
-  <summary>CLICK TO EXPAND Laulima and Kupulau</summary>
-
-<br>
 
 **Child Development Centers (CDCs)**
 
@@ -165,6 +140,27 @@ To register, parents must complete the Child Development Center (CDC) packet and
     - Address: `Cushman Avenue, Building 6111, Marine Corps Base Hawaii (MCBH), Kailua, HI 96734`
     - [Google Maps](https://maps.app.goo.gl/V5XrxG1FGUKmMTag8)
     - Phone: 1-808-496-1388
+
+<details>
+  <summary>CLICK TO EXPAND Preregistration</summary>
+
+<br>
+
+The Laulima and Kupulau Child Development Centers (CDCs) on MCBH provide comprehensive child care services for children aged six weeks to five years. These services include both full-day and hourly care options. Hourly care is offered on a walk-in basis, depending on availability. While you don't need to make a request on MilitaryChildcare.com for hourly care, preregistration is mandatory for all children.
+
+To register your child at the CDC, follow these steps:
+
+1. **Begin on [MilitaryChildcare.com](https://MilitaryChildcare.com)**:
+   - Create an account.
+   - Set up a household profile.
+
+2. **Complete and Submit CDC Forms**:
+   - [CYP Registration Form](https://hawaii.usmc-mccs.org/modules/media/?do=download&id=2e8e166e-ac13-4cdc-8af2-3e2ac0a4c257&v=1): This form is necessary for all new registrations.
+   - [CYP Health Assessment Form](https://hawaii.usmc-mccs.org/modules/media/?do=download&id=6b339ac3-91ae-43c1-ba3b-95cd2880fe5f&v=1): A comprehensive health assessment to ensure your child's well-being.
+   - [CYP Non-Medicated Topical Products Form](https://hawaii.usmc-mccs.org/modules/media/?do=download&id=3a6d9279-f207-4d0e-9400-1245c683da9e&v=1): For authorization to use non-medicated topical products on your child.
+   - [Application for Department of Defense Childcare Fees](https://hawaii.usmc-mccs.org/modules/media/?do=download&id=20990cf2-e066-429b-b1f1-8de9b1782731&v=1): To apply for DoD childcare fee assistance.
+
+For more details on the full-day and hourly child care services available, please visit the [Child Development Centers (CDCs) website](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers?utm_source=B&utm_medium=B&utm_campaign=30).
 
 <br>
 
@@ -323,8 +319,6 @@ To register, parents must complete the Child Development Center (CDC) packet and
 
 # Military Housing for Kaneohe Bay Hawaii Marine Corps Base
 
-Please be advised that any email or attachment containing sensitive Personally Identifiable Information (PII), such as Social Security numbers, dates of birth, home addresses, telephone numbers, marital status, names of family members, or sex offender status, must be sent via an official Department of Defense (DoD) email. Furthermore, it must be encrypted and digitally signed in accordance with DoD policy. This requirement pertains to sensitive PII included in documents such as the DD Form 1746, "Application for Assignment to Housing," Registered Sex Offender forms, and any other forms or information provided to the Family Housing Office. The transmission of this type of information through unencrypted or personal email is unauthorized and poses a risk of exposing sensitive information to entities that may use it for malicious purposes.
-
 **Contact Information:**
 - **Email:** MCBH.G4.FMLY.HSG.FMB@usmc.mil
 - **Location:** 1571 Lawrence Road, MCBH Kaneohe Bay
@@ -337,6 +331,11 @@ Please be advised that any email or attachment containing sensitive Personally I
   - DSN 457-1259
   - COMM (808) 257-1259
 - **Mail:** Family Housing Department, Box 63003, MCBH Kaneohe Bay, HI 96863-3003
+
+<details>
+  <summary>CLICK TO EXPAND Details</summary>
+
+<br>
 
 Active Duty personnel with command-sponsored dependents attached to Marine Corps Base Hawaii (MCBH) can apply online in advance, provided they submit the proper documentation. The required documents include:
 
@@ -357,6 +356,11 @@ Apply to [Ohana Hunt Military Communities](http://www.ohanamarinecorpscommunitie
 - Manana (4-bedroom only): 3-6 months
 - Nani Ulupau (4-bedroom only): 9-12 months
 - Camp Smith: 6-12 months.
+
+<br>
+
+</details>
+
 
 ## MCBH Family Housing Department Application Process Flow Chart
 
