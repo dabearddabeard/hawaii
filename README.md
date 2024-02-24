@@ -1,6 +1,6 @@
 **Checklist** <br>
 > :white_square_button: CDC Preregistration Forms <br>
-> :white_square_button: Pet Guidelines <br>
+> :white_square_button: Pet Importation <br>
 > :white_square_button: Movers <br>
 > :white_square_button: Checkout <br>
 > :white_square_button: Travel section on MOL and download the Hawaii PCS PDF - It's a check list <br>
@@ -52,6 +52,7 @@ All Marines in receipt of PCS orders will utilize the OBI module within MOL. Thi
 ## Schedule Flights with PTO
 
 > PTO is usually located within DMO
+
 
 <details>
   <summary>CLICK TO EXPAND Process</summary>
