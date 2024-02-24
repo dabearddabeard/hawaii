@@ -116,7 +116,7 @@ Please be aware that owning pets is considered a privilege, not a right. You are
 
 </details>
 
-## Hourly Child Care and Child Development Centers (CDCs)
+## Hourly Child Care
 
 **MCCS Child & Youth Programs | Resource and Referral Office**
 - Phone: 808-257-7430 
