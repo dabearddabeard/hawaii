@@ -378,7 +378,6 @@ For further inquiries, please contact us at 808-257-7786, visit our Facebook pag
 
 # Military Housing for Kaneohe Bay Hawaii Marine Corps Base
 
-**Contact Information:**
 - **Email:** MCBH.G4.FMLY.HSG.FMB@usmc.mil
 - **Location:** 1571 Lawrence Road, MCBH Kaneohe Bay
 - **Hours:** Monday, Tuesday, Thursday, Friday: 0730-1530; Wednesday: 0730-1400
