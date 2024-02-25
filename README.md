@@ -365,14 +365,8 @@ For fitness enthusiasts, the Main Gym is open daily from 04:00 to 22:00, equippe
 - **Email:** MCBH.G4.FMLY.HSG.FMB@usmc.mil
 - **Location:** 1571 Lawrence Road, MCBH Kaneohe Bay
 - **Hours:** Monday, Tuesday, Thursday, Friday: 0730-1530; Wednesday: 0730-1400
-- **Phone:**
-  - Defense Switch Network (DSN Prefix 315) 457-2676
-  - Commercial (COMM) (808) 257-2676
-- **Toll-Free:** 1-866-224-7942
-- **Fax:**
-  - DSN 457-1259
-  - COMM (808) 257-1259
-- **Mail:** Family Housing Department, Box 63003, MCBH Kaneohe Bay, HI 96863-3003
+- **Phone:** Commercial (COMM) (808) 257-2676
+
 
 <details>
   <summary>CLICK TO EXPAND Details</summary>
