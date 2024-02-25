@@ -14,12 +14,12 @@
 
 ## Information: 
 
+### Key Resources and Services
+
 <details>
   <summary>CLICK TO EXPAND Details</summary>
 
 <br>
-
-### Key Resources and Services
 
 **Marine Corps Community Services (MCCS) Hawaii** offers a comprehensive range of amenities and support services for military personnel and their families. These include golf courses, lodging options, recreational and fitness facilities, dining venues, prevention and counseling services, military family life support, educational resources, exchange services, information desks, ticket and tour arrangements, and local area information. Explore more at [MCCS Hawaii](https://hawaii.usmc-mccs.org/).
 
