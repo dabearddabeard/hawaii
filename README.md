@@ -311,53 +311,72 @@ For fitness enthusiasts, the Main Gym is open daily from 04:00 to 22:00, equippe
 
 </details>
 
-# Inbound Process
+## Inbound Process
 
-- [**Arriving With Family**](#): Make reservations at [The Inns of the Corps](https://goo.gl/maps/mUwxC7tu7cCzGZfy8), the temporary lodging facility on MCBH. If the Inns of the Corps are unavailable, request a statement of non-availability from them.
-    - Any non-military lodging must be vetted through the TLA office to ensure that it is TLA-approved lodging.
-- [**Family Housing Office and IPAC**](#): Must report within three working days of arrival.
-    - Copies of endorsed original orders.
-    - Detaching and reporting endorsement.
-    - Travel vouchers/documents.
-    - Per MCO 11000.22, all Military Personnel inbound to MCBH must report to the Family Housing Office before entering into an off-base lease agreement or purchasing a home.
-    - [YouTube MCBH New Arrival Video](https://youtu.be/zBliWTzeX6M?si=G3_kXlu1kp16NjO-)
+### Guidance for Arrivals with Family
 
-        <details>
-          <summary>CLICK TO EXPAND YouTube Transcript of MCBH New Arrival Video</summary>
-            
-        <br>
-        
-        Hello, my name is Allie Pilkington, and I serve as the Program Manager for Information Referral at Marine Corps Base Hawaii. I would like to provide you with a concise overview of the Marine and Family Programs division.
-        
-        Marine and Family Programs is a division of the Marine Corps Community Services (MCCS), dedicated to supporting Marines, Sailors, and their families through a wide range of services.
-        
-        The division comprises several departments: Family Readiness, Family Care, Personal and Professional Readiness, and Behavioral Health.
-        
-        Firstly, Marine Corps Family Team Building and Family Readiness offer L.I.N.K.S. classes, life skills and readiness training, deployment support, and family readiness programs.
-        
-        The Family Care Resource and Referral serves as a point of contact for Child and Youth Programs, the Child Development Center, Child Care, the Exceptional Family Member Program, and the School Liaison Program. Contact information for these services is readily available.
-        
-        Behavioral Health provides a variety of programs, including Family Advocacy, Community Counseling, New Parent Support, Sexual Assault Prevention, and Substance Abuse. Contact details and additional information can be found on their website.
-        
-        Our department, Information Referral and Relocation Services, offers services such as the lending locker, new arrivals orientation (soon to be available on the MCCS website), PCS and Moving Workshops, Sponsorship Training Classes, and Sponsorship Coordinator Training. Lending locker appointments, which are available free of charge for kitchen essentials during PCS, can be made by contacting us directly.
-        
-        Miss Mary Healy oversees the library, which offers a wealth of resources including books, DVDs, CDs, GoPros, telescopes, and access to computers, printers, fax machines, and copiers.
-        
-        Mr. Craig Lockwood is responsible for the Education Center, and Deborah Blunt manages the Personal Financial Management program. Marines arriving at their first duty station are required to complete the Personal Readiness Seminar within 90 days through Joint Knowledge Online.
-        
-        Mr. Jeff Esposito is the contact for the Transition Readiness Program, providing essential information for those transitioning out of service.
-        
-        An aerial view highlights the proximity of the Education Center, Transition Assistance, and the Library, facilitating easy access to these services.
-        
-        Miss Marie Calvo runs the Family Member Employment Assistance program, offering employment support for family members of Marines, Sailors, Reservists, and Retirees.
-        
-        Our Information Referral and Relocation Services are located in Building 579 on Reed Road, near the Officers Club, alongside other important services such as Marine Corps Family Team Building, FEMAP, FOCUS, and Head Start.
-        
-        For further inquiries, please contact us at 808-257-7786, visit our Facebook page, or explore our website.
-      
-        <br>
-        
-        </details>
+Upon arrival with your family, secure accommodations at [The Inns of the Corps](https://goo.gl/maps/mUwxC7tu7cCzGZfy8), the designated temporary lodging facility on Marine Corps Base Hawaii (MCBH). Should the Inns be fully booked, obtain a statement of non-availability from them. This documentation is necessary if you seek to stay in non-military lodging, which must be approved by the Temporary Lodging Allowance (TLA) office to ensure compliance with TLA-approved accommodations.
+
+### Reporting Obligations
+
+<details>
+  <summary>CLICK TO EXPAND Details</summary>
+    
+<br>
+
+### Reporting Obligations
+
+Within three days of your arrival, it is mandatory to report to the Family Housing Office and the Installation Personnel Administration Center (IPAC). When reporting, ensure you have the following documents:
+
+- Endorsed copies of your original orders.
+- Detaching and reporting endorsements.
+- Travel vouchers and related documents.
+
+In line with Marine Corps Order (MCO) 11000.22, all military personnel assigned to MCBH are required to consult the Family Housing Office prior to engaging in any off-base housing lease agreements or purchasing property. This step ensures compliance with base housing policies and supports the efficient transition into your new assignment.
+
+<br>
+
+</details>
+
+
+### [**YouTube MCBH New Arrival Video**](https://youtu.be/zBliWTzeX6M?si=G3_kXlu1kp16NjO-)
+
+<details>
+  <summary>CLICK TO EXPAND YouTube Transcript of MCBH New Arrival Video</summary>
+    
+<br>
+
+Hello, my name is Allie Pilkington, and I serve as the Program Manager for Information Referral at Marine Corps Base Hawaii. I would like to provide you with a concise overview of the Marine and Family Programs division.
+
+Marine and Family Programs is a division of the Marine Corps Community Services (MCCS), dedicated to supporting Marines, Sailors, and their families through a wide range of services.
+
+The division comprises several departments: Family Readiness, Family Care, Personal and Professional Readiness, and Behavioral Health.
+
+Firstly, Marine Corps Family Team Building and Family Readiness offer L.I.N.K.S. classes, life skills and readiness training, deployment support, and family readiness programs.
+
+The Family Care Resource and Referral serves as a point of contact for Child and Youth Programs, the Child Development Center, Child Care, the Exceptional Family Member Program, and the School Liaison Program. Contact information for these services is readily available.
+
+Behavioral Health provides a variety of programs, including Family Advocacy, Community Counseling, New Parent Support, Sexual Assault Prevention, and Substance Abuse. Contact details and additional information can be found on their website.
+
+Our department, Information Referral and Relocation Services, offers services such as the lending locker, new arrivals orientation (soon to be available on the MCCS website), PCS and Moving Workshops, Sponsorship Training Classes, and Sponsorship Coordinator Training. Lending locker appointments, which are available free of charge for kitchen essentials during PCS, can be made by contacting us directly.
+
+Miss Mary Healy oversees the library, which offers a wealth of resources including books, DVDs, CDs, GoPros, telescopes, and access to computers, printers, fax machines, and copiers.
+
+Mr. Craig Lockwood is responsible for the Education Center, and Deborah Blunt manages the Personal Financial Management program. Marines arriving at their first duty station are required to complete the Personal Readiness Seminar within 90 days through Joint Knowledge Online.
+
+Mr. Jeff Esposito is the contact for the Transition Readiness Program, providing essential information for those transitioning out of service.
+
+An aerial view highlights the proximity of the Education Center, Transition Assistance, and the Library, facilitating easy access to these services.
+
+Miss Marie Calvo runs the Family Member Employment Assistance program, offering employment support for family members of Marines, Sailors, Reservists, and Retirees.
+
+Our Information Referral and Relocation Services are located in Building 579 on Reed Road, near the Officers Club, alongside other important services such as Marine Corps Family Team Building, FEMAP, FOCUS, and Head Start.
+
+For further inquiries, please contact us at 808-257-7786, visit our Facebook page, or explore our website.
+
+<br>
+
+</details>
 
 # Military Housing for Kaneohe Bay Hawaii Marine Corps Base
 
