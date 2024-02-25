@@ -14,17 +14,31 @@
 
 ## Information: 
 
-- [**MCCS Hawaii**](https://hawaii.usmc-mccs.org/): Golf Courses, Lodging, Recreation, Fitness, Dining, Prevention & Counseling, Military Family Life, Education, Exchange, Information, Tickets & Tours, Local Area Information
-- [**Naval Clinic Hospital Kaneohe Bay Information**](http://www.med.navy.mil/sites/nhch/Pages/default.aspx)
-    - Quarterdeck: 1-808-257-3365 x123
-    - Appointments: 1-808-473-0247
-    - After Hours Help: 1-808-473-0247 x3
-- [**Commissary**](http://www.commissaries.com/stores/html/store.cfm?dodaac=HQCWHV): 
-    - Open 7 days a week: 0900-1800
-    - Address: `Bldg 6088, Mokapu Rd, MCBH, HI 96863`
-- [**Exchange**](http://mccshawaii.com/retail/): MCX aboard Kaneohe is small but the Navy Exchange (NEX) is only 5 years old. 
-- [**Religious Services**](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain): Base Chapel website
-- [**MCCS Welcome Guide**](MCCS.pdf): Marine & Family Program Welcome Guide
+<details>
+  <summary>CLICK TO EXPAND Details</summary>
+
+<br>
+
+### Key Resources and Services
+
+**Marine Corps Community Services (MCCS) Hawaii** offers a comprehensive range of amenities and support services for military personnel and their families. These include golf courses, lodging options, recreational and fitness facilities, dining venues, prevention and counseling services, military family life support, educational resources, exchange services, information desks, ticket and tour arrangements, and local area information. Explore more at [MCCS Hawaii](https://hawaii.usmc-mccs.org/).
+
+**Naval Clinic Hospital Kaneohe Bay** provides medical support and services, with contact details for various needs:
+- **Quarterdeck**: 1-808-257-3365 ext. 123
+- **Appointments**: 1-808-473-0247
+- **After Hours Help**: 1-808-473-0247 ext. 3
+
+**Commissary Information**: Available for your grocery needs seven days a week from 09:00 to 18:00. Located at Building 6088, Mokapu Rd, MCBH, HI 96863. Visit the [Commissary website](http://www.commissaries.com/stores/html/store.cfm?dodaac=HQCWHV) for more details.
+
+**Exchange Services**: While the Marine Corps Exchange (MCX) aboard Kaneohe is relatively small, the nearby Navy Exchange (NEX) offers extensive shopping options, being only five years old. For more information, visit the [Exchange website](http://mccshawaii.com/retail/).
+
+**Religious Services**: The Base Chapel provides various religious services and spiritual support. Further details can be found on the [Chaplain's website](https://www.mcbhawaii.marines.mil/Offices-Staff/Chaplain).
+
+**MCCS Welcome Guide**: A comprehensive guide to the Marine & Family Program, offering valuable information for newcomers. Access the guide [here](MCCS.pdf).
+
+<br>
+
+</details>
 
 ## Marine On-Line (MOL) Outbound Interview (OBI)
 
@@ -169,11 +183,11 @@ To register your child at the CDC, follow these steps:
    - [CYP Non-Medicated Topical Products Form](https://hawaii.usmc-mccs.org/modules/media/?do=download&id=3a6d9279-f207-4d0e-9400-1245c683da9e&v=1): For authorization to use non-medicated topical products on your child.
    - [Application for Department of Defense Childcare Fees](https://hawaii.usmc-mccs.org/modules/media/?do=download&id=20990cf2-e066-429b-b1f1-8de9b1782731&v=1): To apply for DoD childcare fee assistance.
 
-For more details on the full-day and hourly child care services available, please visit the [Child Development Centers (CDCs) website](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers?utm_source=B&utm_medium=B&utm_campaign=30).
-
 <br>
 
 </details>
+
+For more details on the full-day and hourly child care services available, visit the [Child Development Centers (CDCs) website](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers?utm_source=B&utm_medium=B&utm_campaign=30).
 
 ## On-Base Recreation
 
