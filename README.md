@@ -324,8 +324,6 @@ Upon arrival with your family, secure accommodations at [The Inns of the Corps](
     
 <br>
 
-### Reporting Obligations
-
 Within three days of your arrival, it is mandatory to report to the Family Housing Office and the Installation Personnel Administration Center (IPAC). When reporting, ensure you have the following documents:
 
 - Endorsed copies of your original orders.
