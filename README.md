@@ -8,7 +8,11 @@
 > :white_square_button: PCS OCONUS Class - [Smooth Move](https://quantico.usmc-mccs.org/marine-family-support/military-family-life/relocation-assistance) <br>
 > :white_square_button: [POV](https://www.pcsmypov.com/) <br>
 > :ballot_box_with_check: MilitaryChildcare.com <br>
-> :ballot_box_with_check: Submit required documents to Family Housing Department <br>
+
+Housing
+- :ballot_box_with_check: Submitted required documents to Family Housing Department
+- :ballot_box_with_check: Submitted application in the [Hunt Community Portal](https://huntcompanies.my.site.com/)
+- 
 
 # Command and Base Information
 
