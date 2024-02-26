@@ -154,7 +154,7 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
 ### Baltimore Vehicle Processing Center (VPC) Appointment:
 
 - [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024):
-  - Appointment Time/Date: 1000 on 03 June 2024
+  - Appointment Time/Date: 0800 on 03 May 2024
   - Confirmation Number: 412526737906032024
 - Address: `2940 Waterview Ave, Baltimore, MD, United States, 21230`
 - Phone: 667-401-0770
