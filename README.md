@@ -1,6 +1,7 @@
 **Checklist** <br>
 > :white_square_button: [DPS](https://www.militaryonesource.mil/moving-pcs/moving-personal-property/) <br>
 > :white_square_button: MOL OBI. <br>
+> :white_square_button: [Hunt Community Portal](https://huntcompanies.my.site.com/) <br>
 > :white_square_button: CDC Preregistration Forms <br>
 > :white_square_button: Pet Importation <br>
 > :white_square_button: Schedule Flights with PTO <br>
