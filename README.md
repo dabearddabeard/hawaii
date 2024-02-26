@@ -103,14 +103,22 @@ Please be aware that owning pets is considered a privilege, not a right. You are
 
 <br>
 
-**Household Goods (HHG):**
+### Household Goods (HHG):
+
 - In Counseling, Submitted
 - Desired Pickup Date: 01 May 2024
 - Estimated Shipment Weight: 9900 lbs
 
-**Unaccompanied Baggage (UB):**
+### Unaccompanied Baggage (UB):
+
 - In Counseling, Submitted
 - Desired Pickup Date: 01 May 2024
+
+Unaccompanied Baggage (UB) refers to a specific portion of a member's allowable household goods (HHG) weight that is not included as free baggage on a ticket used for personal travel. This baggage typically consists of items transported separately from the main bulk of HHG and is often sent via an expedited method due to its necessity immediately or shortly after arrival at the destination. These items facilitate interim housekeeping while awaiting the delivery of the bulk of HHG.
+
+- Note 1: For permanent duty and Consecutive Overseas Tour/In Place Consecutive Overseas Tour travel, UB includes personal clothing and equipment, essential cooking utensils, and light housekeeping items, such as cribs, playpens, and baby carriages, essential for dependent care. Major appliances or furniture, such as refrigerators and washing machines, as well as alcoholic beverages and personally owned firearms, do not qualify for UB since they are not essential for interim housekeeping needs.
+
+- Note 2: During an extended Temporary Duty (TDY) assignment, UB is restricted to the necessary personal clothing, personal effects for the individual, and equipment directly related to the assignment.
 
 <br>
 
