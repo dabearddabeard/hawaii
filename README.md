@@ -161,6 +161,14 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
 
 <br>
 
+**At Destination:**
+- To avoid unnecessary trips, contact the vehicle processing center for official confirmation that the POV is on-hand and available for pickup
+- Proper identification: Military ID and/or driver’s license
+- DD Form 788 (Private Vehicle Shipping Document)
+- Complete set of keys
+
+<br>
+
 </details>
 
 # Hourly Child Care
