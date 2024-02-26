@@ -45,7 +45,7 @@
 
 All Marines in receipt of PCS orders will utilize the OBI module within MOL. This will cover all information needed by IPAC/admin to finalize PCS orders. This will also determine your travel entitlements. The OBI is needed to start the flight booking process. Be sure to include your pet(s) in your OBI.
 
-## Schedule Flights with PTO
+### Schedule Flights with PTO
 
 > PTO is usually located within DMO
 
@@ -70,6 +70,32 @@ Things to consider:
 <br>
 
 </details>
+
+### Pet Importation
+
+All pets entering Hawaii are subject to quarantine. However, preparing in advance and understanding the requirements can significantly reduce the waiting period. The DoD offers up to $550 in reimbursement for quarantine expenses.
+
+<details>
+  <summary>CLICK TO EXPAND Dog Process</summary>
+
+<br>
+
+To ensure a smooth process for bringing your pets into Hawaii, follow these guidelines:
+
+1. **Shortened Quarantine Requirements**: For a quarantine period of five days or less, visit [here for the necessary requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). Failure to meet these criteria may result in your pet being quarantined for up to 120 days.
+
+2. **Important Documentation and Restrictions**: Consult the [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf) document, starting on page 15, to review the "Dog And Cat Import Form", AQS-278.
+
+3. **Veterinary Appointment**: Schedule a consultation with your local Veterinarian, ideally at a military Veterinarian Treatment facility (VTF) if available, as they are typically more familiar with the specific requirements for pet importation into Hawaii.
+
+4. **Official Import Guide**: Familiarize yourself with the official guide for importing cats and dogs into Hawaii by visiting [this link](http://hdoa.hawaii.gov/ai/aqs/aqs-info/). The website provides a detailed checklist of all necessary requirements for importing your pet. It is advisable to have this checklist on hand during your veterinary appointment.
+
+Please be aware that owning pets is considered a privilege, not a right. You are responsible for all risks and costs associated with your pet's transportation. However, mandatory pet quarantine fees incurred as part of the mandatory quarantine process for a household pet are reimbursable, with a limit of $550 per Permanent Change of Station (PCS) move for pets quarantined on or after December 28, 2001. It's important to note that there is no reimbursement or allowance for the transportation costs of a pet. According to the Joint Travel Regulations (JTR), paragraph 050106, only quarantine expenses for dogs and cats are eligible for reimbursement.
+
+<br>
+
+</details>
+
 
 # POV
 
@@ -113,31 +139,6 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
     - Aftermarket items must be hard-mounted to the vehicle or they will need to be removed from the vehicle prior to shipping.
     - All compartments must be accessible. Locking gas caps and tool chests must be unlocked prior to shipment or a key to unlock them must be provided.
     - Vehicles that exceed 20 measurement tons (MT) are considered oversized or “out of gauge” and you may be charged by the government for exceeding your entitlement allowance.
-
-<br>
-
-</details>
-
-# Pet Importation
-
-All pets entering Hawaii are subject to quarantine. However, preparing in advance and understanding the requirements can significantly reduce the waiting period. The DoD offers up to $550 in reimbursement for quarantine expenses.
-
-<details>
-  <summary>CLICK TO EXPAND Dog Process</summary>
-
-<br>
-
-To ensure a smooth process for bringing your pets into Hawaii, follow these guidelines:
-
-1. **Shortened Quarantine Requirements**: For a quarantine period of five days or less, visit [here for the necessary requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). Failure to meet these criteria may result in your pet being quarantined for up to 120 days.
-
-2. **Important Documentation and Restrictions**: Consult the [Brochure and Prohibited Animals](http://hdoa.hawaii.gov/ai/files/2013/01/aqsbrochure.pdf) document, starting on page 15, to review the "Dog And Cat Import Form", AQS-278.
-
-3. **Veterinary Appointment**: Schedule a consultation with your local Veterinarian, ideally at a military Veterinarian Treatment facility (VTF) if available, as they are typically more familiar with the specific requirements for pet importation into Hawaii.
-
-4. **Official Import Guide**: Familiarize yourself with the official guide for importing cats and dogs into Hawaii by visiting [this link](http://hdoa.hawaii.gov/ai/aqs/aqs-info/). The website provides a detailed checklist of all necessary requirements for importing your pet. It is advisable to have this checklist on hand during your veterinary appointment.
-
-Please be aware that owning pets is considered a privilege, not a right. You are responsible for all risks and costs associated with your pet's transportation. However, mandatory pet quarantine fees incurred as part of the mandatory quarantine process for a household pet are reimbursable, with a limit of $550 per Permanent Change of Station (PCS) move for pets quarantined on or after December 28, 2001. It's important to note that there is no reimbursement or allowance for the transportation costs of a pet. According to the Joint Travel Regulations (JTR), paragraph 050106, only quarantine expenses for dogs and cats are eligible for reimbursement.
 
 <br>
 
