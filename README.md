@@ -242,9 +242,7 @@ For more details on the full-day and hourly child care services available, visit
 
 # 2024 Taxes
 
-You can deduct moving expenses only if you are a Member of the Armed Forces on active duty and, due to a military order, you, your spouse, or your dependents move because of a permanent change of station.
-
-[IRS FORM 3903](https://www.irs.gov/pub/irs-pdf/f3903.pdf)
+You can deduct moving expenses only if you are a Member of the Armed Forces on active duty and, due to a military order, you, your spouse, or your dependents move because of a permanent change of station. [IRS FORM 3903](https://www.irs.gov/pub/irs-pdf/f3903.pdf)
 
 # On-Base Recreation
 
