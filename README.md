@@ -96,6 +96,25 @@ Please be aware that owning pets is considered a privilege, not a right. You are
 
 </details>
 
+# Defense Personal Property System (DPS)
+
+<details>
+  <summary>CLICK TO EXPAND DPS Info</summary>
+
+<br>
+
+**Household Goods (HHG):**
+    - In Counseling, Submitted
+    - Desired Pickup Date: 01 May 2024
+    - Estimated Shipment Weight: 9900 lbs
+
+**Unaccompanied Baggage (UB):**
+    - In Counseling, Submitted
+    - Desired Pickup Date: 01 May 2024
+
+<br>
+
+</details>
 
 # POV
 
