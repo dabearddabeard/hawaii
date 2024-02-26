@@ -104,13 +104,13 @@ Please be aware that owning pets is considered a privilege, not a right. You are
 <br>
 
 **Household Goods (HHG):**
-    - In Counseling, Submitted
-    - Desired Pickup Date: 01 May 2024
-    - Estimated Shipment Weight: 9900 lbs
+- In Counseling, Submitted
+- Desired Pickup Date: 01 May 2024
+- Estimated Shipment Weight: 9900 lbs
 
 **Unaccompanied Baggage (UB):**
-    - In Counseling, Submitted
-    - Desired Pickup Date: 01 May 2024
+- In Counseling, Submitted
+- Desired Pickup Date: 01 May 2024
 
 <br>
 
