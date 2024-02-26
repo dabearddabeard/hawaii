@@ -92,8 +92,8 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
 8. Lienholder Authorization Letter
 9. Customs Clearance Letter provided by your branches transportation office.
 10. Vehicle Recalls:
-   - A screenshot from [NHTSA](https://www.nhtsa.gov/recalls) showing no open recalls is acceptable.
-   - VIN: `5YJXCBE22LF300186`
+    - A screenshot from [NHTSA](https://www.nhtsa.gov/recalls) showing no open recalls is acceptable.
+    - VIN: `5YJXCBE22LF300186`
 
 <br>
 
