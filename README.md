@@ -98,6 +98,10 @@ Please be aware that owning pets is considered a privilege, not a right. You are
 
 # Defense Personal Property System (DPS)
 
+**WHO TO CALL FOR HELP**
+- [Local Transportation Office](https://installations.militaryonesource.mil)
+- USMC Customer Service: 855-444-6683
+
 <details>
   <summary>CLICK TO EXPAND DPS Info</summary>
 
