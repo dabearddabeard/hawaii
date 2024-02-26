@@ -1,4 +1,5 @@
-**Checklist** <br>
+# Checklists
+
 > :white_square_button: [DPS](https://www.militaryonesource.mil/moving-pcs/moving-personal-property/) <br>
 > :white_square_button: MOL OBI. <br>
 > :white_square_button: [Hunt Community Portal](https://huntcompanies.my.site.com/) <br>
@@ -9,10 +10,13 @@
 > :white_square_button: [POV](https://www.pcsmypov.com/) <br>
 > :ballot_box_with_check: MilitaryChildcare.com <br>
 
+POV
+- :ballot_box_with_check: Scheduled [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024).
+- :white_square_button: Adjust appointment date to flight. 
+
 Housing
 - :ballot_box_with_check: Submitted required documents to Family Housing Department
 - :ballot_box_with_check: Submitted application in the [Hunt Community Portal](https://huntcompanies.my.site.com/)
-- 
 
 # Command and Base Information
 
@@ -491,7 +495,7 @@ The application process for family housing involves the Military Housing Office 
 Interested in PPV Housing? ✔️ YES
 ☑️ Receive web/PCS orders to Hawaii
     ☑️ Submit required documents to FHO
-        ⏳ FHO reviews documents
+        ☑️ FHO reviews documents
             -> Confirmation of receipt/welcome email sent to SM
                 -> SM reports to unit IPAC/Admin (Navy) & TLA Office for briefing
                     -> SM reports to FHO for Check-In Brief
