@@ -11,16 +11,16 @@
 
 # Command and Base Information
 
+**Command**: 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130] <br>
+
+**Base**: Kaneohe Bay Hawaii Marine Corps Base (MCBH)
+
+<br>
+
 <details>
   <summary>CLICK TO EXPAND Details</summary>
 
 <br>
-
-**Command**: 
-- 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
-
-**Base**: 
-- Kaneohe Bay Hawaii Marine Corps Base (MCBH)
 
 **Marine Corps Community Services (MCCS) Hawaii** offers a comprehensive range of amenities and support services for military personnel and their families. These include golf courses, lodging options, recreational and fitness facilities, dining venues, prevention and counseling services, military family life support, educational resources, exchange services, information desks, ticket and tour arrangements, and local area information. Explore more at [MCCS Hawaii](https://hawaii.usmc-mccs.org/).
 
