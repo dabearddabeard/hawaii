@@ -43,7 +43,7 @@
 
 # Marine On-Line (MOL) Outbound Interview (OBI)
 
-All Marines in receipt of PCS orders will utilize the OBI module within MOL. This will cover all information needed by IPAC/admin to finalize PCS orders. This will also determine your travel entitlements. The OBI is needed to start the flight booking process. Be sure to include your pet(s) in your OBI. See "Schedule Flights" section.
+All Marines in receipt of PCS orders will utilize the OBI module within MOL. This will cover all information needed by IPAC/admin to finalize PCS orders. This will also determine your travel entitlements. The OBI is needed to start the flight booking process. Be sure to include your pet(s) in your OBI.
 
 ## Schedule Flights with PTO
 
