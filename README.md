@@ -1,17 +1,16 @@
 # Checklists
 
 > :white_square_button: [DPS](https://www.militaryonesource.mil/moving-pcs/moving-personal-property/) <br>
-> :white_square_button: MOL OBI. <br>
-> :white_square_button: [Hunt Community Portal](https://huntcompanies.my.site.com/) <br>
 > :white_square_button: CDC Preregistration Forms <br>
 > :white_square_button: Pet Importation <br>
-> :white_square_button: Schedule Flights with PTO <br>
 > :white_square_button: PCS OCONUS Class - [Smooth Move](https://quantico.usmc-mccs.org/marine-family-support/military-family-life/relocation-assistance) <br>
-> :white_square_button: [POV](https://www.pcsmypov.com/) <br>
 > :ballot_box_with_check: MilitaryChildcare.com <br>
 
-### POV
+### MOL OBI
+:ballot_box_with_check: Submited OBI <br>
+:white_square_button:  Schedule Flights with PTO <br>
 
+### POV
 :ballot_box_with_check: Scheduled [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024). <br>
 :white_square_button: Adjust appointment date to flight. <br> 
 
