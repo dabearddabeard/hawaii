@@ -71,7 +71,7 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
 <br>
 
 **Baltimore Vehicle Processing Center (VPC) Appointment:**
-- FASTPASS appointment:
+- [FASTPASS appointment](https://www.pcsmypov.com/):
   - Appointment Time/Date: 1000 on 03 June 2024
   - Confirmation Number: 412526737906032024
 - Address: `2940 Waterview Ave, Baltimore, MD, United States, 21230`
@@ -81,19 +81,28 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
 <br>
 
 **Turning in your POV:**
-1. Fully Charged 
-2. Clean inside and out
-3. POV Shipment Counseling Worksheet:
+1. POV Shipment Counseling Worksheet:
    - Issued by branches transportation office and is specific to the State of Hawaii.
    - Signed and dated by a counselor from your transportation office.
-5. Orders
-6. Registration
-7. Vehicle Title
-8. Lienholder Authorization Letter
-9. Customs Clearance Letter provided by your branches transportation office.
-10. Vehicle Recalls:
+2. Orders
+3. Registration
+4. Vehicle Title
+5. Lienholder Authorization Letter
+6. Customs Clearance Letter provided by your branches transportation office.
+7. Vehicle Recalls:
     - A screenshot from [NHTSA](https://www.nhtsa.gov/recalls) showing no open recalls is acceptable.
     - VIN: `5YJXCBE22LF300186`
+8. Vehicle Condition
+    - 75% charge or higher at the time of drop-off.
+    - Charging cables and adapters.
+    - Emergency brake and standard brakes must be operational.
+    - No fluids can be leaking.
+    - The interior and exterior of the vehicle must be clean.
+    - If the vehicle has wheel locks, the wheel lock key must be provided or the wheel locks must be removed prior to vehicle turn-in.
+    - No household goods can be shipped in your vehicle.
+    - Aftermarket items must be hard-mounted to the vehicle or they will need to be removed from the vehicle prior to shipping.
+    - All compartments must be accessible. Locking gas caps and tool chests must be unlocked prior to shipment or a key to unlock them must be provided.
+    - Vehicles that exceed 20 measurement tons (MT) are considered oversized or “out of gauge” and you may be charged by the government for exceeding your entitlement allowance.
 
 <br>
 
