@@ -133,7 +133,8 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
 
 <br>
 
-**Baltimore Vehicle Processing Center (VPC) Appointment:**
+### Baltimore Vehicle Processing Center (VPC) Appointment:
+
 - [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024):
   - Appointment Time/Date: 1000 on 03 June 2024
   - Confirmation Number: 412526737906032024
@@ -141,9 +142,8 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
 - Phone: 667-401-0770
 - Notes: The main entrance is located on the "Erick Street & Waterview Ave" side please locate sign that indicates "Entrance".
 
-<br>
+### Turning in your POV:
 
-**Turning in your POV:**
 1. POV Shipment Counseling Worksheet:
    - Issued by branches transportation office and is specific to the State of Hawaii.
    - Signed and dated by a counselor from your transportation office.
@@ -167,10 +167,12 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
     - All compartments must be accessible. Locking gas caps and tool chests must be unlocked prior to shipment or a key to unlock them must be provided.
     - Vehicles that exceed 20 measurement tons (MT) are considered oversized or “out of gauge” and you may be charged by the government for exceeding your entitlement allowance.
 
-<br>
+### At Honolulu VPC:
 
-**At Destination:**
-- To avoid unnecessary trips, contact the vehicle processing center for official confirmation that the POV is on-hand and available for pickup
+- POV Processing Hours: 0700–1500
+- Address: `Honolulu Harbor Pier 1, Fort Armstrong, Forrest Avenue, Honolulu, HI 96813`
+- Phone: 808-670-3095
+- Contact the VPC to confirm the POV is on-hand and available for pickup
 - Proper identification: Military ID and/or driver’s license
 - DD Form 788 (Private Vehicle Shipping Document)
 - Complete set of keys
