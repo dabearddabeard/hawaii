@@ -11,17 +11,16 @@
 
 # Command and Base Information
 
-- [**Command**](#): 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
-- [**Base**](#): Kaneohe Bay Hawaii Marine Corps Base
-
-## Information: 
-
-### Key Resources and Services
-
 <details>
   <summary>CLICK TO EXPAND Details</summary>
 
 <br>
+
+**Command**: 
+- 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
+
+**Base**: 
+- Kaneohe Bay Hawaii Marine Corps Base (MCBH)
 
 **Marine Corps Community Services (MCCS) Hawaii** offers a comprehensive range of amenities and support services for military personnel and their families. These include golf courses, lodging options, recreational and fitness facilities, dining venues, prevention and counseling services, military family life support, educational resources, exchange services, information desks, ticket and tour arrangements, and local area information. Explore more at [MCCS Hawaii](https://hawaii.usmc-mccs.org/).
 
@@ -42,26 +41,37 @@
 
 </details>
 
-## Marine On-Line (MOL) Outbound Interview (OBI)
+# Marine On-Line (MOL) Outbound Interview (OBI)
 
 All Marines in receipt of PCS orders will utilize the OBI module within MOL. This will cover all information needed by IPAC/admin to finalize PCS orders. This will also determine your travel entitlements. The OBI is needed to start the flight booking process. Be sure to include your pet(s) in your OBI. See "Schedule Flights" section.
+
+## Schedule Flights with PTO
+
+> PTO is usually located within DMO
 
 <details>
   <summary>CLICK TO EXPAND Process</summary>
 
 <br>
 
-```markdown
+The following steps explain the flight booking process.
 
-🚗
+Upon receiving PCS orders, you can initiate the flight process:
+1. Complete your Outbound Interview (OBI) through your MOL Account
+2. Research commercial flight options including options for pets if needed and ensure that the port call paragraph is in your PCS orders.
+3. Contact your local IPAC/S-1 to submit your port call to SATO travel office to reserve your flights. If traveling with pets, ask about availability of alternative commercial flights to accommodate pet shipping.
+4. There is a difference between having reservations for your commercial flight and being ticketed for your commercial flight. Your reservation (commercial itinerary) will be forwarded to you for your flight. If everything is correct such as location, spelling of names, and birthdates, the traveler will call the Travel Management Company (SATO) to purchase tickets. Once your flight is paid for, a commercial ticket will be issued. This travel is normally paid for (with your GTCC) and ticketed within 72 hours (3 business days) prior to departure OR on a case-by-case basis at the Marine's request upon detaching from your unit if earlier ticketing is needed.
 
-```
+
+Things to consider:
+- Are you taking leave? Schedule your LICWO (Leave in Conjunction with Orders) travel.
+- Are you storing a vehicle? You have the option to leave from the VPC (Vehicle Processing Center).
 
 <br>
 
 </details>
 
-## POV
+# POV
 
 The government covers the cost of shipping one vehicle to Hawaii. Shipping additional vehicles costs about $1,000 from the west coast and $2,000 from the east coast, varying by vehicle type. Some families choose to store a second vehicle on the mainland. Living on base may make managing with one vehicle feasible. Alternatively, purchasing an inexpensive 'island car' from the base's lemon lot is a common choice for those needing a second vehicle.  
 
@@ -108,34 +118,7 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
 
 </details>
 
-## Schedule Flights with PTO
-
-> PTO is usually located within DMO
-
-
-<details>
-  <summary>CLICK TO EXPAND Process</summary>
-
-<br>
-
-The following steps explain the flight booking process.
-
-Upon receiving PCS orders, you can initiate the flight process:
-1. Complete your Outbound Interview (OBI) through your MOL Account
-2. Research commercial flight options including options for pets if needed and ensure that the port call paragraph is in your PCS orders.
-3. Contact your local IPAC/S-1 to submit your port call to SATO travel office to reserve your flights. If traveling with pets, ask about availability of alternative commercial flights to accommodate pet shipping.
-4. There is a difference between having reservations for your commercial flight and being ticketed for your commercial flight. Your reservation (commercial itinerary) will be forwarded to you for your flight. If everything is correct such as location, spelling of names, and birthdates, the traveler will call the Travel Management Company (SATO) to purchase tickets. Once your flight is paid for, a commercial ticket will be issued. This travel is normally paid for (with your GTCC) and ticketed within 72 hours (3 business days) prior to departure OR on a case-by-case basis at the Marine's request upon detaching from your unit if earlier ticketing is needed.
-
-
-Things to consider:
-- Are you taking leave? Schedule your LICWO (Leave in Conjunction with Orders) travel.
-- Are you storing a vehicle? You have the option to leave from the VPC (Vehicle Processing Center).
-
-<br>
-
-</details>
-
-## Pet Importation
+# Pet Importation
 
 All pets entering Hawaii are subject to quarantine. However, preparing in advance and understanding the requirements can significantly reduce the waiting period. The DoD offers up to $550 in reimbursement for quarantine expenses.
 
@@ -160,7 +143,7 @@ Please be aware that owning pets is considered a privilege, not a right. You are
 
 </details>
 
-## Hourly Child Care
+# Hourly Child Care
 
 **MCCS Child & Youth Programs | Resource and Referral Office**
 - Phone: 808-257-7430 
@@ -219,7 +202,7 @@ To register your child at the CDC, follow these steps:
 
 For more details on the full-day and hourly child care services available, visit the [Child Development Centers (CDCs) website](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers?utm_source=B&utm_medium=B&utm_campaign=30).
 
-## On-Base Recreation
+# On-Base Recreation
 
 On-base recreational opportunities available:
 
@@ -257,7 +240,7 @@ For fitness enthusiasts, the Main Gym is open daily from 04:00 to 22:00, equippe
 
 </details>
  
-## Off-Base 
+# Off-Base 
 
 <details>
   <summary>CLICK TO EXPAND Off-Base Gyms</summary>
@@ -341,7 +324,7 @@ For fitness enthusiasts, the Main Gym is open daily from 04:00 to 22:00, equippe
 
 </details>
 
-## Inbound Process
+# Inbound Process
 
 ### Guidance for Arrivals with Family
 
@@ -475,7 +458,7 @@ Interested in PPV Housing? ✔️ YES
 
 </details>
 
-## Ohana Military Communities
+# Ohana Military Communities
 
 12 locations throughout O'ahu  
 
@@ -587,7 +570,7 @@ Ohana Military Communities: [Search by Rank/Grade](https://www.ohanamarinecorpsc
 
 </details>
 
-## Basic Allowance for Housing (BAH) 
+# Basic Allowance for Housing (BAH) 
 
 Should we receive a BAH, expand the information provided below.  
 
