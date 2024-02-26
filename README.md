@@ -12,13 +12,13 @@
 
 ### POV
 
-- :ballot_box_with_check: Scheduled [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024).
-- :white_square_button: Adjust appointment date to flight. 
+:ballot_box_with_check: Scheduled [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024). <br>
+:white_square_button: Adjust appointment date to flight. <br> 
 
 ### Housing
-- :ballot_box_with_check: Submitted required documents to Family Housing Department
-- :ballot_box_with_check: Submitted application in the [Hunt Community Portal](https://huntcompanies.my.site.com/)
-- :white_square_button: Application with HUNT is reviewed. 
+:ballot_box_with_check: Submitted required documents to Family Housing Department. <br>
+:ballot_box_with_check: Submitted application in the [Hunt Community Portal](https://huntcompanies.my.site.com/). <br>
+:white_square_button: Application with HUNT is reviewed. <br>
 
 # Command and Base Information
 
