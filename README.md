@@ -10,13 +10,15 @@
 > :white_square_button: [POV](https://www.pcsmypov.com/) <br>
 > :ballot_box_with_check: MilitaryChildcare.com <br>
 
-POV
+### POV
+
 - :ballot_box_with_check: Scheduled [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024).
 - :white_square_button: Adjust appointment date to flight. 
 
-Housing
+### Housing
 - :ballot_box_with_check: Submitted required documents to Family Housing Department
 - :ballot_box_with_check: Submitted application in the [Hunt Community Portal](https://huntcompanies.my.site.com/)
+- :white_square_button: Application with HUNT is reviewed. 
 
 # Command and Base Information
 
