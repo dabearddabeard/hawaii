@@ -61,6 +61,42 @@ All Marines in receipt of PCS orders will utilize the OBI module within MOL. Thi
 
 </details>
 
+## POV
+
+The government covers the cost of shipping one vehicle to Hawaii. Shipping additional vehicles costs about $1,000 from the west coast and $2,000 from the east coast, varying by vehicle type. Some families choose to store a second vehicle on the mainland. Living on base may make managing with one vehicle feasible. Alternatively, purchasing an inexpensive 'island car' from the base's lemon lot is a common choice for those needing a second vehicle.  
+
+<details>
+  <summary>CLICK TO EXPAND Car Info</summary>
+
+<br>
+
+Baltimore Vehicle Processing Center (VPC) Appointment: 
+- FASTPASS appointment:
+  - Appointment Time/Date: 1000 on 03 June 2024
+  - Confirmation Number: 412526737906032024
+- Address: `2940 Waterview Ave, Baltimore, MD, United States, 21230`
+- Phone: 667-401-0770
+- Notes: The main entrance is located on the "Erick Street & Waterview Ave" side please locate sign that indicates "Entrance".
+
+Turning in your POV:
+1. Fully Charged 
+2. Clean inside and out
+3. POV Shipment Counseling Worksheet:
+   - Issued by branches transportation office and is specific to the State of Hawaii.
+   - Signed and dated by a counselor from your transportation office.
+5. Orders
+6. Registration
+7. Vehicle Title
+8. Lienholder Authorization Letter
+9. Customs Clearance Letter provided by your branches transportation office.
+10. Vehicle Recalls:
+   - A screenshot from [NHTSA](https://www.nhtsa.gov/recalls) showing no open recalls is acceptable.
+   - VIN: `5YJXCBE22LF300186`
+
+<br>
+
+</details>
+
 ## Schedule Flights with PTO
 
 > PTO is usually located within DMO
@@ -83,25 +119,6 @@ Upon receiving PCS orders, you can initiate the flight process:
 Things to consider:
 - Are you taking leave? Schedule your LICWO (Leave in Conjunction with Orders) travel.
 - Are you storing a vehicle? You have the option to leave from the VPC (Vehicle Processing Center).
-
-<br>
-
-</details>
-
-## Cars
-
-The government covers the cost of shipping one vehicle to Hawaii. Shipping additional vehicles costs about $1,000 from the west coast and $2,000 from the east coast, varying by vehicle type. Some families choose to store a second vehicle on the mainland. Living on base may make managing with one vehicle feasible. Alternatively, purchasing an inexpensive 'island car' from the base's lemon lot is a common choice for those needing a second vehicle.  
-
-<details>
-  <summary>CLICK TO EXPAND Car Info</summary>
-
-<br>
-
-```markdown
-
-🚗
-
-```
 
 <br>
 
