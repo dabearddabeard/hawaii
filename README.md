@@ -1,11 +1,11 @@
 **Checklist** <br>
 > :white_square_button: [DPS](https://www.militaryonesource.mil/moving-pcs/moving-personal-property/) <br>
-> :white_square_button: [POV](https://www.pcsmypov.com/) <br>
 > :white_square_button: MOL OBI. <br>
 > :white_square_button: CDC Preregistration Forms <br>
 > :white_square_button: Pet Importation <br>
 > :white_square_button: Schedule Flights with PTO <br>
-> :white_square_button: PCS OCONUS class - [Smooth Move](https://quantico.usmc-mccs.org/marine-family-support/military-family-life/relocation-assistance) <br>
+> :white_square_button: PCS OCONUS Class - [Smooth Move](https://quantico.usmc-mccs.org/marine-family-support/military-family-life/relocation-assistance) <br>
+> :white_square_button: [POV](https://www.pcsmypov.com/) <br>
 > :ballot_box_with_check: MilitaryChildcare.com <br>
 > :ballot_box_with_check: Submit required documents to Family Housing Department <br>
 
@@ -66,11 +66,11 @@ All Marines in receipt of PCS orders will utilize the OBI module within MOL. Thi
 The government covers the cost of shipping one vehicle to Hawaii. Shipping additional vehicles costs about $1,000 from the west coast and $2,000 from the east coast, varying by vehicle type. Some families choose to store a second vehicle on the mainland. Living on base may make managing with one vehicle feasible. Alternatively, purchasing an inexpensive 'island car' from the base's lemon lot is a common choice for those needing a second vehicle.  
 
 <details>
-  <summary>CLICK TO EXPAND Car Info</summary>
+  <summary>CLICK TO EXPAND POV Info</summary>
 
 <br>
 
-Baltimore Vehicle Processing Center (VPC) Appointment: 
+**Baltimore Vehicle Processing Center (VPC) Appointment:**
 - FASTPASS appointment:
   - Appointment Time/Date: 1000 on 03 June 2024
   - Confirmation Number: 412526737906032024
@@ -78,7 +78,9 @@ Baltimore Vehicle Processing Center (VPC) Appointment:
 - Phone: 667-401-0770
 - Notes: The main entrance is located on the "Erick Street & Waterview Ave" side please locate sign that indicates "Entrance".
 
-Turning in your POV:
+<br>
+
+**Turning in your POV:**
 1. Fully Charged 
 2. Clean inside and out
 3. POV Shipment Counseling Worksheet:
