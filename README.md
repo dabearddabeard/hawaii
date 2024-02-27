@@ -6,8 +6,8 @@
 
 ### MOL OBI
 > :ballot_box_with_check: Submited OBI <br>
-> :ballot_box_with_check: CPAC marked OBI as “MOL Reviewed” and sent to SATO for booking<br>
-> :white_square_button:  Book Inns at MCBH <br>
+> :ballot_box_with_check: CPAC marked OBI as “MOL Reviewed” and sent to SATO for booking <br>
+> :white_square_button:  Book [The Inns of the Corps](https://goo.gl/maps/mUwxC7tu7cCzGZfy8) <br>
 
 ### HHG and UB
 > :ballot_box_with_check: [DPS](https://www.militaryonesource.mil/moving-pcs/moving-personal-property/) <br>
