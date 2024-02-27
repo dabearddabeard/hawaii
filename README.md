@@ -8,6 +8,7 @@
 
 ### MOL OBI
 :ballot_box_with_check: Submited OBI <br>
+:ballot_box_with_check: CPAC marked OBI as “MOL Reviewed” <br>
 :white_square_button:  Schedule Flights with PTO <br>
 
 ### POV
