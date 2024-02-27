@@ -27,16 +27,13 @@
 ### Pet Importation
 > :white_square_button: Vet <br>
 
-### Check-Out
-> :white_square_button: N$A Debriefs are held as walk-ins: Monday – Friday at 0730, OPS1 Rm 1W050 <br>
-> :white_square_button: CYBER debriefings are held as walk-ins: Monday – Friday, in OPS1. Rm 3S011, immediately after the N$A debrief <br>
-> :white_square_button: Vet <br>
-> :white_square_button: Vet <br>
-
 # Check-Out
 
 ### Debriefs
+<details>
+  <summary>CLICK TO EXPAND Details</summary>
 
+<br>
 N$A debriefs are held as walk-ins: 
 - When: Monday – Friday at 0730
 - Where: OPS1 Rm 1W050
@@ -44,7 +41,9 @@ N$A debriefs are held as walk-ins:
 CYBERCOM debriefings are immediately after the N$A debrief:
 - When: Monday – Friday
 - Where: OPS1 Rm 3S011
+<br>
 
+</details>
 
 # Command and Base Information
 
