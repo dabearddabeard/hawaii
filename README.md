@@ -528,7 +528,11 @@ Interested in PPV Housing? ✔️ YES
 
 # Ohana Military Communities
 
-12 locations throughout O'ahu  
+### Neighborhood Preference List:
+1. Nani Ulupau
+2. Mololani
+3. Kaluapuni
+4. Hawaii Loa
 
 <details>
   <summary>CLICK TO EXPAND Neighborhoods</summary>
