@@ -4,7 +4,6 @@
 ### MOL OBI
 > :ballot_box_with_check: Submited OBI <br>
 > :ballot_box_with_check: CPAC marked OBI as “MOL Reviewed” and sent to CTO for booking flight. <br>
-> :white_square_button:  Book [The Inns of the Corps](https://goo.gl/maps/mUwxC7tu7cCzGZfy8) <br>
 
 ### HHG and UB
 > :ballot_box_with_check: [DPS](https://www.militaryonesource.mil/moving-pcs/moving-personal-property/) <br>
@@ -26,6 +25,10 @@
 
 ### Pet Importation
 > :white_square_button: Vet <br>
+> :white_square_button: Mail  documents to the Hawaii Animal Quarantine office.<br>
+
+### Temporary Lodging Facility (TLF)
+> :white_square_button:  Book pet friendly accommodations at [The Inns of the Corps](https://goo.gl/maps/mUwxC7tu7cCzGZfy8) <br>
 
 # Check-Out
 
@@ -81,6 +84,17 @@
 
 </details>
 
+# Temporary Lodging Facility (TLF)
+
+- TLE (Temporary Lodging Expense): Authorized 5 days CONUS if PCSing OCONUS
+- TLA (Temporary Lodging Allowance): Authorized OCONUS 15 days at a time, except when more than one TLA rate applies within the computation period. If the final lodging period is greater than 15 days, but less than 30 days, it may be processed as a single payment (DODFMR, Vol 7a. Ch68)
+
+CPAC POCs
+- OIC: `301-677-9919` or `301-677-9908`
+- SNCOIC: `301-677-9918`
+- Clerks: `301-677-9916` or `301-677-9939`
+- Outbound Clerk: `301-677-9914`
+
 # Marine On-Line (MOL) Outbound Interview (OBI)
 
 All Marines in receipt of PCS orders will utilize the OBI module within MOL. This will cover all information needed by IPAC/admin to finalize PCS orders. This will also determine your travel entitlements. The OBI is needed to start the flight booking process. Be sure to include your pet(s) in your OBI.
@@ -102,7 +116,6 @@ Upon receiving PCS orders, you can initiate the flight process:
 3. Contact your local IPAC/S-1 to submit your port call to SATO travel office to reserve your flights. If traveling with pets, ask about availability of alternative commercial flights to accommodate pet shipping.
 4. There is a difference between having reservations for your commercial flight and being ticketed for your commercial flight. Your reservation (commercial itinerary) will be forwarded to you for your flight. If everything is correct such as location, spelling of names, and birthdates, the traveler will call the Travel Management Company (SATO) to purchase tickets. Once your flight is paid for, a commercial ticket will be issued. This travel is normally paid for (with your GTCC) and ticketed within 72 hours (3 business days) prior to departure OR on a case-by-case basis at the Marine's request upon detaching from your unit if earlier ticketing is needed.
 
-
 Things to consider:
 - Are you taking leave? Schedule your LICWO (Leave in Conjunction with Orders) travel.
 - Are you storing a vehicle? You have the option to leave from the VPC (Vehicle Processing Center).
@@ -120,7 +133,7 @@ All pets entering Hawaii are subject to quarantine. However, preparing in advanc
 
 <br>
 
-To ensure a smooth process for bringing your pets into Hawaii, follow these guidelines:
+### To ensure a smooth process for bringing your pets into Hawaii, follow these guidelines:
 
 1. **Shortened Quarantine Requirements**: For a quarantine period of five days or less, visit [here for the necessary requirements](http://hdoa.hawaii.gov/ai/aqs/faq-for-five-day-or-less-program/). Failure to meet these criteria may result in your pet being quarantined for up to 120 days.
 
@@ -131,6 +144,19 @@ To ensure a smooth process for bringing your pets into Hawaii, follow these guid
 4. **Official Import Guide**: Familiarize yourself with the official guide for importing cats and dogs into Hawaii by visiting [this link](http://hdoa.hawaii.gov/ai/aqs/aqs-info/). The website provides a detailed checklist of all necessary requirements for importing your pet. It is advisable to have this checklist on hand during your veterinary appointment.
 
 Please be aware that owning pets is considered a privilege, not a right. You are responsible for all risks and costs associated with your pet's transportation. However, mandatory pet quarantine fees incurred as part of the mandatory quarantine process for a household pet are reimbursable, with a limit of $550 per Permanent Change of Station (PCS) move for pets quarantined on or after December 28, 2001. It's important to note that there is no reimbursement or allowance for the transportation costs of a pet. According to the Joint Travel Regulations (JTR), paragraph 050106, only quarantine expenses for dogs and cats are eligible for reimbursement.
+
+### Mail Pet Quarantine Paperwork
+
+Paperwork needs to arrive at least 10 days prior to arrival. Failure to do this will result in delays and higher fees. Send all required documents to the Hawaii Animal Quarantine office. The following documents need to arrive at the quarantine office at least 10 days before your arrival. Refer to the Hawaii Animal Quarantine website and Honolulu Pet Arrival Checklist for full details.  
+
+- Address: `Animal Quarantine Station. 99-951 Halawa Valley Street, Aiea, Hawaii 96701`
+- To reach the quarantine station staff, call `808-483-7151` or email `rabiesfree@hawaii.gov`
+- Documents:
+  - Two Original Rabies Certificates (must be signed in ink by a licensed veterinarian)
+  - AQS- 279 "Dog & Cat Import Form"
+  - Cashier's check or money order (no personal checks are accepted) for Direct Airport Release (DAR) made out to Department of Agriculture for $185. Tip: Add your pet's microchip number on the cashier's check. Send these documents via certified mail, return receipt, or priority envelope for tracking purposes.
+  - 
+
 
 <br>
 
