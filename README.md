@@ -1,8 +1,5 @@
 # Checklists
 > :white_square_button: CDC Preregistration Forms <br>
-> :white_square_button: Pet Importation <br>
-> :white_square_button: PCS OCONUS Class - [Smooth Move](https://quantico.usmc-mccs.org/marine-family-support/military-family-life/relocation-assistance) <br>
-> :ballot_box_with_check: MilitaryChildcare.com <br>
 
 ### MOL OBI
 > :ballot_box_with_check: Submited OBI <br>
@@ -22,6 +19,13 @@
 > :ballot_box_with_check: Submitted required documents to Family Housing Department. <br>
 > :ballot_box_with_check: Submitted application in the [Hunt Community Portal](https://huntcompanies.my.site.com/). <br>
 > :white_square_button: Application with HUNT is under review. HUNT username is `david.beard741@gmail.com.hmcportal`  <br>
+
+### Childcare
+> :ballot_box_with_check: MilitaryChildcare.com <br>
+> :white_square_button: CDC Preregistration Forms <br>
+
+### Pet Importation
+> :white_square_button: Vet <br>
 
 # Command and Base Information
 
