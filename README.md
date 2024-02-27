@@ -52,18 +52,16 @@
 
 # Command and Base Information
 
+<details>
+  <summary>CLICK TO EXPAND Details</summary>
+
+<br>
+
 - **Command**: 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
 - **Future MCC**:	130
 - **Base**: Kaneohe Bay Hawaii Marine Corps Base (MCBH)
 - **Estimated Detach Date**: 20240515
 - **Report No Later Than Date**: 20240630
-
-<br>
-
-<details>
-  <summary>CLICK TO EXPAND Details</summary>
-
-<br>
 
 **Marine Corps Community Services (MCCS) Hawaii** offers a comprehensive range of amenities and support services for military personnel and their families. These include golf courses, lodging options, recreational and fitness facilities, dining venues, prevention and counseling services, military family life support, educational resources, exchange services, information desks, ticket and tour arrangements, and local area information. Explore more at [MCCS Hawaii](https://hawaii.usmc-mccs.org/).
 
@@ -89,11 +87,20 @@
 - TLE (Temporary Lodging Expense): Authorized 5 days CONUS if PCSing OCONUS
 - TLA (Temporary Lodging Allowance): Authorized OCONUS 15 days at a time, except when more than one TLA rate applies within the computation period. If the final lodging period is greater than 15 days, but less than 30 days, it may be processed as a single payment (DODFMR, Vol 7a. Ch68)
 
+<details>
+  <summary>CLICK TO EXPAND CPAC POCs</summary>
+
+<br>
+
 CPAC POCs
 - OIC: `301-677-9919` or `301-677-9908`
 - SNCOIC: `301-677-9918`
 - Clerks: `301-677-9916` or `301-677-9939`
 - Outbound Clerk: `301-677-9914`
+
+<br>
+
+</details>
 
 # Marine On-Line (MOL) Outbound Interview (OBI)
 
