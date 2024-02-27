@@ -18,10 +18,10 @@
 ### Housing
 > :ballot_box_with_check: Submitted required documents to Family Housing Department. <br>
 > :ballot_box_with_check: Submitted application in the [Hunt Community Portal](https://huntcompanies.my.site.com/). <br>
-> :white_square_button: Application with HUNT is under review. HUNT username is `david.beard741@gmail.com.hmcportal`  <br>
+> :white_square_button: Application with HUNT is under review. HUNT username is `david.beard741@gmail.com.hmcportal`.  <br>
 
 ### Childcare
-> :ballot_box_with_check: MilitaryChildcare.com <br>
+> :ballot_box_with_check: Create account with [MilitaryChildcare.com](https://militarychildcare.com/), username is `david.beard741@gmail.com`. <br>
 > :white_square_button: CDC Preregistration Forms <br>
 
 ### Pet Importation
