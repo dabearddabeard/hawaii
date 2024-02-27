@@ -10,6 +10,7 @@
 :ballot_box_with_check: Submited OBI <br>
 :ballot_box_with_check: CPAC marked OBI as “MOL Reviewed” <br>
 :white_square_button:  Schedule Flights with PTO <br>
+:white_square_button:  Book Inns at MCBH <br>
 
 ### POV
 :ballot_box_with_check: Scheduled [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024). <br>
