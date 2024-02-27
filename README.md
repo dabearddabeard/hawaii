@@ -39,10 +39,10 @@
 - When: Monday – Friday at 0730
 - Where: OPS1 Rm 1W050
 
-**CYBERCOM debriefings are immediately after the N$A debrief:**
+**C¥BERCOM debriefings are immediately after the N$A debrief:**
 - When: Monday – Friday
 - Where: OPS1 Rm 3S011
-- 
+
 <br>
 
 </details>
