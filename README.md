@@ -533,6 +533,7 @@ Interested in PPV Housing? ✔️ YES
 2. Mololani
 3. Kaluapuni
 4. Hawaii Loa
+5. Camp Smith
 
 <details>
   <summary>CLICK TO EXPAND Neighborhoods</summary>
@@ -554,30 +555,24 @@ Ohana Military Communities: [Search by Rank/Grade](https://www.ohanamarinecorpsc
     - Central AC
     - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/nani-ulupau)
 
-- **Camp Smith**:
-    - Ranks: O4, O5, and E9 only
-    - Drive to MCBH: 17.5 miles, 25 min
-    - Address: `4 Elrod Rd, Aiea, HI 96701`
-    - Floor Plans:
-        - #315 (4 Bedroom, 2.5 Bathrooms, 2301 ft2)
-    - Ocean and City Views
-    - Contemporary Design
-    - Central AC
-    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/camp-smith)
-
-- **Hawaii Loa**:
-    - Ranks: E1-E9, O1-O6 families
+- **Mololani**:
+    - Ranks: E1-9, W1-W5, O1-O5
     - Located on MCBH
     - Address: `1571 Lawrence Rd, Kailua, HI 96734`
     - Floor Plans:
-        - #A + #B (3 Bedroom, 2.5 Bathrooms, 1200 ft2)
-        - #C (4 Bedroom, 3.0 Bathrooms, 1348 ft2)
-        - #D (4 Bedroom, 2.5 Bathrooms, 1349 ft2)
-        - #E (4 Bedroom, 2.0 Bathrooms, 1349 ft2)
-    - One-Car Garage
-    - Patio
+        - #220 (3 Bedroom, 2.5 Bathrooms, 1790 ft2)
+        - #221 (3 Bedroom, 2.5 Bathrooms, 1763 ft2)
+        - #222 (4 Bedroom, 2.5 Bathrooms, 1961 ft2)
+        - #224 (3 Bedroom, 2.0 Bathrooms, 1961 ft2)
+        - #310 (3 Bedroom, 2.5 Bathrooms, 1984 ft2)
+        - #311 (4 Bedroom, 2.5 Bathrooms, 2085 ft2)
+        - #312 (4 Bedroom, 2.5 Bathrooms, 2144 ft2)
+        - #314 (3 Bedroom, 2.0 Bathrooms, 2007 ft2)
+        - #315 (4 Bedroom, 2.5 Bathrooms, 2301 ft2) 
+    - Two-Car Garage
+    - outdoor swimming pool, community center, tennis courts, several tot-lot parks, and a fitness center.
     - Central AC
-    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/hawaii-loa)
+    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/mololani)
 
 - **Kaluapuni**:
     - Ranks: O4-O5
@@ -594,6 +589,31 @@ Ohana Military Communities: [Search by Rank/Grade](https://www.ohanamarinecorpsc
     - 3 to 4 bedrooms
     - Central AC
     - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/kaluapuni)
+
+- **Hawaii Loa**:
+    - Ranks: E1-E9, O1-O6 families
+    - Located on MCBH
+    - Address: `1571 Lawrence Rd, Kailua, HI 96734`
+    - Floor Plans:
+        - #A + #B (3 Bedroom, 2.5 Bathrooms, 1200 ft2)
+        - #C (4 Bedroom, 3.0 Bathrooms, 1348 ft2)
+        - #D (4 Bedroom, 2.5 Bathrooms, 1349 ft2)
+        - #E (4 Bedroom, 2.0 Bathrooms, 1349 ft2)
+    - One-Car Garage
+    - Patio
+    - Central AC
+    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/hawaii-loa)
+
+- **Camp Smith**:
+    - Ranks: O4, O5, and E9 only
+    - Drive to MCBH: 17.5 miles, 25 min
+    - Address: `4 Elrod Rd, Aiea, HI 96701`
+    - Floor Plans:
+        - #315 (4 Bedroom, 2.5 Bathrooms, 2301 ft2)
+    - Ocean and City Views
+    - Contemporary Design
+    - Central AC
+    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/camp-smith)
 
 - **Kapoho**:
     - Ranks: O4-O5
@@ -618,25 +638,6 @@ Ohana Military Communities: [Search by Rank/Grade](https://www.ohanamarinecorpsc
     - outdoor swimming pool, community center, tennis courts, several tot-lot parks, and a fitness center.
     - Central AC
     - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/manana)
-
-- **Mololani**:
-    - Ranks: E1-9, W1-W5, O1-O5
-    - Located on MCBH
-    - Address: `1571 Lawrence Rd, Kailua, HI 96734`
-    - Floor Plans:
-        - #220 (3 Bedroom, 2.5 Bathrooms, 1790 ft2)
-        - #221 (3 Bedroom, 2.5 Bathrooms, 1763 ft2)
-        - #222 (4 Bedroom, 2.5 Bathrooms, 1961 ft2)
-        - #224 (3 Bedroom, 2.0 Bathrooms, 1961 ft2)
-        - #310 (3 Bedroom, 2.5 Bathrooms, 1984 ft2)
-        - #311 (4 Bedroom, 2.5 Bathrooms, 2085 ft2)
-        - #312 (4 Bedroom, 2.5 Bathrooms, 2144 ft2)
-        - #314 (3 Bedroom, 2.0 Bathrooms, 2007 ft2)
-        - #315 (4 Bedroom, 2.5 Bathrooms, 2301 ft2) 
-    - Two-Car Garage
-    - outdoor swimming pool, community center, tennis courts, several tot-lot parks, and a fitness center.
-    - Central AC
-    - [More Details](https://www.ohanamarinecorpscommunities.com/neighborhood/mololani)
 
 <br>
 
