@@ -3,7 +3,7 @@
 
 ### MOL OBI
 > :ballot_box_with_check: Submited OBI <br>
-> :ballot_box_with_check: CPAC marked OBI as “MOL Reviewed” and sent to SATO for booking <br>
+> :ballot_box_with_check: CPAC marked OBI as “MOL Reviewed” and sent to CTO for booking flight. <br>
 > :white_square_button:  Book [The Inns of the Corps](https://goo.gl/maps/mUwxC7tu7cCzGZfy8) <br>
 
 ### HHG and UB
