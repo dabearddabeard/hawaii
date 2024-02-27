@@ -17,8 +17,7 @@
 ### Housing
 :ballot_box_with_check: Submitted required documents to Family Housing Department. <br>
 :ballot_box_with_check: Submitted application in the [Hunt Community Portal](https://huntcompanies.my.site.com/). <br>
-- username: `david.beard741@gmail.com.hmcportal` <br>
-:white_square_button: Application with HUNT is reviewed. <br>
+:white_square_button: Application with HUNT is reviewed. HUNT username is `david.beard741@gmail.com.hmcportal`  <br>
 
 # Command and Base Information
 
