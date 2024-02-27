@@ -1,25 +1,27 @@
 # Checklists
-
-> :white_square_button: [DPS](https://www.militaryonesource.mil/moving-pcs/moving-personal-property/) <br>
 > :white_square_button: CDC Preregistration Forms <br>
 > :white_square_button: Pet Importation <br>
 > :white_square_button: PCS OCONUS Class - [Smooth Move](https://quantico.usmc-mccs.org/marine-family-support/military-family-life/relocation-assistance) <br>
 > :ballot_box_with_check: MilitaryChildcare.com <br>
 
 ### MOL OBI
-:ballot_box_with_check: Submited OBI <br>
-:ballot_box_with_check: CPAC marked OBI as “MOL Reviewed” <br>
-:white_square_button:  Schedule Flights with PTO <br>
-:white_square_button:  Book Inns at MCBH <br>
+> :ballot_box_with_check: Submited OBI <br>
+> :ballot_box_with_check: CPAC marked OBI as “MOL Reviewed” and sent to SATO for booking<br>
+> :white_square_button:  Book Inns at MCBH <br>
+
+### HHG and UB
+> :ballot_box_with_check: [DPS](https://www.militaryonesource.mil/moving-pcs/moving-personal-property/) <br>
+> :white_square_button: HHG and UB shipment has been submitted to the booking office `800-521-9959`.
+> :white_square_button: If application requires changes contact the local Transportation Office at FORT MEADE, `301-677-9639`.
 
 ### POV
-:ballot_box_with_check: Scheduled [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024). <br>
-:white_square_button: Adjust appointment date to flight. <br> 
+> :ballot_box_with_check: Scheduled [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024). <br>
+> :white_square_button: Adjust appointment date to flight. <br> 
 
 ### Housing
-:ballot_box_with_check: Submitted required documents to Family Housing Department. <br>
-:ballot_box_with_check: Submitted application in the [Hunt Community Portal](https://huntcompanies.my.site.com/). <br>
-:white_square_button: Application with HUNT is reviewed. HUNT username is `david.beard741@gmail.com.hmcportal`  <br>
+> :ballot_box_with_check: Submitted required documents to Family Housing Department. <br>
+> :ballot_box_with_check: Submitted application in the [Hunt Community Portal](https://huntcompanies.my.site.com/). <br>
+> :white_square_button: Application with HUNT is under review. HUNT username is `david.beard741@gmail.com.hmcportal`  <br>
 
 # Command and Base Information
 
