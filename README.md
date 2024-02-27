@@ -154,16 +154,20 @@ Please be aware that owning pets is considered a privilege, not a right. You are
 
 ### Mail Pet Quarantine Paperwork
 
-Paperwork needs to arrive at least 10 days prior to arrival. Failure to do this will result in delays and higher fees. Send all required documents to the Hawaii Animal Quarantine office. The following documents need to arrive at the quarantine office at least 10 days before your arrival. Refer to the Hawaii Animal Quarantine website and Honolulu Pet Arrival Checklist for full details.  
+Paperwork needs to arrive at least 10 days prior to arrival. Failure to do this will result in delays and higher fees. Send all required documents to the Hawaii Animal Quarantine office. The following documents need to arrive at the quarantine office at least 10 days before your arrival. Refer to the [Hawaii Animal Quarantine](http://hdoa.hawaii.gov/ai/aqs/aqs-info/) website and [Honolulu Pet Arrival Checklist](https://hdoa.hawaii.gov/ai/files/2018/09/Checklist-1.pdf) for full details.  
 
 - Address: `Animal Quarantine Station. 99-951 Halawa Valley Street, Aiea, Hawaii 96701`
 - To reach the quarantine station staff, call `808-483-7151` or email `rabiesfree@hawaii.gov`
 - Documents:
   - Two Original Rabies Certificates (must be signed in ink by a licensed veterinarian)
-  - AQS- 279 "Dog & Cat Import Form"
+  - AQS- 279 "[Dog & Cat Import Form](https://hdoa.hawaii.gov/ai/files/2019/08/AQS279-2020_8.21.2019.pdf)"
   - Cashier's check or money order (no personal checks are accepted) for Direct Airport Release (DAR) made out to Department of Agriculture for $185. Tip: Add your pet's microchip number on the cashier's check. Send these documents via certified mail, return receipt, or priority envelope for tracking purposes.
-  - 
 
+### Airport Animal Quarantine Holding Facility (AAQHF) in HNL for Pet Pickup
+- You must contact the AAQHF and notify them if you cannot pick up your pet the day it is delivered to the Airport Animal Quarantine Holding Facility (AAQHF) in HNL during normal inspection hours.
+- Phone: `808-837-8092`
+- Hours: 0800 to 1700
+- If your pet is not picked up from the holding facility by 1000 the following day, your pet will be transferred to the Animal Quarantine Station (AQS) and fees will apply. 
 
 <br>
 
