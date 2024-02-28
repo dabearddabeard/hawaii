@@ -579,19 +579,16 @@ Interested in PPV Housing? ✔️ YES
 ☑️ Receive web/PCS orders to Hawaii
     ☑️ Submit required documents to FHO
         ☑️ FHO reviews documents
-            -> Confirmation of receipt/welcome email sent to SM
-                -> SM reports to unit IPAC/Admin (Navy) & TLA Office for briefing
-                    -> SM reports to FHO for Check-In Brief
-                        -> Application referred to PPV Partner for waitlist
-                            -> PPV Partner contacts SM with an offer?
-                                ✔️ YES
-                                    -> SM accepts offer?
-                                        ✔️ YES -> Proceed to FHO for CNA issuance
-                                        ❌ NO  -> 2nd and final offer made. SM accepts offer?
-                                                   ✔️ YES -> Proceed to FHO for CNA issuance
-                                                   ❌ NO -> Removed from waitlist
-                                ❌ NO
-                                    -> SM seeks Off-Base Housing or remains on waitlist with lease copy
+            ☑️ Application referred to PPV Partner for waitlist
+                -> PPV Partner contacts SM with an offer?
+                    ✔️ YES
+                        -> SM accepts offer?
+                            ✔️ YES -> Proceed to FHO for CNA issuance
+                            ❌ NO  -> 2nd and final offer made. SM accepts offer?
+                                       ✔️ YES -> Proceed to FHO for CNA issuance
+                                       ❌ NO -> Removed from waitlist
+                    ❌ NO
+                        -> SM seeks Off-Base Housing or remains on waitlist with lease copy
 
 ```
 
