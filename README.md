@@ -580,15 +580,16 @@ Interested in PPV Housing? ✔️ YES
     ☑️ Submit required documents to FHO
         ☑️ FHO reviews documents
             ☑️ Application referred to PPV Partner for waitlist
-                -> PPV Partner contacts SM with an offer?
-                    ✔️ YES
-                        -> SM accepts offer?
-                            ✔️ YES -> Proceed to FHO for CNA issuance
-                            ❌ NO  -> 2nd and final offer made. SM accepts offer?
-                                       ✔️ YES -> Proceed to FHO for CNA issuance
-                                       ❌ NO -> Removed from waitlist
-                    ❌ NO
-                        -> SM seeks Off-Base Housing or remains on waitlist with lease copy
+                ☑️ SM added to the waitlist at OMC Phase II
+                    -> PPV Partner contacts SM with an offer?
+                        ✔️ YES
+                            -> SM accepts offer?
+                                ✔️ YES -> Proceed to FHO for CNA issuance
+                                ❌ NO  -> 2nd and final offer made. SM accepts offer?
+                                           ✔️ YES -> Proceed to FHO for CNA issuance
+                                           ❌ NO -> Removed from waitlist
+                        ❌ NO
+                            -> SM seeks Off-Base Housing or remains on waitlist with lease copy
 
 ```
 
