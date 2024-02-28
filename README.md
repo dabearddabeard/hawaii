@@ -143,7 +143,7 @@ All Marines in receipt of PCS orders will utilize the OBI module within MOL. Thi
   - DAVID A BEARD
   - SARAH M GIRARD
   - CHLOE E BEARD
-- Confirmation: 3432IG
+- Confirmation: `3432IG`
 
 <br>
 
