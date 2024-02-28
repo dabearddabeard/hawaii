@@ -8,7 +8,7 @@
 ### HHG and UB
 > :ballot_box_with_check: [DPS](https://www.militaryonesource.mil/moving-pcs/moving-personal-property/) <br>
 > :ballot_box_with_check: HHG and UB shipment has been submitted to the booking office `800-521-9959`. If application requires changes contact the local Transportation Office at FORT MEADE, `301-677-9639`. <br>
-> :white_square_button: receive an email indicating who your TSP is <br>
+> :ballot_box_with_check: received an email indicating the TSP is Trish `Trish@avlgroup.com` <br>
 
 ### POV
 > :ballot_box_with_check: Scheduled [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024). <br>
