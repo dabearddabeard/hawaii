@@ -28,7 +28,7 @@
 > :white_square_button: Mail  documents to the Hawaii Animal Quarantine office.<br>
 
 ### Temporary Lodging Facility (TLF)
-> :white_square_button:  Book pet friendly accommodations at [The Inns of the Corps](https://goo.gl/maps/mUwxC7tu7cCzGZfy8) <br>
+> :white_square_button:  Book pet friendly accommodations at [The Inns of the Corps](https://lodgingreservations.usmc-mccs.org/obookings3/Search/Index/13508/90/) <br>
 
 # Check-Out
 
@@ -97,6 +97,20 @@ CPAC POCs
 - SNCOIC: `301-677-9918`
 - Clerks: `301-677-9916` or `301-677-9939`
 - Outbound Clerk: `301-677-9914`
+
+<br>
+
+</details>
+
+<details>
+  <summary>CLICK TO EXPAND Inn Info</summary>
+
+<br>
+
+- [The Inns of the Corps](https://lodgingreservations.usmc-mccs.org/obookings3/Search/Index/13508/90/)
+- Address: `Building 6534, MCB Hawaii, Kaneohe Bay, Hawaii 96863`
+- Phone: 808-254-2806
+- PCS Priority Facility
 
 <br>
 
