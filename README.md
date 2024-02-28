@@ -12,7 +12,9 @@
 
 ### POV
 > :ballot_box_with_check: Scheduled [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024). <br>
-> :white_square_button: Adjust appointment date to flight. <br> 
+> :white_square_button: Virtual briefing for Turn In appointments every Wednesday starting @ 10:00AM EST. [Joint Meeting](https://internationalautologistics-936.my.webex.com/internationalautologistics-936.my/j.php?MTID=mfeb1d94c4a3fcb2a4b4adfff801ad899). Meeting Number `2556 451 2416`. Password `BbYin2FfW83`. Join by phone `+1-415-655-0001`. Access code: `2556 451 2416`. <br>
+> :white_square_button: Adjust appointment date to flight. <br>
+> 
 
 ### Housing
 > :ballot_box_with_check: Submitted required documents to Family Housing Department. <br>
@@ -116,12 +118,9 @@ CPAC POCs
 
 </details>
 
-# Marine On-Line (MOL) Outbound Interview (OBI)
+# Flights
 
 All Marines in receipt of PCS orders will utilize the OBI module within MOL. This will cover all information needed by IPAC/admin to finalize PCS orders. This will also determine your travel entitlements. The OBI is needed to start the flight booking process. Be sure to include your pet(s) in your OBI.
-
-### Flights
-
 > PTO is usually located within DMO
 
 <details>
