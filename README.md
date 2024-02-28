@@ -144,6 +144,17 @@ All Marines in receipt of PCS orders will utilize the OBI module within MOL. Thi
   - SARAH M GIRARD
   - CHLOE E BEARD
 - Confirmation: `3432IG`
+- ORDERS ARE REQUIRED TO ISSUE AIRLINE TICKETS
+  - EMAIL TO `USMC.HQCTO@CWTSATO.COM`
+  - CWTSATOTRAVEL WILL NOT ISSUE AIRLINES TICKETS WITHOUT A COPY OF ORDERS.
+
+Active-duty military customers are eligible for an exception regarding baggage fees. They are not required to pay for additional luggage pieces, contingent upon presenting a current, valid military identification at the time of check-in.
+
+When traveling on active duty, military customers are exempt from the standard two-piece luggage limit and will incur no charges for excess, oversized, or overweight baggage, provided no single piece exceeds 100 pounds in weight or 80 inches in combined dimensions (length + width + height). However, luggage surpassing 80 inches must not be checked but can be shipped as cargo, given the customer is recognized as a TSA Known Shipper.
+
+It is imperative for military personnel to present a valid United States Uniformed Services Active Duty Identification Card at check-in.
+
+A ticketed customer, including those in the military, may check a maximum of 20 pieces of baggage per flight. It is important to note that dependents traveling without the active-duty military member are subject to standard fees for excess, oversized, and overweight luggage.
 
 <br>
 
