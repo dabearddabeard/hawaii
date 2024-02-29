@@ -1,10 +1,10 @@
-From: Beard, David A 
-Sent: Thursday, February 29, 2024 3:06 PM
-To: 'm_hnhl_hqbn_dmo@usmc.mil' <m_hnhl_hqbn_dmo@usmc.mil>; 'kenny.r.hopkins@usmc.mil' <kenny.r.hopkins@usmc.mil>
-Cc: 'jayz.orrego@usmc.mil' <jayz.orrego@usmc.mil>; 'giselle.a.gaytanjulian.mil@usmc.mil' <giselle.a.gaytanjulian.mil@usmc.mil>; 'leslie.diaz@usmc.mil' <leslie.diaz@usmc.mil>; 'david.a.beard@usmc.mil' <david.a.beard@usmc.mil>
-Subject: Request for Approval: Increased Ticket Price for Pet Accommodation and Infant Travel Arrangements
+From: Beard, David A <br>
+Sent: Thursday, February 29, 2024 3:06 PM <br>
+To: 'm_hnhl_hqbn_dmo@usmc.mil' <m_hnhl_hqbn_dmo@usmc.mil>; 'kenny.r.hopkins@usmc.mil' <kenny.r.hopkins@usmc.mil> <br>
+Cc: 'jayz.orrego@usmc.mil' <jayz.orrego@usmc.mil>; 'giselle.a.gaytanjulian.mil@usmc.mil' <giselle.a.gaytanjulian.mil@usmc.mil>; 'leslie.diaz@usmc.mil' <leslie.diaz@usmc.mil>; 'david.a.beard@usmc.mil' <david.a.beard@usmc.mil> <br>
+Subject: Request for Approval: Increased Ticket Price for Pet Accommodation and Infant Travel Arrangements <br>
 
-Good Afternoon DMO Team, 
+Good Afternoon DMO Team,
 
 I write to request your approval for an increase in the ticket price to accommodate our family pet in the cabin during our relocation to Kaneohe, Hawaii, on May 6, 2024. Upon reviewing our travel options, we discovered that Alaska Airlines allows pets in the cabin and to Hawaii, offering a government rate from BWI. However, this option necessitates $220 per ticket.
 
@@ -27,10 +27,10 @@ v/r,
 
 ---
 
-From: G/USMC.HQ CTO <USMC.HQCTO@cwtsato.com>
-Sent: Thu 2/29/2024 12:50 PM
-To: Orrego LCpl Jay <jayz.orrego@usmc.mil>; Gaytanjulian LCpl Giselle A <giselle.a.gaytanjulian.mil@usmc.mil>; Diaz Cpl Leslie J <leslie.diaz@usmc.mil>; Beard Maj David A <david.a.beard@usmc.mil>
-Cc: Hopkins CIV Kenny R <kenny.r.hopkins@usmc.mil>; m_hnhl_hqbn_dmo@usmc.mil <m_hnhl_hqbn_dmo@usmc.mil>
+From: G/USMC.HQ CTO <USMC.HQCTO@cwtsato.com> <br>
+Sent: Thu 2/29/2024 12:50 PM <br>
+To: Orrego LCpl Jay <jayz.orrego@usmc.mil>; Gaytanjulian LCpl Giselle A <giselle.a.gaytanjulian.mil@usmc.mil>; Diaz Cpl Leslie J <leslie.diaz@usmc.mil>; Beard Maj David A <david.a.beard@usmc.mil> <br>
+Cc: Hopkins CIV Kenny R <kenny.r.hopkins@usmc.mil>; m_hnhl_hqbn_dmo@usmc.mil <m_hnhl_hqbn_dmo@usmc.mil> <br>
 
 Good afternoon,
 
@@ -47,11 +47,11 @@ Travel Experience, Defense & Government
 
 ---
 
-From: Beard, David A <dabeard@nsa.gov>
-Sent: Thursday, February 29, 2024 10:29 AM
-To: G/USMC.HQ CTO <USMC.HQCTO@cwtsato.com>
-Cc: 'jayz.orrego@usmc.mil' <jayz.orrego@usmc.mil>; 'giselle.a.gaytanjulian.mil@usmc.mil' <giselle.a.gaytanjulian.mil@usmc.mil>; 'leslie.diaz@usmc.mil' <leslie.diaz@usmc.mil>; 'Beard Maj David A' <david.a.beard@usmc.mil>
-Subject: [External]LOCATOR: EQQHBP Reminder-Action Needed to Process Ticket for DAVID A BEARD
+From: Beard, David A <dabeard@nsa.gov> <br>
+Sent: Thursday, February 29, 2024 10:29 AM <br>
+To: G/USMC.HQ CTO <USMC.HQCTO@cwtsato.com> <br>
+Cc: 'jayz.orrego@usmc.mil' <jayz.orrego@usmc.mil>; 'giselle.a.gaytanjulian.mil@usmc.mil' <giselle.a.gaytanjulian.mil@usmc.mil>; 'leslie.diaz@usmc.mil' <leslie.diaz@usmc.mil>; 'Beard Maj David A' <david.a.beard@usmc.mil> <br>
+Subject: [External]LOCATOR: EQQHBP Reminder-Action Needed to Process Ticket for DAVID A BEARD <br>
 
 Good Afternoon,
 
@@ -76,10 +76,10 @@ v/r,
 
 ---
 
-From: TravelAlert-NoReply@CWTSato.com<TravelAlert-NoReply@CWTSato.com>
-Sent: Tuesday, February 27, 2024 2:06 PM
-To: Beard Maj David A <david.a.beard@usmc.mil>; M_HNHL_HQBN_DMO <m_hnhl_hqbn_dmo@usmc.mil>
-Subject: [Non-DoD Source] RE: LOCATOR: EQQHBP Reminder-Acti on Needed to Process Ticket for DAVID A BEARD
+From: TravelAlert-NoReply@CWTSato.com<TravelAlert-NoReply@CWTSato.com> <br>
+Sent: Tuesday, February 27, 2024 2:06 PM <br>
+To: Beard Maj David A <david.a.beard@usmc.mil>; M_HNHL_HQBN_DMO <m_hnhl_hqbn_dmo@usmc.mil> <br>
+Subject: [Non-DoD Source] RE: LOCATOR: EQQHBP Reminder-Acti on Needed to Process Ticket for DAVID A BEARD <br>
 
 CWTSatoTravel is unable to issue your ticket for one of the following reasons: missing form of payment, missing travel order/authorization. If you need assistance contact CWTSatoTravel.
 
@@ -87,11 +87,11 @@ Attached is the flight reservation (commercial itinerary).
 
 ---
 
-From: Orrego LCpl Jay <jayz.orrego@usmc.mil>
-Sent: Tuesday, February 27, 2024 10:20 AM
-To: G/USMC.HQ CTO <USMC.HQCTO@cwtsato.com>
-Cc: Gaytanjulian LCpl Giselle A <giselle.a.gaytanjulian.mil@usmc.mil>; Diaz Cpl Leslie J <leslie.diaz@usmc.mil>; Beard Maj David A <david.a.beard@usmc.mil>
-Subject: FLIGHTS ICO MAJ BEARD, DAVID A.
+From: Orrego LCpl Jay <jayz.orrego@usmc.mil> <br>
+Sent: Tuesday, February 27, 2024 10:20 AM <br>
+To: G/USMC.HQ CTO <USMC.HQCTO@cwtsato.com> <br>
+Cc: Gaytanjulian LCpl Giselle A <giselle.a.gaytanjulian.mil@usmc.mil>; Diaz Cpl Leslie J <leslie.diaz@usmc.mil>; Beard Maj David A <david.a.beard@usmc.mil> <br>
+Subject: FLIGHTS ICO MAJ BEARD, DAVID A. <br>
 
 Good Morning,
 
