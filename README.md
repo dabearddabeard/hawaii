@@ -579,8 +579,30 @@ Apply to [Ohana Hunt Military Communities](http://www.ohanamarinecorpscommunitie
 
 </details>
 
+### On the Waiting List as a Priority 2
 
-## MCBH Family Housing Department Application Process Flow Chart
+<details>
+  <summary>CLICK TO EXPAND Details</summary>
+
+<br>
+    
+Being number 28 on the waiting list as a Priority 2 in the Hunt Military Communities application process means:
+
+1. **Priority Level:** Your military affiliation or connection to the military community has determined your Priority 2 status. This influences your position on the waitlist compared to others with different priority levels, with military families typically receiving higher priority.
+2. **Waitlist Position:** Your current position is 28. This position is subject to change as the waitlist is updated every 24 hours based on housing availability and the number of applicants. Your position might move up as people ahead of you receive housing or are removed from the list for various reasons.
+3. **Tracking and Updates:** You have the ability to track your position on the waitlist in real-time through online access. This will give you visibility into any changes in your position as they occur.
+4. **Wait Times:** The letter notes that it's not possible to accurately advise applicants of their wait times due to the unpredictable nature of housing availability. Thus, patience is necessary, as your wait time depends on when current residents choose to vacate their homes.
+5. **Offer Process:** Once a home becomes available that matches your eligibility and preferences, you will be contacted by a representative with an offer. It is critical to respond within two (2) business days to maintain your offer. Failure to respond or declining two (2) offers may result in being moved to the bottom of the list or removed from it.
+6. **Contact Information:** It’s crucial to keep your contact information up to date with the leasing office to ensure you receive any offers or important information regarding your application and waitlist status.
+
+Understanding these key points will help you navigate the waitlist process more effectively and maintain realistic expectations regarding your potential wait time and next steps in the housing process.
+
+<br>
+
+</details>
+
+
+### MCBH Family Housing Department Application Process Flow Chart
 
 The application process for family housing involves the Military Housing Office (MHO) and the Public-Private Venture (PPV).
 
@@ -608,6 +630,7 @@ Interested in PPV Housing? ✔️ YES
 ```
 
 </details>
+
 
 # Ohana Military Communities
 
