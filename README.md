@@ -1,5 +1,4 @@
 Copy/Paste:
-
 ```
 v/r,
   David A. Beard
