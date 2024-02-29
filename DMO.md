@@ -1,3 +1,28 @@
+
+Good Afternoon Mr. Hopkins, <br>
+
+Thank you for your prompt response. To clarify, our newborn has not yet arrived; therefore, we are comfortable with the infant traveling as a lap child. We prefer to proceed with the booking now, rather than waiting for the newborn's entire dependent process to complete: entry of birth certificate through DEERS, registering the infant as a dependent in the USMC system, and then modifying the orders to list the newborn. 
+
+v/r, <br>
+Maj Beard
+
+---
+
+From: Hopkins CIV Kenny R <br> 
+Sent: Thursday, February 29, 2024 5:01 PM <br> 
+To: Beard, David A; 'G/USMC.HQ CTO'; Jones MSgt Gerard JR; M_HNHL_HQBN_DMO <br> 
+Subject: Re: [External]Re: Request for Approval: Increased Ticket Price for Pet Accommodation and Infant Travel Arrangements <br> 
+
+Maj Beard,
+
+  If your newborn is listed on your orders, that newborn rates a seat as well.
+
+Thanks,
+
+H.
+
+---
+
 From: Beard, David A <br>
 Sent: Thursday, February 29, 2024 4:59 PM <br>
 To: G/USMC.HQ CTO; Hopkins CIV Kenny R; Jones MSgt Gerard JR; M_HNHL_HQBN_DMO <br>
