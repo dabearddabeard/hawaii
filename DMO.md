@@ -1,8 +1,7 @@
-From: Hopkins CIV Kenny R <kenny.r.hopkins@usmc.mil> 
-Sent: Thursday, February 29, 2024 3:28 PM
-To: Beard, David A <dabeard@nsa.gov>; Jones MSgt Gerard JR <gerard.jones@usmc.mil>; M_HNHL_HQBN_DMO <m_hnhl_hqbn_dmo@usmc.mil>
-Cc: Orrego LCpl Jay <jayz.orrego@usmc.mil>; Gaytanjulian LCpl Giselle A <giselle.a.gaytanjulian.mil@usmc.mil>; Diaz Cpl Leslie J <leslie.diaz@usmc.mil>; Beard Maj David A <david.a.beard@usmc.mil>; 'usmc.hqcto@cwtsato.com' <USMC.HQCTO@cwtsato.com>
-Subject: Re: Request for Approval: Increased Ticket Price for Pet Accommodation and Infant Travel Arrangements
+From: Hopkins CIV Kenny R <br>
+Sent: Thursday, February 29, 2024 3:28 PM <br>
+To: Beard, David A; M_HNHL_HQBN_DMO <br>
+Subject: Re: Request for Approval: Increased Ticket Price for Pet Accommodation and Infant Travel Arrangements <br>
 
 Approved, on a one time basis.
 
@@ -14,8 +13,7 @@ H.
 
 From: Beard, David A <br>
 Sent: Thursday, February 29, 2024 3:06 PM <br>
-To: 'm_hnhl_hqbn_dmo@usmc.mil' <m_hnhl_hqbn_dmo@usmc.mil>; 'kenny.r.hopkins@usmc.mil' <kenny.r.hopkins@usmc.mil> <br>
-Cc: 'jayz.orrego@usmc.mil' <jayz.orrego@usmc.mil>; 'giselle.a.gaytanjulian.mil@usmc.mil' <giselle.a.gaytanjulian.mil@usmc.mil>; 'leslie.diaz@usmc.mil' <leslie.diaz@usmc.mil>; 'david.a.beard@usmc.mil' <david.a.beard@usmc.mil> <br>
+To: m_hnhl_hqbn_dmo; kenny.r.hopkins <br>
 Subject: Request for Approval: Increased Ticket Price for Pet Accommodation and Infant Travel Arrangements <br>
 
 Good Afternoon DMO Team,
@@ -32,19 +30,12 @@ We would greatly appreciate your guidance and approval on proceeding with these 
 
 Thank you for considering our request and for your support in facilitating our family's travel needs during this relocation.
 
-v/r, <br>
-  David A. Beard <br>
-  Major (Maj), USMC <br>
-  <david.beard741@gmail.com> <br>
-  <david.a.beard@usmc.mil> <br>
-  mobile: +1-540-273-5009 <br>
-
 ---
 
-From: G/USMC.HQ CTO <USMC.HQCTO@cwtsato.com> <br>
+From: G/USMC.HQ CTO <br>
 Sent: Thu 2/29/2024 12:50 PM <br>
-To: Orrego LCpl Jay <jayz.orrego@usmc.mil>; Gaytanjulian LCpl Giselle A <giselle.a.gaytanjulian.mil@usmc.mil>; Diaz Cpl Leslie J <leslie.diaz@usmc.mil>; Beard Maj David A <david.a.beard@usmc.mil> <br>
-Cc: Hopkins CIV Kenny R <kenny.r.hopkins@usmc.mil>; m_hnhl_hqbn_dmo@usmc.mil <m_hnhl_hqbn_dmo@usmc.mil> <br>
+To: Beard Maj David A <br>
+Cc: Hopkins CIV Kenny R; m_hnhl_hqbn_dmo <br>
 
 Good afternoon,
 
@@ -54,17 +45,11 @@ Pets are not permitted on Southwest flights to Hawaii. Alaskan does take pets in
 
 Please let us know how to proceed,
 
-V/r <br>
-Cecillia Berger <br>
-Team Leader <br>
-Travel Experience, Defense & Government <br>
-
 ---
 
-From: Beard, David A <dabeard@nsa.gov> <br>
+From: Beard, David A <br>
 Sent: Thursday, February 29, 2024 10:29 AM <br>
-To: G/USMC.HQ CTO <USMC.HQCTO@cwtsato.com> <br>
-Cc: 'jayz.orrego@usmc.mil' <jayz.orrego@usmc.mil>; 'giselle.a.gaytanjulian.mil@usmc.mil' <giselle.a.gaytanjulian.mil@usmc.mil>; 'leslie.diaz@usmc.mil' <leslie.diaz@usmc.mil>; 'Beard Maj David A' <david.a.beard@usmc.mil> <br>
+To: G/USMC.HQ CTO <br>
 Subject: [External]LOCATOR: EQQHBP Reminder-Action Needed to Process Ticket for DAVID A BEARD <br>
 
 Good Afternoon,
@@ -74,25 +59,18 @@ In the attached Port-Call Request, which was sent in the email below, informatio
 Furthermore, I have attached a Medical Certification of Pregnancy as additional documentation concerning a newborn who will be joining the family on March 4, 2024. This will increase the number of travelers to four at the time of the flight on May 6, 2024. According to DTR Part I, Chapter 103, Paragraph J, in-lap passengers are not authorized on AMC flights, as all passengers, including infants and small children, must occupy separate seats. Does this regulation also apply to commercial flights? May we proceed with booking the tickets and completing the Port-Call Request process, anticipating the addition of a fourth traveler?
 
 Attached:
-- <EQQHBP.pdf> flight reservati on (commercial itinerary)
-- <Maj_Beard,_David_A_PCS_Orders.pdf>
-- <D._A._BEARD_Port_Call_Request.pdf>
-- <U_ER_Medical-Certificati on-of-Pregnancy_F_20230102_U.pdf> This is a medical certification of pregnancy for Sarah Beard, the wife of David A. Beard. The document has been duly filled out and signed by Sarah's health care provider.
+- <`EQQHBP.pdf`> flight reservation (commercial itinerary)
+- <`Maj_Beard,_David_A_PCS_Orders.pdf`>
+- <`D._A._BEARD_Port_Call_Request.pdf`>
+- <`U_ER_Medical-Certification-of-Pregnancy_F_20230102_U.pdf`> This is a medical certification of pregnancy for Sarah Beard, the wife of David A. Beard. The document has been duly filled out and signed by Sarah's health care provider.
 
 Thank you for the support!
 
-v/r, <br>
-  David A. Beard <br>
-  Major (Maj), USMC <br>
-  <david.beard741@gmail.com> <br>
-  <david.a.beard@usmc.mil> <br>
-  mobile: +1-540-273-5009 <br>
-
 ---
 
-From: TravelAlert-NoReply@CWTSato.com<TravelAlert-NoReply@CWTSato.com> <br>
+From: TravelAlert-NoReply@CWTSato.com <br>
 Sent: Tuesday, February 27, 2024 2:06 PM <br>
-To: Beard Maj David A <david.a.beard@usmc.mil>; M_HNHL_HQBN_DMO <m_hnhl_hqbn_dmo@usmc.mil> <br>
+To: Beard Maj David A; M_HNHL_HQBN_DMO <br>
 Subject: [Non-DoD Source] RE: LOCATOR: EQQHBP Reminder-Acti on Needed to Process Ticket for DAVID A BEARD <br>
 
 CWTSatoTravel is unable to issue your ticket for one of the following reasons: missing form of payment, missing travel order/authorization. If you need assistance contact CWTSatoTravel.
@@ -101,18 +79,18 @@ Attached is the flight reservation (commercial itinerary).
 
 ---
 
-From: Orrego LCpl Jay <jayz.orrego@usmc.mil> <br>
+From: Orrego LCpl Jay <br>
 Sent: Tuesday, February 27, 2024 10:20 AM <br>
-To: G/USMC.HQ CTO <USMC.HQCTO@cwtsato.com> <br>
-Cc: Gaytanjulian LCpl Giselle A <giselle.a.gaytanjulian.mil@usmc.mil>; Diaz Cpl Leslie J <leslie.diaz@usmc.mil>; Beard Maj David A <david.a.beard@usmc.mil> <br>
+To: G/USMC.HQ CTO <br>
+Cc: Gaytanjulian LCpl Giselle A; Diaz Cpl Leslie J; Beard Maj David A <br>
 Subject: FLIGHTS ICO MAJ BEARD, DAVID A. <br>
 
 Good Morning,
 
 Requesting Flights approval and booking for Maj Beard, David A. 1384822106 and family for flight to Kaneohe, Hawaii. Requesting flight for 6 May 2024.
 
-Beard, David A. 19870917 Male <br>
-Girard, Sarah M. 19870623 Female <br>
-Beard, Chloe E. 20221003 Female <br>
+Beard, David A. 1987 Male <br>
+Girard, Sarah M. 1987 Female <br>
+Beard, Chloe E. 2022 Female <br>
 
 Please book member to fly out of Baltimore/Washington International Airport on 6 May 2024 flying to Kaneohe, Hawaii. Member will contact SATO with GTCC for ticketing.
