@@ -68,7 +68,7 @@ Thank you for the support!
 
 ---
 
-From: TravelAlert-NoReply@CWTSato.com <br>
+From: CWTSato <br>
 Sent: Tuesday, February 27, 2024 2:06 PM <br>
 To: Beard Maj David A; M_HNHL_HQBN_DMO <br>
 Subject: [Non-DoD Source] RE: LOCATOR: EQQHBP Reminder-Acti on Needed to Process Ticket for DAVID A BEARD <br>
