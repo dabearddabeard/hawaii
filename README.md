@@ -1,3 +1,15 @@
+Copy/Paste:
+
+```
+v/r,
+  David A. Beard
+  Major (Maj), USMC
+  <david.beard741@gmail.com>
+  <david.a.beard@usmc.mil>
+  mobile: +1-540-273-5009
+```
+
+
 # Checklists
 > :white_square_button: CDC Preregistration Forms <br>
 
