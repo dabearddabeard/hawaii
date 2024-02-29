@@ -1,3 +1,28 @@
+From: Beard, David A <br>
+Sent: Thursday, February 29, 2024 4:59 PM <br>
+To: G/USMC.HQ CTO; Hopkins CIV Kenny R; Jones MSgt Gerard JR; M_HNHL_HQBN_DMO <br>
+Subject: RE: [External]Re: Request for Approval: Increased Ticket Price for Pet Accommodation and Infant Travel Arrangements <br>
+
+Good Afternoon Cecillia,
+
+Thank you for your support regarding this matter. We intend to proceed with rebooking the family immediately and will inform the airline about the addition of a lap infant post-birth.
+
+Concerning the pet accommodation, the information is included in the Port-Call Request (D._A._BEARD_Port_Call_Request.pdf). For clarity and to facilitate the arrangements, here are the detailed specifications:
+- TYPE: Dog
+- BREED: American Eskimo
+- GENDER: Female
+- AGE: 13
+- PET/CAGE WEIGHT: 20 lbs
+- CAGE DIMENSIONS (LxWxH in inches): 20 x 17 x 12
+- CAGE DESCRIPTION: Soft-sided with rollers, designed to fit under the seat
+
+Please inform us if you require any additional information from our side to facilitate these arrangements. Thank you again!
+
+v/r, <br>
+David A. Beard <br>
+
+---
+
 From: G/USMC.HQ CTO <br>
 Sent: Thursday, February 29, 2024 4:29 PM <br>
 To: Hopkins CIV Kenny R; Beard, David A; Jones MSgt Gerard JR; M_HNHL_HQBN_DMO <br>
