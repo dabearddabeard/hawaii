@@ -1,5 +1,9 @@
+From: Beard, David A <br>
+Sent: Thursday, February 29, 2024 5:25 PM <br>
+To: Hopkins CIV Kenny R; G/USMC.HQ CTO; Jones MSgt Gerard JR; M_HNHL_HQBN_DMO <br>
+Subject: RE: [External]Re: Request for Approval: Increased Ticket Price for Pet Accommodation and Infant Travel Arrangements <br>
 
-Good Afternoon Mr. Hopkins, <br>
+Good Afternoon Mr. Hopkins,
 
 Thank you for your prompt response. To clarify, our newborn has not yet arrived; therefore, we are comfortable with the infant traveling as a lap child. We prefer to proceed with the booking now, rather than waiting for the newborn's entire dependent process to complete: entry of birth certificate through DEERS, registering the infant as a dependent in the USMC system, and then modifying the orders to list the newborn. 
 
