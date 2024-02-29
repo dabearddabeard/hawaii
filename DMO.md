@@ -1,0 +1,104 @@
+From: Beard, David A 
+Sent: Thursday, February 29, 2024 3:06 PM
+To: 'm_hnhl_hqbn_dmo@usmc.mil' <m_hnhl_hqbn_dmo@usmc.mil>; 'kenny.r.hopkins@usmc.mil' <kenny.r.hopkins@usmc.mil>
+Cc: 'jayz.orrego@usmc.mil' <jayz.orrego@usmc.mil>; 'giselle.a.gaytanjulian.mil@usmc.mil' <giselle.a.gaytanjulian.mil@usmc.mil>; 'leslie.diaz@usmc.mil' <leslie.diaz@usmc.mil>; 'david.a.beard@usmc.mil' <david.a.beard@usmc.mil>
+Subject: Request for Approval: Increased Ticket Price for Pet Accommodation and Infant Travel Arrangements
+
+Good Afternoon DMO Team, 
+
+I write to request your approval for an increase in the ticket price to accommodate our family pet in the cabin during our relocation to Kaneohe, Hawaii, on May 6, 2024. Upon reviewing our travel options, we discovered that Alaska Airlines allows pets in the cabin and to Hawaii, offering a government rate from BWI. However, this option necessitates $220 per ticket.
+
+Furthermore, we expect a newborn addition to our family, who, if permitted, can travel as a lap infant. CWTSatoTravel has informed us that adding a traveler after creating an itinerary necessitates rebooking. We aim to make all necessary adjustments to include our newborn.
+
+Our family is available for travel between May 1 and 6, 2024, which provides us with the flexibility to book with Alaska Airlines during this period, pending your approval.
+
+We acknowledge the requirement for DMO approval to use a non-contract carrier and the related cost increase. We believe the inclusion of our newborn and the safety of our family, including our pet, justify this request.
+
+We would greatly appreciate your guidance and approval on proceeding with these arrangements. We are ready to provide any additional information or documentation required.
+
+Thank you for considering our request and for your support in facilitating our family's travel needs during this relocation.
+
+v/r,
+  David A. Beard
+  Major (Maj), USMC
+  <david.beard741@gmail.com>
+  <david.a.beard@usmc.mil>
+  mobile: +1-540-273-5009
+
+---
+
+From: G/USMC.HQ CTO <USMC.HQCTO@cwtsato.com>
+Sent: Thu 2/29/2024 12:50 PM
+To: Orrego LCpl Jay <jayz.orrego@usmc.mil>; Gaytanjulian LCpl Giselle A <giselle.a.gaytanjulian.mil@usmc.mil>; Diaz Cpl Leslie J <leslie.diaz@usmc.mil>; Beard Maj David A <david.a.beard@usmc.mil>
+Cc: Hopkins CIV Kenny R <kenny.r.hopkins@usmc.mil>; m_hnhl_hqbn_dmo@usmc.mil <m_hnhl_hqbn_dmo@usmc.mil>
+
+Good afternoon,
+
+The 2nd question needs to be run by DMO. But we cannot add travelers to an itinerary once it is created, this itinerary would need to be rebooked once the infant has a birth certificate or can travel as a lap infant (this needed to be called in to the airline by the passenger). If adding a seated passenger you would not want to issue these tickets. A new record must be prepared including the name of the new traveler.
+
+Pets are not permitted on Southwest flights to Hawaii. Alaskan does take pets in cabin and hold to Hawaii and has a gov rate from BWI but that would increase the price per ticket $220 per passenger. This can be changed with DMO approval for use of the non contract carrier.
+
+Please let us know how to proceed,
+
+V/r
+Cecillia Berger 
+Team Leader
+Travel Experience, Defense & Government
+
+---
+
+From: Beard, David A <dabeard@nsa.gov>
+Sent: Thursday, February 29, 2024 10:29 AM
+To: G/USMC.HQ CTO <USMC.HQCTO@cwtsato.com>
+Cc: 'jayz.orrego@usmc.mil' <jayz.orrego@usmc.mil>; 'giselle.a.gaytanjulian.mil@usmc.mil' <giselle.a.gaytanjulian.mil@usmc.mil>; 'leslie.diaz@usmc.mil' <leslie.diaz@usmc.mil>; 'Beard Maj David A' <david.a.beard@usmc.mil>
+Subject: [External]LOCATOR: EQQHBP Reminder-Action Needed to Process Ticket for DAVID A BEARD
+
+Good Afternoon,
+
+In the attached Port-Call Request, which was sent in the email below, information regarding a pet is included. I am verifying that it is permissible for a small dog to accompany a passenger in the cabin on the flights and that this arrangement has been included in the flight reservation before the commercial flight is ticketed.
+
+Furthermore, I have attached a Medical Certification of Pregnancy as additional documentation concerning a newborn who will be joining the family on March 4, 2024. This will increase the number of travelers to four at the time of the flight on May 6, 2024. According to DTR Part I, Chapter 103, Paragraph J, in-lap passengers are not authorized on AMC flights, as all passengers, including infants and small children, must occupy separate seats. Does this regulation also apply to commercial flights? May we proceed with booking the tickets and completing the Port-Call Request process, anticipating the addition of a fourth traveler?
+
+Attached:
+- <EQQHBP.pdf> flight reservati on (commercial itinerary)
+- <Maj_Beard,_David_A_PCS_Orders.pdf>
+- <D._A._BEARD_Port_Call_Request.pdf>
+- <U_ER_Medical-Certificati on-of-Pregnancy_F_20230102_U.pdf> This is a medical certification of pregnancy for Sarah Beard, the wife of David A. Beard. The document has been duly filled out and signed by Sarah's health care provider.
+
+Thank you for the support!
+
+v/r,
+  David A. Beard
+  Major (Maj), USMC
+  <david.beard741@gmail.com>
+  <david.a.beard@usmc.mil>
+  mobile: +1-540-273-5009
+
+---
+
+From: TravelAlert-NoReply@CWTSato.com<TravelAlert-NoReply@CWTSato.com>
+Sent: Tuesday, February 27, 2024 2:06 PM
+To: Beard Maj David A <david.a.beard@usmc.mil>; M_HNHL_HQBN_DMO <m_hnhl_hqbn_dmo@usmc.mil>
+Subject: [Non-DoD Source] RE: LOCATOR: EQQHBP Reminder-Acti on Needed to Process Ticket for DAVID A BEARD
+
+CWTSatoTravel is unable to issue your ticket for one of the following reasons: missing form of payment, missing travel order/authorization. If you need assistance contact CWTSatoTravel.
+
+Attached is the flight reservation (commercial itinerary).
+
+---
+
+From: Orrego LCpl Jay <jayz.orrego@usmc.mil>
+Sent: Tuesday, February 27, 2024 10:20 AM
+To: G/USMC.HQ CTO <USMC.HQCTO@cwtsato.com>
+Cc: Gaytanjulian LCpl Giselle A <giselle.a.gaytanjulian.mil@usmc.mil>; Diaz Cpl Leslie J <leslie.diaz@usmc.mil>; Beard Maj David A <david.a.beard@usmc.mil>
+Subject: FLIGHTS ICO MAJ BEARD, DAVID A.
+
+Good Morning,
+
+Requesting Flights approval and booking for Maj Beard, David A. 1384822106 and family for flight to Kaneohe, Hawaii. Requesting flight for 6 May 2024.
+
+Beard, David A. 19870917 Male
+Girard, Sarah M. 19870623 Female
+Beard, Chloe E. 20221003 Female
+
+Please book member to fly out of Baltimore/Washington International Airport on 6 May 2024 flying to Kaneohe, Hawaii. Member will contact SATO with GTCC for ticketing.
