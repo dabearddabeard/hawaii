@@ -8,7 +8,8 @@
 ### HHG and UB
 > :ballot_box_with_check: [DPS](https://www.militaryonesource.mil/moving-pcs/moving-personal-property/) <br>
 > :ballot_box_with_check: HHG and UB shipment has been submitted to the booking office `800-521-9959`. If application requires changes contact the local Transportation Office at FORT MEADE, `301-677-9639`. <br>
-> :ballot_box_with_check: received an email indicating the TSP is Trish `Trish@avlgroup.com` <br>
+> :ballot_box_with_check: Received an email indicating the TSP is Trish `Trish@avlgroup.com` <br>
+> :white_square_button: Pack/Pick-Up Date is 29 April 2024.
 
 ### POV
 > :ballot_box_with_check: Scheduled [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024). <br>
@@ -217,13 +218,13 @@ Paperwork needs to arrive at least 10 days prior to arrival. Failure to do this 
 ### Household Goods (HHG):
 
 - In Counseling, Submitted
-- Desired Pickup Date: 01 May 2024
+- Pack and Pickup Date: 29 April 2024
 - Estimated Shipment Weight: 9900 lbs
 
 ### Unaccompanied Baggage (UB):
 
 - In Counseling, Submitted
-- Desired Pickup Date: 01 May 2024
+- Pack and Pickup Date: 29 April 2024
 
 Unaccompanied Baggage (UB) refers to a specific portion of a member's allowable household goods (HHG) weight that is not included as free baggage on a ticket used for personal travel. This baggage typically consists of items transported separately from the main bulk of HHG and is often sent via an expedited method due to its necessity immediately or shortly after arrival at the destination. These items facilitate interim housekeeping while awaiting the delivery of the bulk of HHG.
 
