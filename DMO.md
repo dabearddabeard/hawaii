@@ -1,3 +1,17 @@
+From: Hopkins CIV Kenny R <kenny.r.hopkins@usmc.mil> 
+Sent: Thursday, February 29, 2024 3:28 PM
+To: Beard, David A <dabeard@nsa.gov>; Jones MSgt Gerard JR <gerard.jones@usmc.mil>; M_HNHL_HQBN_DMO <m_hnhl_hqbn_dmo@usmc.mil>
+Cc: Orrego LCpl Jay <jayz.orrego@usmc.mil>; Gaytanjulian LCpl Giselle A <giselle.a.gaytanjulian.mil@usmc.mil>; Diaz Cpl Leslie J <leslie.diaz@usmc.mil>; Beard Maj David A <david.a.beard@usmc.mil>; 'usmc.hqcto@cwtsato.com' <USMC.HQCTO@cwtsato.com>
+Subject: Re: Request for Approval: Increased Ticket Price for Pet Accommodation and Infant Travel Arrangements
+
+Approved, on a one time basis.
+
+Thanks,
+
+H.
+
+---
+
 From: Beard, David A <br>
 Sent: Thursday, February 29, 2024 3:06 PM <br>
 To: 'm_hnhl_hqbn_dmo@usmc.mil' <m_hnhl_hqbn_dmo@usmc.mil>; 'kenny.r.hopkins@usmc.mil' <kenny.r.hopkins@usmc.mil> <br>
