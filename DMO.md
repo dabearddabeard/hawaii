@@ -18,12 +18,12 @@ We would greatly appreciate your guidance and approval on proceeding with these 
 
 Thank you for considering our request and for your support in facilitating our family's travel needs during this relocation.
 
-v/r,
-  David A. Beard
-  Major (Maj), USMC
-  <david.beard741@gmail.com>
-  <david.a.beard@usmc.mil>
-  mobile: +1-540-273-5009
+v/r, <br>
+  David A. Beard <br>
+  Major (Maj), USMC <br>
+  <david.beard741@gmail.com> <br>
+  <david.a.beard@usmc.mil> <br>
+  mobile: +1-540-273-5009 <br>
 
 ---
 
@@ -40,10 +40,10 @@ Pets are not permitted on Southwest flights to Hawaii. Alaskan does take pets in
 
 Please let us know how to proceed,
 
-V/r
-Cecillia Berger 
-Team Leader
-Travel Experience, Defense & Government
+V/r <br>
+Cecillia Berger <br>
+Team Leader <br>
+Travel Experience, Defense & Government <br>
 
 ---
 
@@ -67,12 +67,12 @@ Attached:
 
 Thank you for the support!
 
-v/r,
-  David A. Beard
-  Major (Maj), USMC
-  <david.beard741@gmail.com>
-  <david.a.beard@usmc.mil>
-  mobile: +1-540-273-5009
+v/r, <br>
+  David A. Beard <br>
+  Major (Maj), USMC <br>
+  <david.beard741@gmail.com> <br>
+  <david.a.beard@usmc.mil> <br>
+  mobile: +1-540-273-5009 <br>
 
 ---
 
@@ -97,8 +97,8 @@ Good Morning,
 
 Requesting Flights approval and booking for Maj Beard, David A. 1384822106 and family for flight to Kaneohe, Hawaii. Requesting flight for 6 May 2024.
 
-Beard, David A. 19870917 Male
-Girard, Sarah M. 19870623 Female
-Beard, Chloe E. 20221003 Female
+Beard, David A. 19870917 Male <br>
+Girard, Sarah M. 19870623 Female <br>
+Beard, Chloe E. 20221003 Female <br>
 
 Please book member to fly out of Baltimore/Washington International Airport on 6 May 2024 flying to Kaneohe, Hawaii. Member will contact SATO with GTCC for ticketing.
