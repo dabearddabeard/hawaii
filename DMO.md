@@ -1,3 +1,22 @@
+From: G/USMC.HQ CTO <br>
+Sent: Thursday, February 29, 2024 4:29 PM <br>
+To: Hopkins CIV Kenny R; Beard, David A; Jones MSgt Gerard JR; M_HNHL_HQBN_DMO <br>
+Cc: Orrego LCpl Jay; Gaytanjulian LCpl Giselle A; Diaz Cpl Leslie J; Beard Maj David A; G/USMC.HQ CTO <br>
+Subject: [Non-DoD Source] RE: [External]Re: Request for Approval: Increased Ticket Price for Pet Accommodation and Infant Travel Arrangements <br>
+
+Thank you DMO/Mr Hopkins,
+
+To David Beard, I just need to know if I need to rebook the family now and they will then update the airline with lap infant. Or if we need hold off until the baby is born?
+
+And if rebooking with the pet we will need breed/weight/kennel dimensions (hard or soft sided).
+
+V/r
+Cecillia Berger <br>
+Team Leader <br>
+Travel Experience, Defense & Government <br>
+
+---
+
 From: Hopkins CIV Kenny R <br>
 Sent: Thursday, February 29, 2024 3:28 PM <br>
 To: Beard, David A; M_HNHL_HQBN_DMO <br>
