@@ -42,7 +42,7 @@ v/r,
 > :white_square_button: Mail  documents to the Hawaii Animal Quarantine office.<br>
 
 ### Temporary Lodging Facility (TLF)
-> :white_square_button:  Book pet friendly accommodations at [The Inns of the Corps](https://lodgingreservations.usmc-mccs.org/obookings3/Search/Index/13508/90/) <br>
+> :white_square_button:  Booked pet friendly accommodations at [The Inns of the Corps](https://lodgingreservations.usmc-mccs.org/obookings3/Search/Index/13508/90/) <br>
 
 # Check-Out
 
@@ -125,6 +125,13 @@ CPAC POCs
 - Address: `Building 6534, MCB Hawaii, Kaneohe Bay, Hawaii 96863`
 - Phone: 808-254-2806
 - PCS Priority Facility
+- Reate per Day: $150
+- Dates: Mon 06 May 2024 - Wed 05 Jun 2024
+- Arrive: After 1600
+- Room Title: 2 Queen Beds Pet Friendly (Sleeps 4)
+- Room Details: Relax in our oversized Pet Friendly Standard Room with two Queen beds, a dining area and a wet bar area that includes refrigerator, microwave, coffee maker, silverware, dishes and glasses. Additional fee for pets. Please see Pet Policy and Terms and Conditions for fees and restrictions.
+- Reservation Total: $4,500
+- 
 
 <br>
 
