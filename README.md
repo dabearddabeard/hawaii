@@ -26,14 +26,14 @@
 > :ballot_box_with_check: Create account with [MilitaryChildcare.com](https://militarychildcare.com/), username is `david.beard741@gmail.com`. <br>
 > :white_square_button: CDC Preregistration Forms <br>
 
-### Pet Importation
+### [Pet Importation](#Pet-Importation)
 > :white_square_button: Vet <br>
 > :white_square_button: Mail  documents to the Hawaii Animal Quarantine office.<br>
 
 ### [Temporary Lodging Facility](#Temporary-Lodging-Facility)
 > :ballot_box_with_check: Booked accommodations at [The Inns of the Corps](https://lodgingguestportal.usmc-mccs.org/Login?clientId=13508) <br>
 
-### Flight
+### [Flights}(#Flights)
 > :ballot_box_with_check: Ticketd Flights <br>
 > :white_square_button: contact the airline with the lap child information prior to departure date. <br>
 
