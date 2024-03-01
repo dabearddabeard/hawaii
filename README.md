@@ -174,7 +174,7 @@ A ticketed customer, including those in the military, may check a maximum of 20 
 
 </details>
 
-### Pet Importation
+# Pet Importation
 
 All pets entering Hawaii are subject to quarantine. However, preparing in advance and understanding the requirements can significantly reduce the waiting period. The DoD offers up to $550 in reimbursement for quarantine expenses.
 
