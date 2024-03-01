@@ -10,7 +10,6 @@
 > :ballot_box_with_check: Scheduled [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024). <br>
 > :ballot_box_with_check: Virtual Briefing <br>
 > :white_square_button: Adjust appointment date to flight. <br>
-> 
 
 ### [Housing](#Military-Housing-for-Kaneohe-Bay-Hawaii-Marine-Corps-Base)
 > :ballot_box_with_check: Submitted required documents to Family Housing Department. <br>
