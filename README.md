@@ -31,7 +31,7 @@
 > :white_square_button: Mail  documents to the Hawaii Animal Quarantine office.<br>
 
 ### Temporary Lodging Facility (TLF)
-> :ballot_box_with_check: Booked accommodations at [The Inns of the Corps](https://lodgingreservations.usmc-mccs.org/obookings3/Search/Index/13508/90/) <br>
+> :ballot_box_with_check: Booked accommodations at [The Inns of the Corps](https://lodgingguestportal.usmc-mccs.org/Login?clientId=13508) <br>
 
 ### Flight
 > :ballot_box_with_check: Ticketd Flights <br>
