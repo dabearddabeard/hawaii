@@ -102,27 +102,13 @@ v/r,
 - TLA (Temporary Lodging Allowance): Authorized OCONUS 15 days at a time, except when more than one TLA rate applies within the computation period. If the final lodging period is greater than 15 days, but less than 30 days, it may be processed as a single payment (DODFMR, Vol 7a. Ch68)
 
 <details>
-  <summary>CLICK TO EXPAND CPAC POCs</summary>
-
-<br>
-
-CPAC POCs
-- OIC: `301-677-9919` or `301-677-9908`
-- SNCOIC: `301-677-9918`
-- Clerks: `301-677-9916` or `301-677-9939`
-- Outbound Clerk: `301-677-9914`
-
-<br>
-
-</details>
-
-<details>
   <summary>CLICK TO EXPAND Inn Info</summary>
 
 <br>
 
-- [The Inns of the Corps](https://lodgingreservations.usmc-mccs.org/obookings3/Search/Index/13508/90/)
+- [The Inns of the Corps](https://lodgingguestportal.usmc-mccs.org/Login?clientId=13508): Guest profile (GMail and Password)
 - Address: `Building 6534, MCB Hawaii, Kaneohe Bay, Hawaii 96863`
+- Email" `LodgingReservations.Hawaii@usmc-mccs.org`
 - Phone: 808-254-2806
 - PCS Priority Facility
 - Reate per Day: $150
@@ -131,7 +117,15 @@ CPAC POCs
 - Room Title: 2 Queen Beds Pet Friendly (Sleeps 4)
 - Room Details: Relax in our oversized Pet Friendly Standard Room with two Queen beds, a dining area and a wet bar area that includes refrigerator, microwave, coffee maker, silverware, dishes and glasses. Additional fee for pets. Please see Pet Policy and Terms and Conditions for fees and restrictions.
 - Reservation Total: $4,500
-- 
+- Booking Confirmation ID is `7704732`
+- [Confirmation/Reservation Document](/TLE/Confirmation%20-%20RMS%20Online%20Booking.pdf)
+- Directions:
+  - Get on I-H-1 W
+  - Take exit 13 B for I-H3 E toward HI-78 E/Kaneohe/Honolulu
+  - Continue onto I-H-3 E
+  - I-H-# will turn into G St at the Main Gate. Continue on G Street.
+  - Turn into the first driveway on your right
+  - The destination will be on your left.
 
 <br>
 
