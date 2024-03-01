@@ -218,8 +218,6 @@ WHO TO CALL FOR HELP:
 - [Local Transportation Office](https://installations.militaryonesource.mil)
 - USMC Customer Service: 855-444-6683
 
-<br>
-
 <details>
   <summary>CLICK TO EXPAND DPS Info</summary>
 
