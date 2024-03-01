@@ -1,28 +1,23 @@
 # Checklists
-> :white_square_button: CDC Preregistration Forms <br>
 
-### MOL OBI
-> :ballot_box_with_check: Submited OBI <br>
-> :ballot_box_with_check: CPAC marked OBI as “MOL Reviewed” and sent to CTO for booking flight. <br>
-
-### HHG and UB
+### [HHG and UB](#Defense-Personal-Property-System)
 > :ballot_box_with_check: [DPS](https://www.militaryonesource.mil/moving-pcs/moving-personal-property/) <br>
 > :ballot_box_with_check: HHG and UB shipment has been submitted to the booking office `800-521-9959`. Local Transportation Office at FORT MEADE, `301-677-9639`. <br>
 > :ballot_box_with_check: Received an email indicating the TSP is Trish `Trish@avlgroup.com` <br>
 > :white_square_button: Pack/Pick-Up Date is 29 April 2024. <br>
 
-### POV
+### [POV](#POV)
 > :ballot_box_with_check: Scheduled [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024). <br>
 > :ballot_box_with_check: Virtual Briefing <br>
 > :white_square_button: Adjust appointment date to flight. <br>
 > 
 
-### Housing
+### [Housing](#Military-Housing-for-Kaneohe-Bay-Hawaii-Marine-Corps-Base)
 > :ballot_box_with_check: Submitted required documents to Family Housing Department. <br>
 > :ballot_box_with_check: Submitted application in the [Hunt Community Portal](https://huntcompanies.my.site.com/). <br>
 > :white_square_button: Application with HUNT is under review. HUNT username is `david.beard741@gmail.com.hmcportal`.  <br>
 
-### Childcare
+### [Childcare](#Childcare)
 > :ballot_box_with_check: Create account with [MilitaryChildcare.com](https://militarychildcare.com/), username is `david.beard741@gmail.com`. <br>
 > :white_square_button: CDC Preregistration Forms <br>
 
@@ -30,10 +25,10 @@
 > :white_square_button: Vet <br>
 > :white_square_button: Mail  documents to the Hawaii Animal Quarantine office.<br>
 
-### [Temporary Lodging Facility](#Temporary-Lodging-Facility)
+### [TLF](#Temporary-Lodging-Facility)
 > :ballot_box_with_check: Booked accommodations at [The Inns of the Corps](https://lodgingguestportal.usmc-mccs.org/Login?clientId=13508) <br>
 
-### [Flights}(#Flights)
+### [Flights](#Flights)
 > :ballot_box_with_check: Ticketd Flights <br>
 > :white_square_button: contact the airline with the lap child information prior to departure date. <br>
 
@@ -216,7 +211,7 @@ Paperwork needs to arrive at least 10 days prior to arrival. Failure to do this 
 
 </details>
 
-# Defense Personal Property System (DPS)
+# Defense Personal Property System
 
 **WHO TO CALL FOR HELP**
 - [Local Transportation Office](https://installations.militaryonesource.mil)
@@ -307,7 +302,7 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
 
 </details>
 
-# Hourly Child Care
+# Childcare
 
 **MCCS Child & Youth Programs | Resource and Referral Office**
 - Phone: 808-257-7430 
