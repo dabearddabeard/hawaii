@@ -29,7 +29,7 @@
 
 ### [Flights](#Flights)
 > :ballot_box_with_check: Ticketd Flights <br>
-> :white_square_button: contact the airline with the lap child information prior to departure date. <br>
+> :white_square_button: Before the departure date, inform the airline of the lap child's details. <br>
 
 # Check-Out
 
