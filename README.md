@@ -126,38 +126,23 @@
 
 # Flights
 
-All Marines in receipt of PCS orders will utilize the OBI module within MOL. This will cover all information needed by IPAC/admin to finalize PCS orders. This will also determine your travel entitlements. The OBI is needed to start the flight booking process. Be sure to include your pet(s) in your OBI.
-
-Household Goods and Official Travel: 
-- Phone: 703-614-7190
-- Phone: 703-614-7191
-- Email: `m_hnhl_hqbn_dmo@usmc.mil`
-
-Travel Management Company (CWTSATO)
-- Phone: 866-928-1154
-- Email: `usmc.hqcto@cwtsato.com`
+- Household Goods and Official Travel: `m_hnhl_hqbn_dmo@usmc.mil`
+- Travel Management Company (CWTSATO): `usmc.hqcto@cwtsato.com`
 
 <details>
   <summary>CLICK TO EXPAND Flights</summary>
 
 <br>
 
-### The following steps explain the flight booking process.
-1. Complete your Outbound Interview (OBI) through your MOL Account
-2. Research commercial flight options including options for pets if needed and ensure that the port call paragraph is in your PCS orders.
-3. Contact your local IPAC/S-1 to submit your port call to SATO travel office to reserve your flights. If traveling with pets, ask about availability of alternative commercial flights to accommodate pet shipping.
-4. There is a difference between having reservations for your commercial flight and being ticketed for your commercial flight. Your reservation (commercial itinerary) will be forwarded to you for your flight. If everything is correct such as location, spelling of names, and birthdates, the traveler will call the Travel Management Company (SATO) to purchase tickets. Once your flight is paid for, a commercial ticket will be issued. This travel is normally paid for (with your GTCC) and ticketed within 72 hours (3 business days) prior to departure OR on a case-by-case basis at the Marine's request upon detaching from your unit if earlier ticketing is needed.
-
 ### Flight Information
 
-- Trip on May 06, 2024
+- Departure: 0700 on 06 May 2024, Flight ALASKA AIRLINES 349
 - Locator: `EQQHBP`
 - Travelers:
   - DAVID A BEARD
   - SARAH M GIRARD
   - CHLOE E BEARD
 - Confirmation: `LYQOSY`
-- Departure: Flight ALASKA AIRLINES 349
 
 ### [Itinerary](EQQHBP.pdf)
 
@@ -169,6 +154,13 @@ Travel Management Company (CWTSATO)
 | BEARD D       | 130392  | `TRF2726576332` |
 | GIRARD S      | 130392  | `TRF2726576333` |
 | BEARD C       | 130392  | `TRF2726576334` |
+
+
+### Pets in Cabin - Alaska Airlines
+
+The pet counts against 1 carry-on allowance and there is a $100 fee for travel. All pet details and the airline requirements are available on [AlaskaAir.com](https://www.alaskaair.com/content/travel-info/policies/pets-traveling-with-pets/pets-in-cabin)
+
+###  Baggage Fee Waivers for Active-Duty Military Customers
 
 Active-duty military customers are eligible for an exception regarding baggage fees. They are not required to pay for additional luggage pieces, contingent upon presenting a current, valid military identification at the time of check-in.
 
