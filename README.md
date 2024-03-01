@@ -210,9 +210,11 @@ Paperwork needs to arrive at least 10 days prior to arrival. Failure to do this 
 
 </details>
 
-# Defense Personal Property System
+# Defense Personal Property System 
 
-**WHO TO CALL FOR HELP**
+Household Goods (HHG) and Unaccompanied Baggage (UB)
+
+WHO TO CALL FOR HELP:
 - [Local Transportation Office](https://installations.militaryonesource.mil)
 - USMC Customer Service: 855-444-6683
 
