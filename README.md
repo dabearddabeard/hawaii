@@ -85,8 +85,8 @@
 
 # Temporary Lodging Facility
 
-- TLE (Temporary Lodging Expense): Authorized 5 days CONUS if PCSing OCONUS
-- TLA (Temporary Lodging Allowance): Authorized OCONUS 15 days at a time, except when more than one TLA rate applies within the computation period. If the final lodging period is greater than 15 days, but less than 30 days, it may be processed as a single payment (DODFMR, Vol 7a. Ch68)
+- Lodging Receipts: You must provide itemized lodging receipts for the duration of your stay to receive TLE reimbursement.
+- Extended TLE: Hawaii is a location with approved TLE extensions, TLE can be authorized up to 60 days.
 
 <details>
   <summary>CLICK TO EXPAND Inn Info</summary>
@@ -100,6 +100,7 @@
 - PCS Priority Facility
 - Reate per Day: $150
 - Dates: Mon 06 May 2024 - Wed 05 Jun 2024
+- Duration: 30 days
 - Arrive: After 1600
 - Room Title: 2 Queen Beds Pet Friendly (Sleeps 4)
 - Room Details: Relax in our oversized Pet Friendly Standard Room with two Queen beds, a dining area and a wet bar area that includes refrigerator, microwave, coffee maker, silverware, dishes and glasses. Additional fee for pets. Please see Pet Policy and Terms and Conditions for fees and restrictions.
