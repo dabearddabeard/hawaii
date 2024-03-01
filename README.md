@@ -1,14 +1,3 @@
-Copy/Paste:
-```
-v/r,
-  David A. Beard
-  Major (Maj), USMC
-  <david.beard741@gmail.com>
-  <david.a.beard@usmc.mil>
-  mobile: +1-540-273-5009
-```
-
-
 # Checklists
 > :white_square_button: CDC Preregistration Forms <br>
 
@@ -42,7 +31,11 @@ v/r,
 > :white_square_button: Mail  documents to the Hawaii Animal Quarantine office.<br>
 
 ### Temporary Lodging Facility (TLF)
-> :white_square_button:  Booked pet friendly accommodations at [The Inns of the Corps](https://lodgingreservations.usmc-mccs.org/obookings3/Search/Index/13508/90/) <br>
+> :ballot_box_with_check: Booked accommodations at [The Inns of the Corps](https://lodgingreservations.usmc-mccs.org/obookings3/Search/Index/13508/90/) <br>
+
+### Flight
+> :ballot_box_with_check: Ticketd Flights <br>
+> :white_square_button: contact the airline with the lap child information prior to your departure date. <br>
 
 # Check-Out
 
@@ -163,10 +156,19 @@ Travel Management Company (CWTSATO)
   - DAVID A BEARD
   - SARAH M GIRARD
   - CHLOE E BEARD
-- Confirmation: `3432IG`
-- ORDERS ARE REQUIRED TO ISSUE AIRLINE TICKETS
-  - EMAIL TO `USMC.HQCTO@CWTSATO.COM`
-  - CWTSATOTRAVEL WILL NOT ISSUE AIRLINES TICKETS WITHOUT A COPY OF ORDERS.
+- Confirmation: `LYQOSY`
+- Departure: Flight ALASKA AIRLINES 349
+
+### [Itinerary](/EQQHBP.pdf)
+
+| Name          | Invoice | Ticket        |
+|---------------|---------|---------------|
+| BEARD DAVID A | 130392  | `0278090197655` |
+| GIRARD SARAH M| 130392  | `0278090197656` |
+| BEARD CHLOE E | 130392  | `0278090197657` |
+| BEARD D       | 130392  | `TRF2726576332` |
+| GIRARD S      | 130392  | `TRF2726576333` |
+| BEARD C       | 130392  | `TRF2726576334` |
 
 Active-duty military customers are eligible for an exception regarding baggage fees. They are not required to pay for additional luggage pieces, contingent upon presenting a current, valid military identification at the time of check-in.
 
@@ -845,3 +847,15 @@ Based on the provided information and calculations, the home loan amount, consid
 <br>
 
 </details>
+
+
+# Copy/Paste:
+
+```
+v/r,
+  David A. Beard
+  Major (Maj), USMC
+  <david.beard741@gmail.com>
+  <david.a.beard@usmc.mil>
+  mobile: +1-540-273-5009
+```
