@@ -30,7 +30,7 @@
 > :white_square_button: Vet <br>
 > :white_square_button: Mail  documents to the Hawaii Animal Quarantine office.<br>
 
-### Temporary Lodging Facility (TLF)
+### [Temporary Lodging Facility](#Temporary-Lodging-Facility)
 > :ballot_box_with_check: Booked accommodations at [The Inns of the Corps](https://lodgingguestportal.usmc-mccs.org/Login?clientId=13508) <br>
 
 ### Flight
@@ -89,7 +89,7 @@
 
 </details>
 
-# Temporary Lodging Facility (TLF)
+# Temporary Lodging Facility
 
 - TLE (Temporary Lodging Expense): Authorized 5 days CONUS if PCSing OCONUS
 - TLA (Temporary Lodging Allowance): Authorized OCONUS 15 days at a time, except when more than one TLA rate applies within the computation period. If the final lodging period is greater than 15 days, but less than 30 days, it may be processed as a single payment (DODFMR, Vol 7a. Ch68)
