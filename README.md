@@ -159,7 +159,7 @@ Travel Management Company (CWTSATO)
 - Confirmation: `LYQOSY`
 - Departure: Flight ALASKA AIRLINES 349
 
-### [Itinerary](/EQQHBP.pdf)
+### [Itinerary](EQQHBP.pdf)
 
 | Name          | Invoice | Ticket        |
 |---------------|---------|---------------|
