@@ -35,7 +35,7 @@
 
 ### Debriefs
 <details>
-  <summary>**CLICK TO EXPAND Details**</summary>
+  <summary>CLICK TO EXPAND **Details**</summary>
 
 <br>
 
