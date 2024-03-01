@@ -98,7 +98,7 @@
 - Email" `LodgingReservations.Hawaii@usmc-mccs.org`
 - Phone: 808-254-2806
 - PCS Priority Facility
-- Reate per Day: $150
+- PCS Rate per Day: $150
 - Dates: Mon 06 May 2024 - Wed 05 Jun 2024
 - Duration: 30 days
 - Arrive: After 1600
