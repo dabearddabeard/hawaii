@@ -1,33 +1,33 @@
 # Checklists
 
-### [HHG and UB](#Defense-Personal-Property-System)
+### [HHG and UB](#defense-personal-property-system)
 > :ballot_box_with_check: [DPS](https://www.militaryonesource.mil/moving-pcs/moving-personal-property/) <br>
 > :ballot_box_with_check: HHG and UB shipment has been submitted to the booking office `800-521-9959`. Local Transportation Office at FORT MEADE, `301-677-9639`. <br>
 > :ballot_box_with_check: Received an email indicating the TSP is Trish `Trish@avlgroup.com` <br>
 > :white_square_button: Pack/Pick-Up Date is 29 April 2024. <br>
 
-### [POV](#POV)
+### [POV](#pov)
 > :ballot_box_with_check: Scheduled [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024). <br>
 > :ballot_box_with_check: Virtual Briefing <br>
 > :white_square_button: Adjust appointment date to flight. <br>
 
-### [Housing](#Military-Housing-for-Kaneohe-Bay-Hawaii-Marine-Corps-Base)
+### [Housing](#military-housing-for-kaneohe-bay-hawaii-marine-corps-base)
 > :ballot_box_with_check: Submitted required documents to Family Housing Department. <br>
 > :ballot_box_with_check: Submitted application in the [Hunt Community Portal](https://huntcompanies.my.site.com/). <br>
 > :white_square_button: Application with HUNT is under review. HUNT username is `david.beard741@gmail.com.hmcportal`.  <br>
 
-### [Childcare](#Childcare)
+### [Childcare](#childcare)
 > :ballot_box_with_check: Create account with [MilitaryChildcare.com](https://militarychildcare.com/), username is `david.beard741@gmail.com`. <br>
 > :white_square_button: CDC Preregistration Forms <br>
 
-### [Pet Importation](#Pet-Importation)
+### [Pet Importation](#pet-importation)
 > :white_square_button: Vet <br>
 > :white_square_button: Mail  documents to the Hawaii Animal Quarantine office.<br>
 
-### [TLF](#Temporary-Lodging-Facility)
+### [TLF](#temporary-lodging-facility)
 > :ballot_box_with_check: Booked accommodations at [The Inns of the Corps](https://lodgingguestportal.usmc-mccs.org/Login?clientId=13508) <br>
 
-### [Flights](#Flights)
+### [Flights](#flights)
 > :ballot_box_with_check: Ticketd Flights <br>
 > :white_square_button: Before the departure date, inform the airline of the lap child's details. <br>
 
