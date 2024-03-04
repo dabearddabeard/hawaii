@@ -16,7 +16,7 @@
 > :ballot_box_with_check: Submitted application in the [Hunt Community Portal](https://huntcompanies.my.site.com/). <br>
 > :white_square_button: Application with HUNT is under review. HUNT username is `david.beard741@gmail.com.hmcportal`.  <br>
 
-### [Childcare](#childcare)
+### [Hourly Childcare](#hourly-childcare)
 > :ballot_box_with_check: Create account with [MilitaryChildcare.com](https://militarychildcare.com/), username is `david.beard741@gmail.com`. <br>
 > :white_square_button: CDC Preregistration Forms <br>
 
@@ -30,6 +30,8 @@
 ### [Flights](#flights)
 > :ballot_box_with_check: Ticketd Flights <br>
 > :white_square_button: Before the departure date, inform the airline of the lap child's details. <br>
+
+<br>
 
 # Check-Out
 
@@ -50,6 +52,8 @@
 <br>
 
 </details>
+
+<br>
 
 # Command and Base Information
 
@@ -119,6 +123,8 @@
 
 </details>
 
+<br>
+
 # Flights
 
 - Household Goods and Official Travel: `m_hnhl_hqbn_dmo@usmc.mil`
@@ -169,6 +175,8 @@ A ticketed customer, including those in the military, may check a maximum of 20 
 
 </details>
 
+<br>
+
 # Pet Importation
 
 All pets entering Hawaii are subject to quarantine. However, preparing in advance and understanding the requirements can significantly reduce the waiting period. The DoD offers up to $550 in reimbursement for quarantine expenses.
@@ -211,6 +219,8 @@ Paperwork needs to arrive at least 10 days prior to arrival. Failure to do this 
 
 </details>
 
+<br>
+
 # Defense Personal Property System 
 
 Household Goods (HHG) and Unaccompanied Baggage (UB)
@@ -244,6 +254,8 @@ Unaccompanied Baggage (UB) refers to a specific portion of a member's allowable 
 <br>
 
 </details>
+
+<br>
 
 # POV
 
@@ -302,7 +314,9 @@ The government covers the cost of shipping one vehicle to Hawaii. Shipping addit
 
 </details>
 
-# Childcare
+<br>
+
+# Hourly Childcare
 
 **MCCS Child & Youth Programs | Resource and Referral Office**
 - Phone: 808-257-7430 
@@ -361,9 +375,13 @@ To register your child at the CDC, follow these steps:
 
 For more details on the full-day and hourly child care services available, visit the [Child Development Centers (CDCs) website](https://hawaii.usmc-mccs.org/marine-family-support/child-and-youth/child-development-centers?utm_source=B&utm_medium=B&utm_campaign=30).
 
+<br>
+
 # 2024 Taxes
 
 You can deduct moving expenses only if you are a Member of the Armed Forces on active duty and, due to a military order, you, your spouse, or your dependents move because of a permanent change of station. [IRS FORM 3903](https://www.irs.gov/pub/irs-pdf/f3903.pdf)
+
+<br>
 
 # On-Base Recreation
 
@@ -403,6 +421,8 @@ For fitness enthusiasts, the Main Gym is open daily from 04:00 to 22:00, equippe
 
 </details>
  
+<br>
+
 # Off-Base 
 
 <details>
@@ -487,6 +507,8 @@ For fitness enthusiasts, the Main Gym is open daily from 04:00 to 22:00, equippe
 
 </details>
 
+<br>
+
 # Inbound Process
 
 ### Guidance for Arrivals with Family
@@ -551,6 +573,8 @@ For further inquiries, please contact us at 808-257-7786, visit our Facebook pag
 <br>
 
 </details>
+
+<br>
 
 # Military Housing for Kaneohe Bay Hawaii Marine Corps Base
 
@@ -641,6 +665,7 @@ Interested in PPV Housing? ✔️ YES
 
 </details>
 
+<br>
 
 # Ohana Military Communities
 
@@ -759,6 +784,8 @@ Ohana Military Communities: [Search by Rank/Grade](https://www.ohanamarinecorpsc
 
 </details>
 
+<br>
+
 # Basic Allowance for Housing (BAH) 
 
 Should we receive a BAH, expand the information provided below.  
@@ -835,6 +862,7 @@ Based on the provided information and calculations, the home loan amount, consid
 
 </details>
 
+<br>
 
 # Copy/Paste:
 
