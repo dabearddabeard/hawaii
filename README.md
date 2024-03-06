@@ -4,7 +4,8 @@
 > :ballot_box_with_check: [DPS](https://www.militaryonesource.mil/moving-pcs/moving-personal-property/) <br>
 > :ballot_box_with_check: HHG and UB shipment has been submitted to the booking office `800-521-9959`. Local Transportation Office at FORT MEADE, `301-677-9639`. <br>
 > :ballot_box_with_check: Received an email indicating the TSP is Trish `Trish@avlgroup.com` <br>
-> :white_square_button: Pack/Pick-Up Date is 29 April 2024. <br>
+> :white_square_button: Pack Dates: Wednesday, April 24th, 2024
+> :white_square_button: Pick-Up Date: Friday, April 26th, 2024
 
 <br>
 
