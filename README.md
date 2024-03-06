@@ -240,7 +240,7 @@ Paperwork needs to arrive at least 10 days prior to arrival. Failure to do this 
 
 ## Moving Schedule for Household Goods (HHG) and Unaccompanied Baggage (UB)
 
-DeWitt Moving & Storage serves as the Transportation Service Provider (TSP), the following schedule will be adhered to:
+DeWitt Moving & Storage, is the Transportation Service Provider (TSP) who is responsible for relocating your household goods from Maryland to Hawaii:
 
 - **Pack Dates:**
   - Wednesday, April 24th, 2024
