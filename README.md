@@ -237,11 +237,26 @@ Paperwork needs to arrive at least 10 days prior to arrival. Failure to do this 
 
 # Defense Personal Property System 
 
-Household Goods (HHG) and Unaccompanied Baggage (UB)
+## Moving Schedule for Household Goods (HHG) and Unaccompanied Baggage (UB)
+
+DeWitt Moving & Storage serves as the Transportation Service Provider (TSP), the following schedule will be adhered to:
+
+- **Pack Dates:**
+  - Wednesday, April 24th, 2024
+  - Thursday, April 25th, 2024
+  
+- **Pick-Up Date:**
+  - Friday, April 26th, 2024
+
+- **Required Delivery Date (RDD):**
+  - Monday, July 22nd, 2024
+
+>RDD is a no-later-than date that the military provides based on the shipment's weight and mileage.
 
 WHO TO CALL FOR HELP:
 - [Local Transportation Office](https://installations.militaryonesource.mil)
 - USMC Customer Service: 855-444-6683
+- DeWitt Moving & Storage, Brenda Uriarte: 858-634-4695
 
 <details>
   <summary>CLICK TO EXPAND DPS Info</summary>
@@ -251,13 +266,13 @@ WHO TO CALL FOR HELP:
 ### Household Goods (HHG):
 
 - In Counseling, Submitted
-- Pack and Pickup Date: 29 April 2024
+- Pack and Pickup Date: 24 April 2024
 - Estimated Shipment Weight: 9900 lbs
 
 ### Unaccompanied Baggage (UB):
 
 - In Counseling, Submitted
-- Pack and Pickup Date: 29 April 2024
+- Pack and Pickup Date: 24 April 2024
 
 Unaccompanied Baggage (UB) refers to a specific portion of a member's allowable household goods (HHG) weight that is not included as free baggage on a ticket used for personal travel. This baggage typically consists of items transported separately from the main bulk of HHG and is often sent via an expedited method due to its necessity immediately or shortly after arrival at the destination. These items facilitate interim housekeeping while awaiting the delivery of the bulk of HHG.
 
