@@ -266,14 +266,13 @@ WHO TO CALL FOR HELP:
 
 ### Household Goods (HHG):
 
-- In Counseling, Submitted
 - Pack and Pickup Date: 24 April 2024
-- Estimated Shipment Weight: 9900 lbs
+- Estimated Shipment Weight: 9,000 lbs
 
 ### Unaccompanied Baggage (UB):
 
-- In Counseling, Submitted
 - Pack and Pickup Date: 24 April 2024
+- Estimated Shipment Weight: 1,000 lbs
 
 Unaccompanied Baggage (UB) refers to a specific portion of a member's allowable household goods (HHG) weight that is not included as free baggage on a ticket used for personal travel. This baggage typically consists of items transported separately from the main bulk of HHG and is often sent via an expedited method due to its necessity immediately or shortly after arrival at the destination. These items facilitate interim housekeeping while awaiting the delivery of the bulk of HHG.
 
