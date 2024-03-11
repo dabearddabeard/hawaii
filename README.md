@@ -45,52 +45,75 @@
 
 <br>
 
-# Event Timeline 
+# Event Timeline
 
-- 22 April, Monday:
-  - ⚙️ NSA and CYBERCOM Debriefs
-  - 🛏️ Home
-- 23 April, Tuesday:
-  - ⚙️ PLACEHOLDER
-  - 🛏️ 1600 Check-In Hotel at Arundel Preserve
-- 24 April, Wednesday:
-  - Movers Pack and Pick-Up
-  - `1100 Check-Out Hotel at Arundel Preserve`
-  - 🛏️ `Hotel at Arundel Preserve` or `Adam's House` 
-- 25 April, Thursday:
-  - Movers Pack and Pick-Up
-  - `1100 Check-Out Hotel at Arundel Preserve`
-  - 🛏️ `Hotel at Arundel Preserve` or `Adam's House` 
-- 26 April, Friday:
-  - Movers Pack and Pick-Up
-  - `1100 Check-Out Hotel at Arundel Preserve`
-  - 🛏️ `Hotel at Arundel Preserve` or `Adam's House` 
-- 27 April, Saturday:
-  - 🛏️ Adam's House
-- 28 April, Sunday:
-  - 🛏️ Adam's House
-- 29 April, Monday:
-  - ⚙️ Close Apartments's Lease
-  - 🛏️ Adam's House
-- 30 April, Tuesday:
-  - ⚙️ Close Apartments's Lease
-  - 🛏️ Adam's House
-- 01 May, Wednesday:
-  - ⚙️ Clean Vehicle.
-  - 🛏️ Adam's House
-- 02 May, Thursday:
-  - ⚙️ Vehicle Turn-In Balitmore 
-  - 🛏️ Adam's House
-- 03 May, Friday:
-  - ⚙️ Vehicle Turn-In Balitmore 
-  - ⚙️ Official Orders at CPAC
-  - Adam's House
-- 04 May, Saturday:
-  - 🛏️ Adam's House
-- 05 May, Sunday:
-  - 🛏️ 1600 Check-In Pet-Friendly Hotel near BWI
-- 06 May, Monday:
-  - 🛫 Flight Departure at 0700
+
+<details>
+  <summary>CLICK TO EXPAND Timeline</summary>
+
+<br>
+
+## April 22, Monday:
+- **Morning to Afternoon**: 
+  - NSA and CYBERCOM Debriefs.
+- **Evening**: 
+  - Return Home.
+
+## April 23, Tuesday:
+- **All Day**: 
+  - Activities TBD (PLACEHOLDER).
+- **Evening**: 
+  - Check-In at Hotel at Arundel Preserve (1600).
+
+## April 24-26, Wednesday to Friday:
+- **Daily Activities**:
+  - Movers Pack and Pick-Up.
+- **Morning**:
+  - Check-Out from Hotel at Arundel Preserve (1100).
+- **Evening Accommodations**:
+  - Option 1: Hotel at Arundel Preserve.
+  - Option 2: Adam's House.
+
+## April 27-28, Saturday to Sunday:
+- **Stay**: 
+  - Adam's House.
+
+## April 29-30, Monday to Tuesday:
+- **Task**: 
+  - Close Apartment's Lease.
+- **Stay**: 
+  - Adam's House.
+
+## May 1, Wednesday:
+- **Task**: 
+  - Clean Vehicle.
+- **Stay**: 
+  - Adam's House.
+
+## May 2-3, Thursday to Friday:
+- **May 2 (Thursday)**:
+  - Vehicle Turn-In at Baltimore.
+  - Stay at Adam's House.
+- **May 3 (Friday)**:
+  - Finalize Vehicle Turn-In at Baltimore.
+  - Obtain Official Orders at CPAC.
+  - Stay at Adam's House.
+
+## May 4, Saturday:
+- **Stay**: 
+  - Adam's House.
+
+## May 5, Sunday:
+- **Evening**: 
+  - Check-In at Pet-Friendly Hotel near BWI (1600).
+
+## May 6, Monday:
+- **Morning**:
+  - Flight Departure (0700).
+
+<br>
+
+</details>
 
 <br>
 
