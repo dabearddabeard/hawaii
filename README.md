@@ -95,7 +95,7 @@
   - Vehicle Turn-In at Baltimore.
   - Stay at Adam's House.
 - **May 3 (Friday)**:
-  - Finalize Vehicle Turn-In at Baltimore.
+  - Vehicle Turn-In at Baltimore.
   - Obtain Official Orders at CPAC.
   - Stay at Adam's House.
 
