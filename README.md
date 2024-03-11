@@ -10,9 +10,8 @@
 <br>
 
 [POV](#pov)
-> :ballot_box_with_check: Scheduled [FASTPASS appointment](https://www.pcsmypov.com/appointment/412526737906032024). <br>
-> :ballot_box_with_check: Virtual Briefing <br>
-> :white_square_button: Adjust appointment date to flight. <br>
+> :ballot_box_with_check: Scheduled [FASTPASS Appointment URL](https://www.pcsmypov.com/appointment/412526737906032024). <br>
+> :white_square_button: FASTPASS appointment: 0800 on 03 May, Confirmation Number `412526737906032024`<br>
 
 <br>
 
