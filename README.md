@@ -57,7 +57,7 @@
 - **Morning to Afternoon**: 
   - NSA and CYBERCOM Debriefs.
 - **Evening**: 
-  - Return Home.
+  - Return Home (Apt 304).
 
 ## April 23, Tuesday:
 - **All Day**: 
