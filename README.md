@@ -149,11 +149,12 @@
 - **Command**: 3rd Marine Littoral Regiment, 3rd Marine Division, Kaneohe Bay, HI [130]
 - **Future MCC**:	130
 - **Base**: Kaneohe Bay Hawaii Marine Corps Base (MCBH)
-- [Base Map](https
-- [Base](https
-- [Base](https
-- [Base](https
-- [Base](https
+- READINESS Files
+  - [Base Map](https://github.com/dabearddabeard/hawaii/blob/main/files/2021-base-map.pdf)
+  - [Emergency Prepardness](https://github.com/dabearddabeard/hawaii/blob/main/files/Disaster-and-Emergency-Prep-2023.pdf)
+  - [MCCS Brochure](https://github.com/dabearddabeard/hawaii/blob/main/files/MCCS-Hawaii-Marine-and-Family-Brochure.pdf)
+  - [MLR Checklist](https://github.com/dabearddabeard/hawaii/blob/main/files/MLR-Checklist-2024.pdf)
+  - [Welcome Aboard Packet](https://github.com/dabearddabeard/hawaii/blob/main/files/Welcome-Aboard-Packet-2023.pdf)
 - **Estimated Detach Date**: 20240515
 - **Report No Later Than Date**: 20240630
 
