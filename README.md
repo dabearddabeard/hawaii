@@ -45,6 +45,55 @@
 
 <br>
 
+# Event Timeline 
+
+- 22 April, Monday:
+  - ⚙️ NSA and CYBERCOM Debriefs
+  - 🛏️ Home
+- 23 April, Tuesday:
+  - ⚙️ PLACEHOLDER
+  - 🛏️ 1600 Check-In Hotel at Arundel Preserve
+- 24 April, Wednesday:
+  - Movers Pack and Pick-Up
+  - `1100 Check-Out Hotel at Arundel Preserve`
+  - 🛏️ `Hotel at Arundel Preserve` or `Adam's House` 
+- 25 April, Thursday:
+  - Movers Pack and Pick-Up
+  - `1100 Check-Out Hotel at Arundel Preserve`
+  - 🛏️ `Hotel at Arundel Preserve` or `Adam's House` 
+- 26 April, Friday:
+  - Movers Pack and Pick-Up
+  - `1100 Check-Out Hotel at Arundel Preserve`
+  - 🛏️ `Hotel at Arundel Preserve` or `Adam's House` 
+- 27 April, Saturday:
+  - 🛏️ Adam's House
+- 28 April, Sunday:
+  - 🛏️ Adam's House
+- 29 April, Monday:
+  - ⚙️ Close Apartments's Lease
+  - 🛏️ Adam's House
+- 30 April, Tuesday:
+  - ⚙️ Close Apartments's Lease
+  - 🛏️ Adam's House
+- 01 May, Wednesday:
+  - ⚙️ Clean Vehicle.
+  - 🛏️ Adam's House
+- 02 May, Thursday:
+  - ⚙️ Vehicle Turn-In Balitmore 
+  - 🛏️ Adam's House
+- 03 May, Friday:
+  - ⚙️ Vehicle Turn-In Balitmore 
+  - ⚙️ Official Orders at CPAC
+  - Adam's House
+- 04 May, Saturday:
+  - 🛏️ Adam's House
+- 05 May, Sunday:
+  - 🛏️ 1600 Check-In Pet-Friendly Hotel near BWI
+- 06 May, Monday:
+  - 🛫 Flight Departure at 0700
+
+<br>
+
 # Check-Out
 
 ### Debriefs
