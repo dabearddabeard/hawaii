@@ -254,6 +254,8 @@
 
 The pet counts against 1 carry-on allowance and there is a $100 fee for travel. All pet details and the airline requirements are available on [AlaskaAir.com](https://www.alaskaair.com/content/travel-info/policies/pets-traveling-with-pets/pets-in-cabin)
 
+For your pet to fit comfortably in a carrier under the seat on Alaska Airlines, the carrier sizes allowed are as follows: for hard-sided carriers, the maximum dimensions are 17" x 11" x 7.5", and for soft-sided carriers, the maximum dimensions are 17" x 11" x 9.5". The carrier must be leak-proof, escape-proof, have adequate ventilation, and not have any tears, cracks, or breaks. It should also be lined with an absorbent material. These requirements ensure your pet's comfort and safety during the flight [oai_citation:1,Pets in Cabin - Alaska Airlines](https://www.alaskaair.com/content/travel-info/policies/pets-traveling-with-pets/pets-in-cabin).
+
 ###  Baggage Fee Waivers for Active-Duty Military Customers
 
 Active-duty military customers are eligible for an exception regarding baggage fees. They are not required to pay for additional luggage pieces, contingent upon presenting a current, valid military identification at the time of check-in.
