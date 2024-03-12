@@ -41,6 +41,7 @@
 
 [Flights](#flights)
 > :ballot_box_with_check: Ticketd Flights <br>
+> :ballot_box_with_check: [Rules for pets in the cabin](https://www.alaskaair.com/content/travel-info/policies/pets-traveling-with-pets/pets-in-cabin)<br>
 > :white_square_button: Before the departure date, inform the airline of the lap child's details. <br>
 
 <br>
