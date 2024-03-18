@@ -23,7 +23,7 @@
 <br>
 
 [Hourly Childcare](#hourly-childcare)
-> :ballot_box_with_check: Create account with [MilitaryChildcare.com](https://militarychildcare.com/), username is `david.beard741@gmail.com`. <br>
+> :ballot_box_with_check: Create account with [MilitaryChildcare.com](https://militarychildcare.com/), username is `david.beard741@gmail.com` and password is `69 BULL 69`. <br>
 > :white_square_button: CDC Preregistration Forms <br>
 
 <br>
