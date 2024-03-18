@@ -25,7 +25,7 @@
 [Hourly Childcare](#hourly-childcare)
 > :ballot_box_with_check: Created account with [MilitaryChildcare.com](https://militarychildcare.com/), username is `david.beard741@gmail.com` and password is `69 BULL 69`. <br>
 > :ballot_box_with_check: CDC Preregistration Forms <br>
-> :white_square_button: Submit CDC Preregistration Forms <br>
+> :white_square_button: Submit CDC Preregistration Forms. Call `808-257-7430`, Resource & Referral to ask where/who to submit the completed forms to.<br>
 
 <br>
 
