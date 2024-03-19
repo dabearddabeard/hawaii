@@ -30,8 +30,13 @@
 <br>
 
 [Pet Importation](#pet-importation)
-> :white_square_button: Vet <br>
-> :white_square_button: Mail  documents to the Hawaii Animal Quarantine office.<br>
+> :white_square_button: Two rabies certificates <br>
+> :white_square_button: New microchip <br>
+> :white_square_button: Registration forms with attachments to Michael D. Heis `fortmeadevtf@gmail.com`<br>
+> :white_square_button: Rabies Antibody Titer (FAVN Blood Test) <br>
+> :white_square_button: Post office for money order, $185<br>
+> :white_square_button: USDA Accredited Veterinarian Examination<br>
+> :white_square_button: Mail documents to the Hawaii Animal Quarantine office.<br>
 
 <br>
 
