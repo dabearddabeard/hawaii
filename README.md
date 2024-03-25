@@ -25,14 +25,12 @@
 [Hourly Childcare](#hourly-childcare)
 > :ballot_box_with_check: Created account with [MilitaryChildcare.com](https://militarychildcare.com/), username is `david.beard741@gmail.com` and password is `69 BULL 69`. <br>
 > :ballot_box_with_check: CDC Preregistration Forms <br>
-> :white_square_button: Submit CDC Preregistration Forms. Call `808-257-7430`, Resource & Referral to ask where/who to submit the completed forms to.<br>
+> :white_square_button: Submit remaining CDC Preregistration Forms to Beverly Ching, Child & Youth Programs, Resource & Referral Counselor, Phone `808-257-7430`, email `Beverly.Ching@usmc-mccs.org`<br>
 
 <br>
 
 [Pet Importation](#pet-importation)
-> :white_square_button: Two rabies certificates <br>
-> :white_square_button: New microchip <br>
-> :white_square_button: Registration forms with attachments to Michael D. Heis `fortmeadevtf@gmail.com`<br>
+> :ballot_box_with_check: Registration forms with attachments to Michael D. Heise, Fort Meade, VTF, Operations Assistant, NAF, Health Certificates Overseas, phone `301-677-1300`, email `fortmeadevtf@gmail.com`<br>
 > :white_square_button: Rabies Antibody Titer (FAVN Blood Test) <br>
 > :white_square_button: USDA Accredited Veterinarian Examination<br>
 > :white_square_button: Post office for money order, $185<br>
