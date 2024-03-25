@@ -31,7 +31,7 @@
 
 [Pet Importation](#pet-importation)
 > :ballot_box_with_check: Registration forms with attachments to Michael D. Heise, Fort Meade, VTF, Operations Assistant, NAF, Health Certificates Overseas, phone `301-677-1300`, email `fortmeadevtf@gmail.com`<br>
-> :white_square_button: Rabies Antibody Titer (FAVN Blood Test) <br>
+> :white_square_button: Rabies Antibody Titer (FAVN Blood Test), 1020 on the 9th April, Address `2018 20th St, Fort Meade, MD 20755`, Phone for Michael D. Heise `301-677-1300`<br>
 > :white_square_button: USDA Accredited Veterinarian Examination<br>
 > :white_square_button: Post office for money order, $185<br>
 > :white_square_button: Mail documents to the Hawaii Animal Quarantine office.<br>
